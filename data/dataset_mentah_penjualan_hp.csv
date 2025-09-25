@@ -1,0 +1,1576 @@
+order_id,tanggal_pembelian,nama_pelanggan,kota,produk,merek,harga_satuan,jumlah,total_harga,metode_pembayaran,rating,status_pengiriman
+ORD00001,2025/02/28,"Tgk. Eli Narpati, S.IP",Gorontalo,,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00002,2025-05-16,Hendra Pratiwi,,Vivo V29,Vivo,8682500,1,8682500,Kartu Kredit,4,Dalam Pengiriman
+ORD00003,2025-06-30,"Tami Iswahyudi, S.Kom",Tual,Realme C55,Realme,6183710,1,6183710,Transfer Bank,1,Terkirim
+ORD00004,,Rafid Saputra,binjai,Vivo Y27,vivo,13747665,1,13747665,COD,3,Terkirim
+ORD00005,2025-06-28,,Bima,OPPO Reno10,OPPO,16139773,1,16139773,COD,3,Terkirim
+ORD00006,2025-04-09,T. Mariadi Hidayat,depok,Vivo Y27,vivo,13747665,1,13747665,E-Wallet,3,Terkirim
+ORD00007,2025-05-04,Talia Hardiansyah,Kendari,iPhone 14 Pro,Apple,,1,9443827,COD,4,Terkirim
+ORD00008,2025-03-31,"Clara Kuswandari, S.E.",Bitung,Galaxy S23,Samsung,5131304,1,5131304,COD,4,Terkirim
+ORD00009,2025/07/01,Dirja Saragih,Gorontalo,OPPO Reno10,,16139773,2,32279546,Kartu Kredit,4,Terkirim
+ORD00010,2025-05-14,"Drs. Bagus Kusmawati, S.I.Kom",Tebingtinggi,Galaxy A14,Samsung,15965299,2,31930598,COD,5,Terkirim
+ORD00011,2025-03-10,Nilam Marbun,palu,OPPO Reno10,oppo,16139773,2,32279546,Transfer Bank,5,Dalam Pengiriman
+ORD00012,2025-06-11,Queen Maheswara,Kediri,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,4,Terkirim
+ORD00013,04-18-2025,Ratna Utami,jayapura,OPPO A57,oppo,500000000,1,13851031,COD,5,Terkirim
+ORD00014,2025-06-07,Jayadi Pertiwi,Palembang,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,1,Terkirim
+ORD00015,,Harjaya Saragih,Batu,OPPO Reno10,OPPO,16139773,3,48419319,COD,3,Terkirim
+ORD00016,2025-06-22,Amalia Saefullah,TANGERANG SELATAN,OPPO A57,OPPO,13851031,1,13851031,,1,Terkirim
+ORD00017,,"Dipa Iswahyudi, S.H.",Bima,Galaxy A14,Samsung,15965299,3,47895897,Kartu Kredit,4,Terkirim
+ORD00018,2025/04/07,Dt. Baktiono Kurniawan,Mojokerto,Galaxy A14,Samsung,15965299,1,15965299,COD,,Terkirim
+ORD00019,2025/02/15,"Radit Susanti, S.H.",Ternate,Galaxy A14,Samsung,15965299,2,31930598,COD,3,Terkirim
+ORD00020,02-01-2025,"Uli Prayoga, S.H.",,OPPO Reno10,OPPO,16139773,1,16139773,COD,5,Terkirim
+ORD00021,2025-03-03,"Lasmanto Winarno, S.E.I",Manado,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,2,Terkirim
+ORD00022,2025/07/12,Ajiono Suryono,Bukittinggi,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,5,Terkirim
+ORD00023,2025-02-09,Uli Sinaga,Tasikmalaya,OPPO Reno10,OPPO,16139773,1,16139773,E-Wallet,3,Terkirim
+ORD00024,2025/06/09,"Irma Purwanti, M.TI.",KOTA ADMINISTRASI JAKARTA TIMUR,Poco X5,XIAOMI,9263873,2,18527746,Kartu Kredit,2,Terkirim
+ORD00025,2025/07/20,H. Galak Palastri,Jambi,Realme C55,Realme,6183710,2,,Transfer Bank,4,Terkirim
+ORD00026,2025-06-13,Kala Tampubolon,Kendari,Realme 11 Pro,Realme,1743334,2,3486668,COD,3,Terkirim
+ORD00027,2025-03-13,,Lhokseumawe,Realme 11 Pro,Realme,1743334,3,5230002,COD,3,Terkirim
+ORD00028,2025-07-20,Ikhsan Sinaga,Padang,Redmi Note 12,Xiaomi,15542345,2,31084690,E-Wallet,3,Terkirim
+ORD00029,2025-04-06,Natalia Saptono,Cimahi,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,5,Dalam Pengiriman
+ORD00030,2025-03-21,Ir. Natalia Yolanda,PADANG,Galaxy S23,SAMSUNG,5131304,1,5131304,COD,4,Terkirim
+ORD00031,03-02-2025,Lanjar Ardianto,TOMOHON,Galaxy S23,SAMSUNG,5131304,1,5131304,Transfer Bank,3,Terkirim
+ORD00032,2025-07-01,Sabrina Mustofa,tual,iPhone 13,apple,11425080,2,22850160,Transfer Bank,4,Terkirim
+ORD00033,2025-02-06,Harjo Mansur,BLITAR,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,,Gagal
+ORD00034,2025-05-22,Puput Marpaung,Mataram,Vivo Y27,Vivo,13747665,1,13747665,COD,3,Terkirim
+ORD00035,2025-03-22,Gawati Sihotang,Bukittinggi,OPPO Reno10,OPPO,16139773,3,,Transfer Bank,4,Terkirim
+ORD00036,2025-05-24,Chelsea Manullang,Cirebon,Galaxy A14,Samsung,15965299,1,15965299,E-Wallet,2,Terkirim
+ORD00037,2025-05-02,"Indra Zulkarnain, S.E.",Jambi,Poco X5,Xiaomi,9263873,2,18527746,COD,,Terkirim
+ORD00038,05-10-2025,Kezia Sitompul,Makassar,Poco X5,Xiaomi,9263873,2,18527746,COD,4,Terkirim
+ORD00039,2025-03-30,Putri Firgantoro,,Vivo Y27,Vivo,13747665,2,27495330,COD,3,Terkirim
+ORD00040,2025-04-09,"Sutan Kawaya Wulandari, S.Sos",pariaman,Redmi Note 12,xiaomi,15542345,1,15542345,E-Wallet,4,Terkirim
+ORD00041,2025-02-03,Kamidin Dabukke,Meulaboh,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD00042,2025-05-29,"Balijan Susanti, S.Pt",Medan,Poco X5,Xiaomi,9263873,2,18527746,COD,2,Terkirim
+ORD00043,2025/03/09,Teguh Usamah,Sibolga,iPhone 13,Apple,11425080,3,34275240,COD,4,Terkirim
+,2025-02-11,Queen Laksita,PAYAKUMBUH,iPhone 13,APPLE,11425080,3,34275240,E-Wallet,3,Terkirim
+ORD00045,2025-04-03,Jamalia Prayoga,SUKABUMI,iPhone 13,APPLE,99999999,1,11425080,Transfer Bank,5,Terkirim
+ORD00046,2025-02-03,"Cakrajiya Sitompul, M.Farm",Dumai,Poco X5,Xiaomi,9263873,3,27791619,Transfer Bank,4,Terkirim
+ORD00047,2025-02-01,Limar Permadi,Tangerang,iPhone 13,Apple,11425080,1,11425080,COD,5,Terkirim
+ORD00048,2025-04-18,drg. Mujur Irawan,,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,4,Terkirim
+ORD00049,05-23-2025,Puji Suwarno,madiun,iPhone 13,apple,11425080,3,34275240,Transfer Bank,1,Dalam Pengiriman
+ORD00050,07-19-2025,"Bahuwarna Purnawati, S.Farm",SIBOLGA,Realme C55,REALME,6183710,2,12367420,E-Wallet,4,Dalam Pengiriman
+,2025-06-20,Teguh Safitri,Mataram,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,5,Terkirim
+ORD00052,07-10-2025,Drs. Reksa Sinaga,BIMA,Vivo Y27,VIVO,13747665,2,27495330,E-Wallet,4,Terkirim
+ORD00053,2025-05-26,Ir. Eka Simbolon,Kupang,Redmi Note 12,Xiaomi,500000000,,46627035,E-Wallet,5,Terkirim
+ORD00054,06-23-2025,Cinta Hastuti,Blitar,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Terkirim
+ORD00055,2025/04/24,Ira Uwais,cimahi,Realme 11 Pro,realme,1743334,1,1743334,Transfer Bank,3,Terkirim
+ORD00056,2025-03-14,Lamar Wahyudin,Tanjungpinang,Redmi Note 12,Xiaomi,15542345,1,15542345,COD,3,Terkirim
+,07-12-2025,"Ir. Cager Marbun, S.Pd",TANJUNGPINANG,Realme 11 Pro,REALME,99999999,2,3486668,Transfer Bank,4,Terkirim
+ORD00058,2025/01/26,Najib Sinaga,Binjai,,OPPO,13851031,1,13851031,COD,4,Terkirim
+ORD00059,2025-04-21,Hadi Agustina,MANADO,Redmi Note 12,XIAOMI,15542345,1,15542345,Transfer Bank,5,Terkirim
+ORD00060,2025-02-28,Paulin Rahimah,CIREBON,Realme 11 Pro,REALME,1743334,3,5230002,E-Wallet,5,Terkirim
+ORD00061,07-14-2025,"Nilam Lestari, S.Psi",Pekanbaru,Vivo Y27,Vivo,13747665,2,,Transfer Bank,3,Terkirim
+ORD00062,2025-04-10,Lili Sitorus,Sabang,Vivo V29,Vivo,8682500,3,26047500,Kartu Kredit,3,Dalam Pengiriman
+ORD00063,2025-05-23,"KH. Empluk Sitompul, M.M.",Tangerang Selatan,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,5,Dalam Pengiriman
+ORD00064,2025-04-23,Emas Putra,PRABUMULIH,Poco X5,XIAOMI,9263873,2,18527746,,3,Terkirim
+ORD00065,2025-06-05,Oskar Waskita,Kota Administrasi Jakarta Timur,Poco X5,Xiaomi,9263873,2,18527746,Kartu Kredit,5,Dalam Pengiriman
+ORD00066,02-14-2025,T. Tasdik Hardiansyah,PAYAKUMBUH,Galaxy S23,SAMSUNG,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD00067,2025-04-18,Anastasia Sinaga,Cilegon,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+ORD00068,2025-01-27,"Hamima Nababan, S.Farm",BENGKULU,Realme C55,REALME,6183710,3,18551130,Kartu Kredit,2,Terkirim
+,2025-02-23,Belinda Ardianto,Tomohon,Vivo V29,Vivo,8682500,3,26047500,Transfer Bank,4,Terkirim
+ORD00070,2025-04-15,"Jati Maulana, S.H.",Cilegon,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,4,Terkirim
+ORD00071,2025/04/24,,KOTA ADMINISTRASI JAKARTA PUSAT,Vivo V29,VIVO,8682500,2,17365000,Transfer Bank,4,Terkirim
+ORD00072,2025-05-06,"Puti Suartini, S.Pd",Batam,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,3,Terkirim
+ORD00073,2025/04/11,Rina Budiyanto,Mataram,Vivo V29,Vivo,8682500,1,8682500,Transfer Bank,4,Terkirim
+,2025/02/13,Mustofa Pratiwi,Solok,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,5,Terkirim
+ORD00075,2025-06-29,"Estiono Simanjuntak, S.Pt",Bitung,Redmi Note 12,Xiaomi,500000000,3,46627035,Transfer Bank,3,Terkirim
+ORD00076,05-07-2025,drg. Cornelia Siregar,Semarang,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,2,Terkirim
+ORD00077,2025-02-01,Jarwadi Tamba,BEKASI,Redmi Note 12,XIAOMI,15542345,2,31084690,Kartu Kredit,1,Terkirim
+ORD00078,2025-02-01,Pia Saefullah,Tegal,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,4,Dalam Pengiriman
+ORD00079,2025/02/21,Utama Damanik,BENGKULU,Realme C55,REALME,6183710,1,6183710,COD,4,Terkirim
+ORD00080,,Olivia Wibisono,Bau-Bau,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00081,05-26-2025,"Ir. Timbul Kurniawan, M.Pd",Madiun,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,3,Terkirim
+ORD00082,05-15-2025,"Balamantri Haryanto, S.Farm",PALU,Vivo V29,VIVO,8682500,2,17365000,Kartu Kredit,3,Terkirim
+ORD00083,2025/06/08,Eja Setiawan,Bima,Realme 11 Pro,Realme,1743334,3,5230002,E-Wallet,4,Terkirim
+ORD00084,2025/06/06,Maimunah Marpaung,gorontalo,OPPO Reno10,oppo,1,3,48419319,Transfer Bank,4,Terkirim
+ORD00085,2025-07-02,Lanang Nuraini,Tebingtinggi,Vivo V29,Vivo,8682500,1,8682500,Transfer Bank,5,Terkirim
+ORD00086,2025/01/28,Kariman Haryanti,Pangkalpinang,OPPO Reno10,OPPO,16139773,,16139773,COD,2,Terkirim
+ORD00087,,Wardaya Mangunsong,tanjungpinang,Poco X5,xiaomi,9263873,2,18527746,E-Wallet,4,Gagal
+ORD00088,02-07-2025,"Laila Nainggolan, S.Kom",Ambon,Galaxy A14,Samsung,15965299,2,31930598,Transfer Bank,4,Terkirim
+ORD00089,,Ir. Lanang Yuliarti,parepare,Galaxy S23,samsung,5131304,3,15393912,Transfer Bank,4,Terkirim
+ORD00090,2025-06-01,Puspa Nasyidah,Pariaman,Galaxy S23,Samsung,5131304,3,,E-Wallet,4,Terkirim
+ORD00091,2025-04-05,Salsabila Puspita,Tarakan,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,4,
+ORD00092,05-07-2025,"Dalima Wibowo, S.IP",Cimahi,OPPO Reno10,OPPO,16139773,3,48419319,COD,5,Terkirim
+ORD00093,2025-06-13,,Tangerang Selatan,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,2,Terkirim
+ORD00094,,"Dartono Agustina, S.Pt",Lhokseumawe,Poco X5,Xiaomi,9263873,2,18527746,COD,2,Dalam Pengiriman
+ORD00095,06-25-2025,Daruna Habibi,Purwokerto,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,4,Terkirim
+ORD00096,2025-03-04,"R. Icha Irawan, M.Farm",Batu,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,4,Terkirim
+ORD00097,2025-07-07,Kasiyah Winarsih,sabang,Vivo Y27,vivo,13747665,3,41242995,E-Wallet,3,Terkirim
+ORD00098,2025-01-29,Paramita Manullang,Lubuklinggau,Galaxy S23,Samsung,5131304,2,10262608,COD,2,Terkirim
+ORD00099,2025-06-22,"R.M. Irwan Nashiruddin, M.Ak",Serang,iPhone 13,Apple,99999999,1,11425080,COD,2,Terkirim
+ORD00100,2025-04-05,"Bahuwirya Wibisono, S.Sos",PADANGPANJANG,Poco X5,XIAOMI,9263873,1,9263873,E-Wallet,5,Dalam Pengiriman
+ORD00101,2025-07-13,Ajeng Sitompul,,Vivo V29,vivo,8682500,3,26047500,E-Wallet,3,Terkirim
+ORD00102,01-31-2025,Himawan Agustina,METRO,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,3,Terkirim
+ORD00103,02-16-2025,Danu Firmansyah,Pagaralam,iPhone 14 Pro,Apple,9443827,1,9443827,Kartu Kredit,3,Terkirim
+ORD00104,2025/05/01,"Ir. Adinata Permadi, S.T.",Tidore Kepulauan,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,3,Terkirim
+ORD00105,05-31-2025,T. Hartaka Nasyiah,Bengkulu,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,2,Terkirim
+ORD00106,2025/04/28,Cut Pia Rahayu,Makassar,Galaxy S23,,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD00107,2025-02-05,"Hj. Ami Firmansyah, S.E.I",Denpasar,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,2,Terkirim
+ORD00108,06-11-2025,"Harjasa Permata, S.Pt",BANJARMASIN,Vivo Y27,VIVO,13747665,3,41242995,Transfer Bank,5,Terkirim
+ORD00109,07-25-2025,Prayoga Manullang,,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,3,Terkirim
+,2025-01-30,H. Kenzie Siregar,tarakan,Galaxy S23,samsung,5131304,1,5131304,Kartu Kredit,4,Terkirim
+ORD00111,2025/02/15,Usman Waskita,Mojokerto,iPhone 14 Pro,Apple,9443827,,9443827,E-Wallet,5,Terkirim
+ORD00112,02-16-2025,,SINGKAWANG,iPhone 13,APPLE,11425080,3,34275240,Kartu Kredit,4,Dalam Pengiriman
+ORD00113,2025-07-15,"Drs. Anastasia Lestari, M.M.",Kota Administrasi Jakarta Timur,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,4,Terkirim
+ORD00114,2025-06-26,Tgk. Violet Andriani,bandung,OPPO Reno10,oppo,16139773,3,48419319,Transfer Bank,3,Terkirim
+ORD00115,2025/06/26,"Kania Haryanto, S.E.",Kota Administrasi Jakarta Timur,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,3,Terkirim
+ORD00116,01-26-2025,Dewi Nugroho,METRO,,OPPO,16139773,1,16139773,Kartu Kredit,4,Terkirim
+ORD00117,2025/02/23,"Hj. Ulva Rahayu, S.Psi",,Vivo Y27,Vivo,13747665,1,13747665,Kartu Kredit,5,Terkirim
+ORD00118,2025/05/26,Drs. Violet Utama,Kupang,iPhone 14 Pro,Apple,9443827,3,28331481,Kartu Kredit,4,Terkirim
+ORD00119,2025-06-01,Karna Lestari,,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,4,Terkirim
+ORD00120,04-29-2025,Gasti Wastuti,Payakumbuh,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,4,Gagal
+ORD00121,04-25-2025,"dr. Latika Januar, S.Gz",Pariaman,Realme C55,Realme,1,1,6183710,COD,4,Terkirim
+ORD00122,2025-06-03,,Cilegon,Poco X5,Xiaomi,99999999,1,9263873,COD,2,Terkirim
+ORD00123,2025-04-29,Saiful Wacana,Bandung,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,,Terkirim
+ORD00124,2025-07-02,R. Teddy Firmansyah,PADANGPANJANG,Galaxy A14,SAMSUNG,15965299,1,15965299,Transfer Bank,5,Terkirim
+ORD00125,2025-05-19,R.M. Kamal Budiman,PEMATANGSIANTAR,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,3,Terkirim
+ORD00126,2025-04-15,Bagus Nashiruddin,Ambon,Realme 11 Pro,Realme,1743334,,1743334,COD,4,Terkirim
+ORD00127,2025-02-25,Oni Anggriawan,parepare,Realme C55,realme,6183710,1,6183710,Kartu Kredit,3,Dalam Pengiriman
+ORD00128,2025/06/04,Dinda Haryanto,Bima,Realme 11 Pro,Realme,1743334,3,5230002,COD,4,Terkirim
+ORD00129,2025-03-27,Makuta Sitompul,BINJAI,OPPO A57,,500000000,2,27702062,E-Wallet,2,Terkirim
+ORD00130,2025/04/05,H. Jagaraga Siregar,pangkalpinang,Vivo Y27,vivo,13747665,3,41242995,E-Wallet,,Terkirim
+ORD00131,2025/03/07,"Nardi Natsir, M.Kom.",Banjarbaru,Realme C55,Realme,,2,12367420,E-Wallet,5,Gagal
+ORD00132,2025-03-22,Hasna Pratama,Kendari,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,3,Gagal
+ORD00133,2025-06-30,Dalima Hidayat,Surabaya,Poco X5,,9263873,1,9263873,COD,4,Gagal
+ORD00134,07-04-2025,Yusuf Andriani,Tegal,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,,Terkirim
+ORD00135,2025-04-11,"Vino Santoso, S.Psi",Kota Administrasi Jakarta Barat,Redmi Note 12,Xiaomi,15542345,3,46627035,E-Wallet,5,Terkirim
+ORD00136,2025-04-14,"Harsaya Yulianti, S.IP",langsa,OPPO A57,oppo,13851031,2,27702062,COD,3,Terkirim
+ORD00137,,Bella Anggriawan,kendari,Realme C55,realme,6183710,2,12367420,COD,3,Terkirim
+ORD00138,2025/03/09,Zamira Setiawan,Tanjungpinang,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,3,Terkirim
+ORD00139,2025-03-29,Ir. Anita Firgantoro,denpasar,iPhone 14 Pro,apple,9443827,,28331481,Kartu Kredit,5,Terkirim
+,2025-05-11,Jayeng Maulana,kota administrasi jakarta utara,OPPO Reno10,oppo,16139773,1,16139773,E-Wallet,5,Terkirim
+ORD00141,07-02-2025,"Dalima Zulkarnain, S.I.Kom",ternate,Galaxy A14,samsung,15965299,1,15965299,COD,4,Terkirim
+ORD00142,2025-04-18,Gilang Nugroho,SUBULUSSALAM,iPhone 13,APPLE,11425080,2,22850160,E-Wallet,5,Terkirim
+ORD00143,03-12-2025,Omar Nasyiah,Jayapura,,Samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00144,2025-03-18,Dina Rahmawati,Magelang,,Realme,1743334,1,1743334,Transfer Bank,4,Terkirim
+ORD00145,2025-06-13,Restu Budiyanto,Kota Administrasi Jakarta Pusat,Vivo Y27,Vivo,13747665,2,27495330,COD,2,Terkirim
+ORD00146,2025-05-09,"Sabrina Susanti, S.I.Kom",Mataram,Vivo Y27,Vivo,13747665,3,41242995,Transfer Bank,5,Terkirim
+ORD00147,2025-06-13,"Zulaikha Lestari, S.I.Kom",Palu,Realme C55,Realme,6183710,1,6183710,COD,2,Terkirim
+ORD00148,,Karsa Hariyah,pematangsiantar,Realme C55,realme,6183710,2,12367420,COD,5,Terkirim
+ORD00149,2025-07-05,Irfan Lailasari,Pontianak,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,5,Terkirim
+ORD00150,2025-06-13,Saadat Sitompul,Binjai,,OPPO,16139773,1,16139773,COD,4,Terkirim
+ORD00151,2025/02/13,Lintang Hidayat,Sungai Penuh,OPPO Reno10,OPPO,16139773,2,32279546,COD,1,Terkirim
+ORD00152,2025-01-26,"Ir. Harsaya Adriansyah, M.Ak",Bitung,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,3,Terkirim
+ORD00153,2025-05-07,Sutan Carub Mayasari,Mojokerto,Vivo V29,Vivo,8682500,2,17365000,COD,3,Dalam Pengiriman
+ORD00154,2025-05-07,"drg. Usyi Uyainah, M.Farm",Sibolga,Vivo Y27,Vivo,13747665,1,,COD,3,Terkirim
+ORD00155,2025-02-18,"Suci Padmasari, S.I.Kom",Pagaralam,Realme C55,Realme,6183710,3,18551130,E-Wallet,2,Terkirim
+ORD00156,2025-05-17,Clara Natsir,padangpanjang,Redmi Note 12,xiaomi,15542345,2,31084690,Transfer Bank,5,Terkirim
+ORD00157,2025-05-18,Jamalia Suartini,bekasi,iPhone 13,apple,11425080,2,,Transfer Bank,4,Terkirim
+ORD00158,2025/01/26,Vivi Irawan,Banjarbaru,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,3,Terkirim
+ORD00159,04-23-2025,Nova Laksita,mojokerto,Poco X5,xiaomi,9263873,2,18527746,COD,3,Terkirim
+ORD00160,04-29-2025,Yuni Santoso,Binjai,,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00161,2025-02-14,"Drs. Maya Mangunsong, M.Kom.",Bima,Galaxy S23,Samsung,5131304,3,15393912,Transfer Bank,4,Terkirim
+ORD00162,2025/01/28,Kani Mulyani,Blitar,Poco X5,Xiaomi,,1,9263873,Transfer Bank,4,Terkirim
+ORD00163,2025/06/01,Kenzie Nainggolan,Binjai,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,5,Terkirim
+,2025-05-29,Prabawa Nasyidah,TIDORE KEPULAUAN,Realme C55,REALME,1,2,12367420,Transfer Bank,4,Terkirim
+ORD00165,2025-03-24,"Carla Palastri, M.Kom.",Bau-Bau,Galaxy A14,Samsung,15965299,2,31930598,COD,,Terkirim
+ORD00166,2025-06-02,"Warta Firgantoro, S.Kom",Tanjungpinang,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,5,Terkirim
+ORD00167,2025-03-06,Drajat Purwanti,Sungai Penuh,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,3,Terkirim
+ORD00168,07-07-2025,"Dt. Lurhur Gunarto, S.H.",Meulaboh,OPPO A57,OPPO,13851031,2,,Transfer Bank,5,Terkirim
+ORD00169,2025-05-09,Edison Januar,PEKALONGAN,Realme C55,REALME,6183710,1,6183710,COD,2,Terkirim
+ORD00170,04-26-2025,"Uli Marbun, M.TI.",Bontang,Galaxy S23,Samsung,5131304,3,15393912,Transfer Bank,5,Terkirim
+ORD00171,2025-07-15,Chelsea Mandasari,tangerang selatan,Redmi Note 12,xiaomi,15542345,3,46627035,COD,3,Terkirim
+ORD00172,2025-04-28,Lukita Anggraini,blitar,OPPO Reno10,oppo,16139773,1,16139773,E-Wallet,5,Terkirim
+ORD00173,2025/05/14,R. Paiman Saefullah,Bandar Lampung,Vivo V29,Vivo,8682500,,17365000,Transfer Bank,5,Terkirim
+ORD00174,2025-01-30,Alambana Prasetya,Sawahlunto,Vivo Y27,Vivo,,2,27495330,COD,5,Terkirim
+ORD00175,2025-02-23,Sutan Adhiarja Namaga,samarinda,Galaxy S23,samsung,,3,15393912,E-Wallet,5,Terkirim
+ORD00176,2025-05-13,"Ir. Ilsa Hartati, S.T.",PALEMBANG,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,3,Terkirim
+ORD00177,2025/03/10,Sabrina Sihotang,Jayapura,Realme C55,Realme,6183710,2,12367420,Transfer Bank,2,Terkirim
+ORD00178,06-02-2025,Chelsea Zulaika,Tidore Kepulauan,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,4,Terkirim
+ORD00179,2025-07-01,"Jefri Narpati, M.M.",bandung,OPPO Reno10,oppo,16139773,3,48419319,Kartu Kredit,3,Terkirim
+ORD00180,2025/04/15,"Martaka Uwais, S.Ked",palopo,iPhone 14 Pro,apple,9443827,3,28331481,Kartu Kredit,,Terkirim
+ORD00181,2025-03-25,Drs. Bagas Hardiansyah,Sawahlunto,Realme 11 Pro,Realme,1743334,2,3486668,Kartu Kredit,3,
+ORD00182,03-08-2025,,Mojokerto,Vivo V29,Vivo,8682500,2,17365000,Kartu Kredit,5,Terkirim
+ORD00183,2025-05-27,,Sawahlunto,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD00184,2025/02/05,Drs. Jati Astuti,Padang,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,5,Terkirim
+ORD00185,2025-03-29,Laksana Rajata,METRO,Realme C55,REALME,6183710,2,12367420,Transfer Bank,,Terkirim
+ORD00186,2025/06/08,Dinda Nasyidah,Ambon,Galaxy S23,Samsung,,3,15393912,Transfer Bank,5,Terkirim
+ORD00187,03-19-2025,"drg. Farah Prastuti, S.Ked",Bontang,Redmi Note 12,Xiaomi,15542345,3,46627035,Transfer Bank,5,Terkirim
+ORD00188,2025-03-30,Bahuwirya Yulianti,Malang,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD00189,2025-07-09,,lhokseumawe,Galaxy A14,samsung,15965299,1,15965299,E-Wallet,4,Terkirim
+ORD00190,2025-04-18,Hardana Saputra,Bau-Bau,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,5,Terkirim
+ORD00191,02-11-2025,"Drs. Yusuf Kusumo, M.M.",Kupang,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,3,Terkirim
+ORD00192,2025-07-10,Paiman Yuliarti,Malang,Redmi Note 12,Xiaomi,15542345,2,31084690,E-Wallet,4,Terkirim
+ORD00193,2025-02-14,Gawati Hutapea,BIMA,Galaxy A14,SAMSUNG,15965299,3,47895897,COD,3,Terkirim
+,2025-05-29,Gaiman Nainggolan,Ambon,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,2,Dalam Pengiriman
+ORD00195,01-29-2025,"Tantri Mahendra, S.Farm",Tangerang,Realme C55,Realme,6183710,2,12367420,E-Wallet,3,Dalam Pengiriman
+ORD00196,2025/06/08,Laila Utami,tidore kepulauan,Realme C55,realme,6183710,3,18551130,E-Wallet,2,Terkirim
+ORD00197,2025-04-17,Purwadi Siregar,TUAL,Vivo V29,VIVO,8682500,3,26047500,COD,1,Terkirim
+ORD00198,2025/03/21,Radit Iswahyudi,Sukabumi,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,2,Dalam Pengiriman
+ORD00199,06-03-2025,"Intan Kuswoyo, S.I.Kom",PALOPO,Redmi Note 12,XIAOMI,15542345,2,31084690,Kartu Kredit,5,Terkirim
+ORD00200,2025/06/30,Salsabila Susanti,pekanbaru,Galaxy S23,samsung,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD00201,2025-04-11,dr. Raisa Santoso,Batam,Realme C55,Realme,6183710,3,18551130,E-Wallet,5,Dalam Pengiriman
+ORD00202,07-25-2025,Genta Maryadi,,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00203,2025-06-26,"Taufik Nurdiyanti, S.Psi",Malang,Redmi Note 12,Xiaomi,15542345,2,31084690,COD,3,Dalam Pengiriman
+ORD00204,2025-01-31,,JAMBI,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,4,Terkirim
+ORD00205,05-16-2025,"Sutan Manah Permata, M.Kom.",Kendari,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Terkirim
+ORD00206,2025-07-08,Puti Anastasia Dongoran,,iPhone 14 Pro,Apple,9443827,2,18887654,Kartu Kredit,2,Dalam Pengiriman
+ORD00207,2025-07-02,Ir. Intan Budiyanto,Balikpapan,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD00208,2025/02/10,Prayitna Widiastuti,Ambon,Galaxy A14,Samsung,15965299,3,47895897,Kartu Kredit,,Terkirim
+ORD00209,2025-07-10,Adinata Hutapea,SUNGAI PENUH,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD00210,2025-04-11,"Pia Hutapea, M.M.",tomohon,OPPO A57,oppo,13851031,1,13851031,Transfer Bank,,Terkirim
+ORD00211,2025-04-06,KH. Wardi Winarno,pekalongan,OPPO A57,oppo,13851031,3,41553093,COD,3,Terkirim
+ORD00212,05-29-2025,Rudi Gunawan,Cimahi,Galaxy S23,Samsung,5131304,3,15393912,Kartu Kredit,2,Dalam Pengiriman
+ORD00213,2025-06-27,"Ibrahim Prasetya, S.E.",Yogyakarta,Realme C55,Realme,99999999,,6183710,Kartu Kredit,5,Terkirim
+ORD00214,2025/03/10,Citra Kusmawati,Pekalongan,Redmi Note 12,,15542345,2,31084690,Transfer Bank,4,Terkirim
+ORD00215,2025-06-19,Cut Oliva Firgantoro,Bontang,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,2,Dalam Pengiriman
+ORD00216,2025/06/13,"Timbul Marpaung, S.Pt",Magelang,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,5,Terkirim
+,2025-05-21,"Dewi Adriansyah, S.E.I",Palangkaraya,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,2,Terkirim
+ORD00218,2025-04-17,,Padangpanjang,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Terkirim
+ORD00219,2025-03-15,Kasiyah Lailasari,BINJAI,Poco X5,XIAOMI,9263873,3,,COD,5,Dalam Pengiriman
+ORD00220,2025-02-07,Ami Novitasari,Magelang,Galaxy S23,,5131304,1,5131304,E-Wallet,3,Terkirim
+ORD00221,2025-07-18,Taufan Situmorang,TEBINGTINGGI,Poco X5,XIAOMI,9263873,2,18527746,E-Wallet,2,Terkirim
+ORD00222,2025-03-08,Gandi Sihombing,malang,OPPO Reno10,oppo,,2,32279546,COD,2,Terkirim
+ORD00223,2025-07-09,"Ulva Suwarno, S.H.",Ambon,Galaxy A14,Samsung,15965299,3,47895897,E-Wallet,3,Terkirim
+ORD00224,04-26-2025,Mursita Megantara,Sukabumi,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,2,Terkirim
+ORD00225,2025-07-20,"Hj. Queen Yuniar, S.Psi",ternate,Redmi Note 12,xiaomi,15542345,2,31084690,COD,4,Terkirim
+ORD00226,2025-07-14,,Subulussalam,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,2,Terkirim
+ORD00227,2025/05/03,Janet Iswahyudi,Parepare,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,4,Terkirim
+ORD00228,03-07-2025,Catur Mustofa,Pekalongan,Poco X5,Xiaomi,9263873,2,18527746,COD,5,Terkirim
+ORD00229,2025/07/15,Aslijan Maryadi,Solok,Redmi Note 12,Xiaomi,15542345,1,,E-Wallet,5,Terkirim
+,2025/02/27,Capa Hassanah,Lubuklinggau,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,4,Terkirim
+ORD00231,2025-03-15,Prabowo Firgantoro,Pangkalpinang,Realme C55,Realme,6183710,2,12367420,Kartu Kredit,3,Dalam Pengiriman
+ORD00232,,Okta Kuswandari,PALU,iPhone 14 Pro,APPLE,9443827,1,9443827,Kartu Kredit,4,Dalam Pengiriman
+ORD00233,2025-05-27,"Puti Mutia Saptono, S.Kom",Batu,OPPO A57,,13851031,3,41553093,E-Wallet,4,Dalam Pengiriman
+ORD00234,2025-02-19,Ifa Tarihoran,PAYAKUMBUH,Realme 11 Pro,REALME,1743334,1,1743334,Transfer Bank,4,Dalam Pengiriman
+ORD00235,2025-05-17,Gadang Prastuti,Binjai,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,2,Terkirim
+ORD00236,2025-06-16,Wulan Halimah,Tomohon,iPhone 13,Apple,11425080,1,11425080,Kartu Kredit,5,Terkirim
+ORD00237,,"Sutan Cemeti Gunawan, S.T.",MAGELANG,Vivo V29,VIVO,8682500,1,8682500,Transfer Bank,4,Terkirim
+ORD00238,,Ir. Vivi Marpaung,BLITAR,Realme 11 Pro,REALME,1743334,3,5230002,COD,3,Terkirim
+ORD00239,2025-04-27,Mutia Nurdiyanti,Kota Administrasi Jakarta Pusat,iPhone 14 Pro,Apple,9443827,1,9443827,Kartu Kredit,3,Terkirim
+ORD00240,2025-05-25,Drs. Patricia Farida,DENPASAR,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,4,Terkirim
+ORD00241,2025-03-14,Lanang Halim,PALANGKARAYA,Realme C55,REALME,6183710,1,6183710,E-Wallet,,Gagal
+ORD00242,2025/05/28,dr. Ibrani Budiyanto,Mojokerto,Redmi Note 12,Xiaomi,15542345,3,46627035,E-Wallet,4,Terkirim
+ORD00243,2025/02/26,Cut Ade Wulandari,ternate,Realme C55,realme,6183710,1,6183710,Transfer Bank,5,Gagal
+ORD00244,,Karja Anggriawan,sibolga,iPhone 14 Pro,apple,9443827,3,28331481,COD,1,Terkirim
+ORD00245,2025-07-19,"Rini Saptono, M.Ak",PALEMBANG,Vivo V29,VIVO,8682500,3,26047500,E-Wallet,4,
+ORD00246,2025/02/13,Dinda Wulandari,Malang,Realme 11 Pro,Realme,1743334,1,1743334,Kartu Kredit,4,Gagal
+ORD00247,2025-07-23,"Maimunah Prasetyo, M.Farm",Batu,Realme C55,Realme,6183710,,18551130,Transfer Bank,1,Terkirim
+ORD00248,2025/03/05,Hartaka Safitri,PALEMBANG,Realme C55,REALME,,3,18551130,COD,3,Terkirim
+ORD00249,05-01-2025,"R.A. Vivi Saragih, S.Farm",Kota Administrasi Jakarta Pusat,Vivo Y27,,13747665,1,13747665,Transfer Bank,5,Dalam Pengiriman
+ORD00250,2025/04/21,"Tgk. Zaenab Yuniar, S.T.",Sungai Penuh,Realme 11 Pro,,1743334,2,3486668,Kartu Kredit,2,Dalam Pengiriman
+ORD00251,2025-06-30,Hasna Palastri,Tebingtinggi,Vivo V29,Vivo,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD00252,2025-02-21,Estiawan Oktaviani,Subulussalam,Redmi Note 12,Xiaomi,15542345,3,46627035,E-Wallet,3,Terkirim
+ORD00253,2025-06-12,Martani Fujiati,Bandar Lampung,Realme C55,Realme,6183710,3,18551130,COD,1,Gagal
+ORD00254,2025-06-19,Puput Kusmawati,Bandar Lampung,Vivo Y27,Vivo,13747665,1,,COD,3,Terkirim
+ORD00255,2025-04-02,Himawan Laksmiwati,sibolga,Vivo Y27,vivo,13747665,2,27495330,Kartu Kredit,5,Dalam Pengiriman
+ORD00256,05-04-2025,"drg. Olivia Ramadan, M.Ak",Solok,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,5,Terkirim
+ORD00257,2025-05-13,Tgk. Kemba Prabowo,Kupang,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,5,Terkirim
+ORD00258,2025-07-05,R.A. Puji Nashiruddin,Sibolga,iPhone 13,Apple,99999999,2,22850160,Kartu Kredit,4,Terkirim
+ORD00259,07-10-2025,Zamira Pratama,Cimahi,OPPO Reno10,OPPO,16139773,2,32279546,Kartu Kredit,2,Terkirim
+ORD00260,05-13-2025,Ira Usada,BONTANG,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,,Dalam Pengiriman
+ORD00261,2025-07-21,Tgk. Gandewa Agustina,batam,Vivo Y27,vivo,13747665,2,27495330,COD,4,Terkirim
+ORD00262,2025-07-03,"Tgk. Fitria Wacana, S.IP",PANGKALPINANG,OPPO Reno10,OPPO,16139773,2,32279546,E-Wallet,5,Terkirim
+ORD00263,2025-03-21,Tania Mardhiyah,Sibolga,OPPO A57,OPPO,13851031,3,,E-Wallet,2,Terkirim
+ORD00264,2025-07-03,Sabrina Farida,Pematangsiantar,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,4,Terkirim
+ORD00265,05-08-2025,Lala Wijaya,Kotamobagu,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,3,Terkirim
+ORD00266,2025/04/07,"Lembah Rajasa, S.Kom",bandung,Realme 11 Pro,realme,1,1,1743334,COD,3,Gagal
+ORD00267,2025/05/10,Ira Laksmiwati,sukabumi,Vivo Y27,vivo,500000000,2,27495330,COD,4,
+ORD00268,05-23-2025,Tgk. Jail Namaga,Gorontalo,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,4,Terkirim
+ORD00269,04-15-2025,Hani Permadi,Blitar,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,3,Terkirim
+ORD00270,2025-06-03,Ir. Vinsen Utama,Sorong,Redmi Note 12,Xiaomi,15542345,3,46627035,Kartu Kredit,3,Terkirim
+ORD00271,05-27-2025,Banawa Nababan,KOTA ADMINISTRASI JAKARTA SELATAN,Vivo V29,VIVO,500000000,1,8682500,COD,4,Terkirim
+ORD00272,,Cut Nilam Thamrin,KOTA ADMINISTRASI JAKARTA TIMUR,Realme C55,REALME,6183710,1,6183710,Transfer Bank,5,Terkirim
+ORD00273,2025-04-27,Nasim Utama,Tebingtinggi,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,5,Terkirim
+ORD00274,2025-03-02,Nasim Budiman,Jambi,OPPO A57,OPPO,13851031,1,13851031,COD,5,Terkirim
+ORD00275,2025-05-07,Ani Siregar,KOTA ADMINISTRASI JAKARTA PUSAT,Galaxy S23,SAMSUNG,5131304,2,10262608,,5,Terkirim
+ORD00276,2025-06-10,Lurhur Kusumo,BIMA,OPPO Reno10,OPPO,16139773,3,48419319,COD,3,Terkirim
+ORD00277,2025-06-05,Tgk. Damar Yuliarti,Tangerang,Redmi Note 12,Xiaomi,15542345,3,46627035,E-Wallet,4,Terkirim
+ORD00278,2025-07-11,Rachel Rahayu,KENDARI,Galaxy A14,SAMSUNG,15965299,3,47895897,E-Wallet,4,Terkirim
+ORD00279,2025-02-10,Zizi Pratama,Binjai,OPPO Reno10,OPPO,16139773,3,48419319,Kartu Kredit,3,Terkirim
+ORD00280,2025/07/22,,Depok,iPhone 13,Apple,11425080,1,11425080,Kartu Kredit,5,Terkirim
+ORD00281,2025-04-12,Sakti Wibisono,Singkawang,Redmi Note 12,Xiaomi,15542345,2,31084690,E-Wallet,1,Terkirim
+ORD00282,2025-05-27,"Tgk. Sakura Agustina, S.T.",Purwokerto,Vivo Y27,Vivo,13747665,3,41242995,COD,5,Terkirim
+ORD00283,2025/07/21,Hesti Wijaya,kota administrasi jakarta utara,iPhone 13,apple,11425080,1,,Kartu Kredit,4,Dalam Pengiriman
+ORD00284,02-17-2025,KH. Gadang Rajasa,Subulussalam,Galaxy S23,Samsung,5131304,1,,Kartu Kredit,4,Terkirim
+ORD00285,2025-01-29,Malik Siregar,Serang,Realme C55,Realme,6183710,2,12367420,E-Wallet,4,Gagal
+ORD00286,2025-07-11,R.M. Dagel Nugroho,pematangsiantar,iPhone 13,apple,,1,11425080,Transfer Bank,5,Terkirim
+ORD00287,2025-02-01,Unjani Natsir,jambi,OPPO Reno10,oppo,16139773,2,32279546,Kartu Kredit,4,Terkirim
+ORD00288,2025/02/01,Naradi Pertiwi,bekasi,Poco X5,xiaomi,9263873,3,27791619,Transfer Bank,4,Terkirim
+ORD00289,04-11-2025,Yoga Hartati,Tangerang Selatan,iPhone 14 Pro,Apple,9443827,2,,COD,2,Terkirim
+ORD00290,2025-01-27,"Ir. Legawa Pratama, S.Psi",BITUNG,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,4,Terkirim
+ORD00291,2025/05/29,Salimah Budiman,bandung,Realme C55,realme,6183710,,12367420,E-Wallet,3,Terkirim
+ORD00292,,"Tgk. Nilam Saputra, S.Farm",madiun,Realme C55,realme,6183710,1,6183710,Transfer Bank,4,Terkirim
+ORD00293,04-15-2025,Enteng Siregar,kendari,Realme 11 Pro,realme,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD00294,2025-03-15,Satya Sihombing,Tomohon,iPhone 13,Apple,11425080,2,22850160,COD,4,Terkirim
+ORD00295,2025/04/10,Jono Iswahyudi,bau-bau,Galaxy S23,samsung,5131304,2,10262608,COD,1,Terkirim
+ORD00296,2025-01-31,"R.A. Safina Nababan, S.Farm",Banjarbaru,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,2,Terkirim
+ORD00297,2025-06-18,"Ir. Mariadi Kurniawan, M.TI.",bima,Redmi Note 12,xiaomi,15542345,1,15542345,COD,4,Terkirim
+ORD00298,2025-07-18,,PEKALONGAN,Galaxy A14,SAMSUNG,1,3,47895897,Transfer Bank,2,Terkirim
+ORD00299,2025/03/01,Gada Mardhiyah,sabang,Galaxy S23,samsung,5131304,,15393912,COD,2,Terkirim
+ORD00300,02-01-2025,Lutfan Sudiati,tegal,OPPO A57,oppo,13851031,3,41553093,COD,1,Terkirim
+ORD00301,2025-05-15,Darmaji Budiman,Makassar,Redmi Note 12,Xiaomi,15542345,3,46627035,Transfer Bank,,Terkirim
+ORD00302,06-25-2025,Emil Wahyuni,Blitar,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00303,02-28-2025,R.A. Iriana Kusmawati,Surabaya,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,3,Terkirim
+ORD00304,2025/03/22,Kuncara Rahmawati,PASURUAN,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,3,Terkirim
+ORD00305,07-05-2025,Ir. Ian Prakasa,Surabaya,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,3,Terkirim
+ORD00306,2025-03-29,Sakura Hasanah,Pekalongan,iPhone 13,Apple,11425080,1,,Transfer Bank,5,Terkirim
+ORD00307,2025-07-11,Mutia Purwanti,MANADO,Vivo V29,VIVO,8682500,2,17365000,Kartu Kredit,4,Terkirim
+ORD00308,2025-04-10,,Palembang,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,3,Terkirim
+ORD00309,2025-03-08,Viktor Oktaviani,pangkalpinang,iPhone 13,apple,500000000,,34275240,COD,3,Terkirim
+ORD00310,07-03-2025,"Ir. Kadir Wibowo, S.Sos",SABANG,OPPO A57,OPPO,13851031,3,,E-Wallet,2,Terkirim
+ORD00311,2025-05-23,Vicky Usada,KEDIRI,Vivo V29,VIVO,8682500,3,26047500,,4,Terkirim
+ORD00312,2025-02-17,"Ifa Siregar, S.Gz",,OPPO Reno10,OPPO,16139773,3,48419319,COD,5,Terkirim
+ORD00313,2025/07/07,Salwa Tamba,bengkulu,,apple,99999999,1,11425080,Transfer Bank,3,Terkirim
+ORD00314,2025-03-22,Adinata Tarihoran,Sibolga,Galaxy A14,Samsung,15965299,3,47895897,Kartu Kredit,1,Dalam Pengiriman
+ORD00315,05-12-2025,"Cut Elma Susanti, S.Sos",Binjai,iPhone 14 Pro,Apple,9443827,2,18887654,E-Wallet,2,Terkirim
+ORD00316,2025-03-12,"Hj. Samiah Situmorang, S.Kom",Madiun,,Realme,6183710,3,18551130,Kartu Kredit,5,Terkirim
+ORD00317,2025/02/11,Maya Oktaviani,BANJARBARU,Galaxy S23,SAMSUNG,5131304,2,10262608,E-Wallet,3,Terkirim
+ORD00318,2025-06-12,Asirwanda Winarno,Mojokerto,Realme C55,Realme,6183710,1,6183710,Transfer Bank,5,Dalam Pengiriman
+ORD00319,2025-06-02,Kunthara Melani,samarinda,OPPO Reno10,oppo,16139773,3,48419319,COD,4,Terkirim
+ORD00320,2025-05-09,Rika Hutagalung,Salatiga,Galaxy A14,Samsung,15965299,2,31930598,COD,3,Terkirim
+ORD00321,2025-05-02,Kayla Prasetya,Bukittinggi,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,,Terkirim
+ORD00322,05-01-2025,Hafshah Hassanah,denpasar,OPPO A57,oppo,13851031,3,41553093,COD,2,Terkirim
+ORD00323,2025-02-17,Shania Iswahyudi,KEDIRI,,REALME,1743334,3,5230002,COD,4,Terkirim
+ORD00324,2025-03-21,Clara Utama,singkawang,Redmi Note 12,xiaomi,15542345,1,15542345,COD,5,Terkirim
+ORD00325,2025-06-12,drg. Maryadi Iswahyudi,magelang,Vivo V29,vivo,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD00326,2025-03-23,Ilsa Safitri,probolinggo,Realme 11 Pro,realme,1743334,1,1743334,E-Wallet,4,Terkirim
+ORD00327,2025-07-25,"Ikin Mustofa, S.Pd",Pematangsiantar,Realme C55,Realme,6183710,3,18551130,Transfer Bank,1,Terkirim
+ORD00328,2025-06-30,"Kenes Suwarno, S.E.",,OPPO A57,oppo,13851031,2,27702062,Kartu Kredit,5,Terkirim
+ORD00329,2025-07-24,Hartaka Mahendra,sungai penuh,Vivo V29,vivo,8682500,3,26047500,Transfer Bank,5,Terkirim
+ORD00330,2025/02/08,KH. Liman Riyanti,Cilegon,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,3,Terkirim
+ORD00331,04-23-2025,"Dr. Yunita Siregar, S.T.",Kupang,,Xiaomi,9263873,2,18527746,Transfer Bank,5,Terkirim
+ORD00332,02-23-2025,Dacin Budiman,kota administrasi jakarta utara,OPPO A57,oppo,13851031,2,27702062,Kartu Kredit,4,Dalam Pengiriman
+ORD00333,2025-04-22,Rahayu Usada,padang,OPPO Reno10,oppo,16139773,3,48419319,COD,4,Dalam Pengiriman
+ORD00334,2025/01/24,Digdaya Manullang,prabumulih,OPPO Reno10,oppo,16139773,3,48419319,COD,4,
+ORD00335,2025-07-15,drg. Prayitna Maulana,Tarakan,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,5,Terkirim
+ORD00336,04-30-2025,drg. Ilsa Jailani,Jambi,iPhone 13,Apple,11425080,3,,Transfer Bank,4,Terkirim
+ORD00337,2025-01-28,Amelia Waskita,,Galaxy S23,Samsung,5131304,3,15393912,COD,2,Terkirim
+ORD00338,2025/03/10,"Tgk. Wulan Suwarno, M.Pd",Banda Aceh,,Apple,11425080,3,34275240,COD,3,Terkirim
+ORD00339,2025-03-23,R. Gandi Nurdiyanti,Dumai,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,5,Terkirim
+ORD00340,2025/02/24,Eva Firgantoro,YOGYAKARTA,Galaxy A14,SAMSUNG,15965299,2,31930598,Kartu Kredit,3,Terkirim
+ORD00341,2025/06/12,"Agus Namaga, S.IP",Bontang,iPhone 13,Apple,11425080,1,11425080,E-Wallet,3,Dalam Pengiriman
+ORD00342,2025/05/25,"Nova Halim, S.H.",Tomohon,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,4,Terkirim
+ORD00343,2025/06/05,,PADANG SIDEMPUAN,iPhone 14 Pro,APPLE,9443827,1,9443827,COD,4,Terkirim
+ORD00344,2025-05-31,Aswani Aryani,Sabang,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD00345,2025-06-05,Putri Yolanda,BANJARMASIN,Vivo Y27,VIVO,13747665,2,27495330,Kartu Kredit,5,Dalam Pengiriman
+ORD00346,2025-07-16,Paulin Haryanti,Cilegon,Vivo Y27,Vivo,99999999,3,41242995,E-Wallet,,Terkirim
+ORD00347,2025-04-04,Dt. Galih Pertiwi,parepare,Realme 11 Pro,realme,1743334,2,,Kartu Kredit,2,Terkirim
+ORD00348,2025-01-26,Usyi Sirait,Kota Administrasi Jakarta Selatan,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,3,Dalam Pengiriman
+ORD00349,2025/02/27,Kezia Novitasari,jambi,Galaxy S23,,5131304,3,15393912,Transfer Bank,5,Terkirim
+ORD00350,2025/03/14,Tgk. Mala Salahudin,Bogor,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,4,Dalam Pengiriman
+ORD00351,2025/01/24,Titi Sitompul,CIREBON,iPhone 13,APPLE,11425080,3,34275240,Transfer Bank,3,Terkirim
+ORD00352,2025-07-16,Prabu Sihotang,TASIKMALAYA,Vivo Y27,VIVO,13747665,2,27495330,E-Wallet,5,Terkirim
+ORD00353,2025-03-03,Endra Hutapea,bengkulu,OPPO A57,oppo,13851031,2,27702062,Transfer Bank,5,Terkirim
+ORD00354,2025/02/03,Rangga Hartati,PAYAKUMBUH,iPhone 14 Pro,APPLE,9443827,2,18887654,Kartu Kredit,,Terkirim
+ORD00355,2025/03/20,Vera Hardiansyah,TOMOHON,Galaxy A14,SAMSUNG,15965299,1,15965299,E-Wallet,5,Terkirim
+,2025/03/01,Elma Hardiansyah,cirebon,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,3,Terkirim
+ORD00357,2025/05/15,dr. Rahmi Maulana,Serang,OPPO Reno10,OPPO,16139773,2,32279546,COD,5,Terkirim
+ORD00358,2025-03-07,"H. Slamet Anggriawan, M.Ak",Kota Administrasi Jakarta Pusat,iPhone 13,Apple,11425080,3,34275240,COD,4,Terkirim
+ORD00359,,Ian Nababan,KENDARI,Realme C55,REALME,6183710,2,12367420,Kartu Kredit,5,Dalam Pengiriman
+ORD00360,04-27-2025,"Hana Firmansyah, S.Kom",Bima,Vivo Y27,Vivo,1,3,41242995,COD,4,Terkirim
+ORD00361,2025-02-20,Gina Kusumo,Banjarmasin,iPhone 13,Apple,11425080,1,,E-Wallet,5,Terkirim
+ORD00362,2025-03-24,Prabawa Ardianto,samarinda,Galaxy S23,samsung,5131304,1,5131304,Transfer Bank,4,Terkirim
+ORD00363,2025-04-29,Opan Tamba,Mojokerto,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,3,Terkirim
+ORD00364,2025/06/15,Cemplunk Rahmawati,sukabumi,OPPO A57,oppo,13851031,3,41553093,Transfer Bank,4,Terkirim
+ORD00365,2025-06-22,Violet Wibisono,Dumai,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,,Dalam Pengiriman
+ORD00366,2025-06-04,Ajimat Andriani,PASURUAN,Redmi Note 12,XIAOMI,15542345,2,31084690,COD,5,Terkirim
+ORD00367,2025-06-04,Ami Situmorang,Bandar Lampung,Vivo Y27,Vivo,1,2,27495330,E-Wallet,1,Terkirim
+,2025-01-26,T. Jagaraga Setiawan,SERANG,Poco X5,XIAOMI,9263873,1,9263873,E-Wallet,3,Dalam Pengiriman
+ORD00369,02-23-2025,Nasab Maryadi,Kotamobagu,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,2,Terkirim
+ORD00370,2025-03-05,"H. Daryani Waluyo, S.T.",Pekalongan,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,4,Terkirim
+ORD00371,2025-06-16,Tasdik Usamah,tebingtinggi,Realme 11 Pro,realme,1743334,3,5230002,Transfer Bank,5,Terkirim
+ORD00372,2025-06-23,H. Asman Megantara,PEKALONGAN,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,3,Dalam Pengiriman
+ORD00373,07-14-2025,Siska Mustofa,Solok,Galaxy S23,Samsung,5131304,1,5131304,COD,,Terkirim
+ORD00374,2025-04-28,"Cut Yessi Prayoga, S.Ked",Sungai Penuh,OPPO Reno10,OPPO,16139773,3,48419319,Kartu Kredit,5,Terkirim
+ORD00375,2025-03-13,Jais Kusumo,meulaboh,Vivo Y27,vivo,13747665,2,27495330,Transfer Bank,4,Terkirim
+ORD00376,07-21-2025,Hardana Irawan,cirebon,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,4,Terkirim
+ORD00377,2025-07-23,Wakiman Dabukke,Magelang,Galaxy A14,,1,1,15965299,Kartu Kredit,4,Terkirim
+ORD00378,2025-02-25,Drs. Padmi Rajata,pangkalpinang,Redmi Note 12,xiaomi,15542345,1,15542345,E-Wallet,,Terkirim
+ORD00379,2025/05/10,Paramita Aryani,Kota Administrasi Jakarta Barat,Realme C55,Realme,6183710,3,18551130,Transfer Bank,3,Terkirim
+ORD00380,2025-04-26,Dr. Betania Tampubolon,Cimahi,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD00381,2025-04-24,Enteng Siregar,MOJOKERTO,Galaxy A14,SAMSUNG,15965299,3,47895897,Kartu Kredit,4,Terkirim
+ORD00382,2025-06-29,"R.A. Natalia Widodo, S.Gz",TERNATE,Vivo V29,VIVO,8682500,3,26047500,Transfer Bank,5,Terkirim
+ORD00383,07-11-2025,Dr. Shakila Nainggolan,tual,iPhone 14 Pro,apple,9443827,3,28331481,Kartu Kredit,4,Terkirim
+ORD00384,2025/05/16,Viman Iswahyudi,Bukittinggi,OPPO A57,OPPO,13851031,3,41553093,COD,5,Terkirim
+ORD00385,2025-07-19,KH. Gara Hardiansyah,Bukittinggi,Poco X5,Xiaomi,9263873,,18527746,Transfer Bank,3,Terkirim
+ORD00386,2025/07/10,"Hasan Namaga, M.Pd",Surakarta,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD00387,07-13-2025,Dr. Ika Mulyani,Banda Aceh,Vivo Y27,Vivo,13747665,3,41242995,Transfer Bank,1,Terkirim
+ORD00388,2025-04-16,Nadine Puspita,Solok,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,3,Terkirim
+ORD00389,2025-06-19,Dt. Vinsen Sitorus,Gorontalo,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,4,Terkirim
+,2025-05-07,"Parman Wulandari, M.Farm",Balikpapan,Galaxy S23,Samsung,5131304,1,5131304,Transfer Bank,5,Dalam Pengiriman
+ORD00391,07-19-2025,Daruna Farida,bau-bau,Realme 11 Pro,realme,1743334,1,1743334,COD,2,Terkirim
+ORD00392,2025/05/01,Suci Saefullah,Mojokerto,Vivo Y27,Vivo,13747665,2,27495330,COD,4,Terkirim
+ORD00393,2025-04-11,,Tanjungbalai,Realme C55,Realme,6183710,2,12367420,COD,5,Terkirim
+,2025-04-26,R. Oni Utami,Pekanbaru,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,3,Terkirim
+,2025/02/15,Yuliana Palastri,MATARAM,Realme C55,REALME,6183710,1,6183710,Transfer Bank,4,Terkirim
+ORD00396,2025/05/06,Anita Kurniawan,Samarinda,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,4,Terkirim
+ORD00397,01-25-2025,"drg. Indah Agustina, M.TI.",Tebingtinggi,Vivo Y27,Vivo,13747665,1,13747665,E-Wallet,4,Terkirim
+ORD00398,2025-05-21,Calista Novitasari,Padang Sidempuan,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,3,Terkirim
+ORD00399,2025/06/21,"R.A. Wulan Simanjuntak, M.M.",bogor,Galaxy S23,samsung,5131304,3,15393912,Kartu Kredit,3,Terkirim
+ORD00400,06-01-2025,Jessica Permadi,Prabumulih,Poco X5,Xiaomi,9263873,3,27791619,Transfer Bank,5,
+ORD00401,2025/07/23,Jasmin Kusumo,Dumai,Galaxy S23,Samsung,5131304,2,,Transfer Bank,4,Terkirim
+ORD00402,2025/05/09,Johan Mayasari,Bukittinggi,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,1,Terkirim
+ORD00403,2025-04-01,"Jasmani Fujiati, S.E.I",Pariaman,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,5,Dalam Pengiriman
+ORD00404,2025-07-19,Faizah Purwanti,Sawahlunto,Redmi Note 12,Xiaomi,1,1,15542345,Transfer Bank,1,Terkirim
+ORD00405,2025-06-07,"Sarah Kusumo, M.Ak",Ambon,Galaxy A14,Samsung,15965299,1,,COD,4,Terkirim
+ORD00406,2025/07/20,Humaira Samosir,SUBULUSSALAM,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,3,Terkirim
+ORD00407,2025/01/30,Ir. Warsa Marbun,Tasikmalaya,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,5,Terkirim
+ORD00408,2025-03-31,"Dr. Daryani Sitompul, M.Pd",Tanjungpinang,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,3,Terkirim
+ORD00409,04-14-2025,Ika Mandasari,Pekalongan,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,3,Terkirim
+ORD00410,06-20-2025,Kania Salahudin,palu,iPhone 13,apple,11425080,3,34275240,Transfer Bank,2,Terkirim
+ORD00411,2025/01/30,Unjani Januar,cimahi,OPPO A57,oppo,13851031,3,,COD,3,Terkirim
+ORD00412,2025-06-20,Olivia Prasasta,batu,Realme C55,realme,6183710,2,,COD,5,Gagal
+ORD00413,2025-02-11,"KH. Kamal Yolanda, S.E.I",Bengkulu,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,5,Terkirim
+ORD00414,2025/07/21,Eja Halim,BEKASI,iPhone 13,APPLE,11425080,3,34275240,Transfer Bank,3,Terkirim
+ORD00415,02-11-2025,"R.M. Upik Hidayanto, S.Kom",Ternate,OPPO Reno10,OPPO,16139773,,32279546,COD,4,Terkirim
+ORD00416,2025-07-05,,MEDAN,Vivo Y27,VIVO,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD00417,2025/04/28,Alika Hassanah,BANJAR,Vivo V29,VIVO,8682500,1,8682500,Kartu Kredit,5,Terkirim
+ORD00418,2025-05-26,"H. Lasmono Mahendra, S.Sos",Madiun,Realme 11 Pro,Realme,1743334,3,,Kartu Kredit,4,Terkirim
+ORD00419,07-18-2025,Tgk. Zulfa Nasyidah,Payakumbuh,Vivo Y27,Vivo,13747665,1,13747665,Kartu Kredit,3,Terkirim
+ORD00420,2025-06-27,"dr. Adinata Mansur, M.Farm",singkawang,iPhone 14 Pro,apple,9443827,1,9443827,E-Wallet,4,Terkirim
+ORD00421,2025-06-13,Najib Suryono,BITUNG,Vivo V29,VIVO,8682500,2,17365000,Transfer Bank,4,Terkirim
+ORD00422,06-05-2025,"Betania Hidayanto, S.Kom",Tidore Kepulauan,Poco X5,Xiaomi,99999999,2,18527746,COD,1,Terkirim
+,2025-02-12,Janet Simbolon,BAU-BAU,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,4,Terkirim
+ORD00424,2025-02-27,"Sidiq Tampubolon, M.M.",DENPASAR,Vivo Y27,VIVO,13747665,2,27495330,COD,3,Terkirim
+ORD00425,04-24-2025,R.A. Melinda Oktaviani,Bontang,Galaxy S23,Samsung,5131304,3,15393912,Transfer Bank,5,Terkirim
+ORD00426,2025-04-30,Lidya Kurniawan,tangerang,Redmi Note 12,xiaomi,15542345,1,15542345,Transfer Bank,,Gagal
+ORD00427,2025-03-14,Maryadi Agustina,JAYAPURA,OPPO A57,OPPO,13851031,,13851031,Transfer Bank,4,Gagal
+ORD00428,2025/07/04,Kamal Salahudin,GORONTALO,iPhone 13,APPLE,11425080,1,11425080,E-Wallet,4,Terkirim
+ORD00429,07-10-2025,Zahra Saragih,CILEGON,Galaxy S23,SAMSUNG,5131304,2,10262608,Transfer Bank,4,Dalam Pengiriman
+ORD00430,2025-06-05,Ami Nashiruddin,tasikmalaya,Redmi Note 12,xiaomi,15542345,2,31084690,Kartu Kredit,2,Dalam Pengiriman
+ORD00431,2025-04-21,Lala Maulana,BITUNG,Galaxy A14,SAMSUNG,15965299,1,15965299,Transfer Bank,4,Terkirim
+ORD00432,2025-06-20,Dr. Devi Maulana,Salatiga,iPhone 14 Pro,,9443827,2,18887654,COD,4,Terkirim
+ORD00433,2025-05-17,"Balidin Maulana, S.Farm",JAMBI,Galaxy S23,,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD00434,2025-02-22,"R.A. Samiah Lestari, S.Sos",LUBUKLINGGAU,Realme C55,REALME,6183710,1,6183710,COD,4,Terkirim
+ORD00435,2025/04/23,"dr. Padmi Halimah, S.Gz",Tidore Kepulauan,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,4,Gagal
+ORD00436,02-27-2025,Bancar Hakim,malang,OPPO A57,oppo,13851031,,13851031,Transfer Bank,5,Terkirim
+ORD00437,2025-04-12,Karsana Prasetyo,Surabaya,iPhone 13,Apple,,2,22850160,COD,3,Terkirim
+ORD00438,2025/06/13,"Dt. Jaeman Namaga, S.E.I",Bogor,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,,Gagal
+ORD00439,2025-04-17,"R. Karen Hutapea, M.TI.",tebingtinggi,Poco X5,xiaomi,9263873,3,27791619,Kartu Kredit,4,Terkirim
+ORD00440,2025-07-23,Baktianto Hidayanto,SABANG,Vivo Y27,VIVO,13747665,2,27495330,Kartu Kredit,2,Terkirim
+ORD00441,2025-04-16,Agnes Usamah,Lubuklinggau,Galaxy A14,Samsung,15965299,1,15965299,,2,Gagal
+ORD00442,2025/03/31,"Cut Keisha Maheswara, S.Ked",Madiun,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,3,Terkirim
+ORD00443,2025/05/26,"Widya Rajasa, S.H.",Depok,,Samsung,15965299,2,31930598,Transfer Bank,5,Terkirim
+ORD00444,06-26-2025,Bakijan Siregar,Sibolga,OPPO A57,OPPO,13851031,2,27702062,Kartu Kredit,4,Terkirim
+ORD00445,2025-03-25,Drs. Gawati Permadi,Tanjungbalai,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,5,Terkirim
+ORD00446,2025-02-15,"Sutan Jumari Pranowo, M.M.",Bukittinggi,,Apple,11425080,3,34275240,COD,4,Terkirim
+ORD00447,2025-06-26,"Diana Wijayanti, S.Farm",Kediri,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD00448,2025-02-16,"Ghaliyati Santoso, S.I.Kom",bengkulu,OPPO Reno10,oppo,16139773,3,48419319,Kartu Kredit,2,Dalam Pengiriman
+ORD00449,2025/05/25,"T. Jarwi Uyainah, M.Kom.",Bandung,iPhone 14 Pro,Apple,9443827,3,28331481,COD,3,Terkirim
+ORD00450,2025-02-27,Heru Saptono,Ambon,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,4,Gagal
+ORD00451,2025/06/24,drg. Siti Permadi,Salatiga,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,2,Terkirim
+ORD00452,2025-05-28,Juli Hariyah,PALANGKARAYA,Poco X5,XIAOMI,9263873,2,18527746,Transfer Bank,,Gagal
+ORD00453,,Adika Mansur,Parepare,Poco X5,Xiaomi,9263873,1,9263873,Kartu Kredit,4,Terkirim
+ORD00454,04-06-2025,"Dariati Mayasari, S.Psi",,Galaxy A14,SAMSUNG,500000000,3,47895897,COD,4,Dalam Pengiriman
+ORD00455,2025-07-03,Oskar Andriani,Bau-Bau,OPPO A57,OPPO,13851031,1,,COD,5,Dalam Pengiriman
+ORD00456,2025-07-14,Sakti Najmudin,Kendari,OPPO Reno10,OPPO,16139773,,32279546,E-Wallet,5,Terkirim
+ORD00457,2025-02-26,Patricia Fujiati,Sukabumi,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,4,Terkirim
+ORD00458,2025-07-08,Asmianto Hutagalung,Magelang,OPPO A57,OPPO,500000000,2,27702062,E-Wallet,,Terkirim
+ORD00459,2025/02/20,Aditya Nuraini,salatiga,Realme C55,realme,6183710,3,18551130,COD,4,Terkirim
+ORD00460,2025-06-18,"R.A. Humaira Sihotang, S.Psi",Pagaralam,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,5,
+ORD00461,06-02-2025,Daruna Maryati,Batam,iPhone 14 Pro,Apple,9443827,2,,Transfer Bank,2,Terkirim
+ORD00462,2025-05-30,Nabila Haryanto,MAKASSAR,Redmi Note 12,XIAOMI,15542345,3,46627035,Kartu Kredit,,Terkirim
+ORD00463,07-06-2025,"Drs. Maman Prakasa, S.Psi",PADANGPANJANG,Galaxy S23,SAMSUNG,5131304,3,15393912,E-Wallet,5,Terkirim
+ORD00464,2025-01-28,Iriana Nugroho,Pematangsiantar,,Apple,9443827,1,9443827,Kartu Kredit,3,Gagal
+ORD00465,05-23-2025,"Yessi Mandasari, S.Kom",BLITAR,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,4,Terkirim
+ORD00466,2025/02/07,"KH. Tasdik Setiawan, S.IP",Surakarta,,Vivo,8682500,1,8682500,Transfer Bank,4,Gagal
+,2025/03/30,Bakijan Sirait,Lhokseumawe,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,3,Terkirim
+ORD00468,2025-04-09,Kamila Mandala,langsa,Vivo Y27,vivo,13747665,2,27495330,Transfer Bank,3,Terkirim
+ORD00469,,KH. Emin Halim,Sawahlunto,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,3,Terkirim
+ORD00470,2025-05-31,"Tgk. Puspa Hutagalung, S.Pt",Tebingtinggi,iPhone 13,Apple,11425080,,11425080,COD,1,Terkirim
+ORD00471,2025/07/24,Oman Marbun,Meulaboh,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,1,Dalam Pengiriman
+ORD00472,2025-05-11,"Ajeng Irawan, S.Gz",MADIUN,Vivo Y27,VIVO,13747665,3,41242995,E-Wallet,5,Terkirim
+ORD00473,2025-01-31,"Samsul Astuti, S.Farm",Banjarbaru,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,3,Terkirim
+ORD00474,2025-07-18,"R. Elma Mansur, M.Pd",Banda Aceh,Vivo Y27,Vivo,13747665,,41242995,Transfer Bank,4,Terkirim
+ORD00475,2025-03-17,Elvina Halimah,Tasikmalaya,Realme 11 Pro,Realme,1743334,1,1743334,Kartu Kredit,3,Terkirim
+ORD00476,2025-06-11,Gasti Wibowo,Parepare,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,5,Terkirim
+ORD00477,2025/03/03,Nasim Budiman,Pangkalpinang,Realme C55,Realme,6183710,2,12367420,Transfer Bank,3,Terkirim
+ORD00478,2025-04-26,Kasim Safitri,singkawang,Realme 11 Pro,realme,1743334,2,3486668,COD,4,Terkirim
+,2025/07/19,Vinsen Halimah,sibolga,OPPO Reno10,oppo,16139773,1,16139773,Transfer Bank,5,Dalam Pengiriman
+ORD00480,2025-04-23,Maman Prasasta,PADANG SIDEMPUAN,Vivo Y27,VIVO,,2,27495330,Transfer Bank,5,Terkirim
+,2025-06-15,Tgk. Karman Narpati,Langsa,Poco X5,Xiaomi,9263873,1,9263873,Kartu Kredit,3,Terkirim
+ORD00482,2025-03-05,R.M. Soleh Maheswara,BITUNG,OPPO Reno10,OPPO,16139773,1,16139773,Kartu Kredit,5,Terkirim
+ORD00483,2025/02/03,"Janet Ardianto, S.Farm",DUMAI,Galaxy S23,SAMSUNG,5131304,1,5131304,Transfer Bank,4,Terkirim
+ORD00484,2025-04-04,Rina Megantara,Serang,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00485,02-15-2025,"drg. Yosef Susanti, S.Gz",Cirebon,Realme C55,Realme,6183710,1,6183710,COD,2,Terkirim
+ORD00486,2025-04-17,Jindra Samosir,medan,Poco X5,xiaomi,9263873,2,18527746,Transfer Bank,2,Terkirim
+ORD00487,2025-07-08,R.A. Tira Mustofa,MEULABOH,Poco X5,XIAOMI,1,1,9263873,E-Wallet,4,Terkirim
+ORD00488,06-29-2025,H. Saadat Puspita,Tanjungbalai,,Apple,99999999,1,9443827,E-Wallet,4,Terkirim
+ORD00489,2025-05-14,Ratih Marpaung,Bogor,Galaxy S23,Samsung,5131304,3,15393912,COD,4,Terkirim
+ORD00490,2025-07-25,"Dt. Raden Hastuti, S.H.",Pekanbaru,Galaxy A14,Samsung,15965299,1,15965299,COD,,Dalam Pengiriman
+ORD00491,2025/05/10,Bala Narpati,BANDA ACEH,OPPO Reno10,OPPO,16139773,1,16139773,E-Wallet,5,Terkirim
+ORD00492,2025/07/15,Pia Wijayanti,Salatiga,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,3,Terkirim
+ORD00493,2025/03/30,Elma Prakasa,Blitar,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD00494,2025/03/24,,KOTA ADMINISTRASI JAKARTA BARAT,Redmi Note 12,XIAOMI,15542345,2,31084690,COD,2,Terkirim
+ORD00495,2025/04/30,Carub Prabowo,JAMBI,Realme C55,REALME,6183710,1,6183710,Kartu Kredit,5,Terkirim
+ORD00496,2025/05/08,Dinda Namaga,Dumai,Vivo V29,Vivo,8682500,1,8682500,COD,4,Terkirim
+ORD00497,03-04-2025,"Asman Mayasari, S.Farm",Tidore Kepulauan,Realme C55,Realme,6183710,3,18551130,E-Wallet,5,Terkirim
+ORD00498,2025-03-14,Koko Maheswara,LANGSA,OPPO A57,OPPO,13851031,1,13851031,COD,2,Terkirim
+ORD00499,05-16-2025,Respati Saragih,Bukittinggi,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,2,Terkirim
+ORD00500,2025-02-21,Titin Purnawati,Padangpanjang,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,3,Terkirim
+ORD00501,2025/06/03,Tgk. Adiarja Safitri,SOLOK,Vivo V29,VIVO,8682500,1,8682500,E-Wallet,3,Terkirim
+ORD00502,2025-03-10,"Hj. Irma Prabowo, M.Pd",Sorong,Realme C55,Realme,6183710,2,12367420,E-Wallet,3,Terkirim
+ORD00503,2025/04/11,"Dt. Darmanto Waskita, M.Farm",Kupang,iPhone 14 Pro,,9443827,1,9443827,E-Wallet,5,Terkirim
+ORD00504,2025-05-10,Cakrawangsa Laksmiwati,bitung,Redmi Note 12,xiaomi,,3,46627035,COD,3,Gagal
+ORD00505,2025-06-08,"Puti Elvina Prastuti, S.Pt",Purwokerto,Poco X5,Xiaomi,9263873,2,18527746,COD,3,Terkirim
+ORD00506,2025-06-30,Prayitna Suwarno,Semarang,iPhone 13,Apple,11425080,1,,COD,5,Terkirim
+ORD00507,2025/02/28,Lulut Mandasari,jayapura,Redmi Note 12,xiaomi,500000000,2,31084690,Kartu Kredit,4,Terkirim
+ORD00508,2025-06-14,Syahrini Sudiati,Palu,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,5,Terkirim
+ORD00509,2025-06-15,"Genta Saefullah, M.Ak",Parepare,Vivo Y27,Vivo,13747665,1,13747665,COD,2,Terkirim
+ORD00510,2025/04/21,Sutan Legawa Mulyani,Padang,iPhone 14 Pro,Apple,500000000,3,28331481,Kartu Kredit,4,Terkirim
+ORD00511,2025-02-20,Elon Firgantoro,Semarang,Poco X5,,9263873,1,9263873,E-Wallet,1,Terkirim
+ORD00512,2025-05-10,R. Elvina Palastri,,Realme 11 Pro,Realme,1743334,3,5230002,E-Wallet,2,Dalam Pengiriman
+ORD00513,06-27-2025,,Sorong,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,5,Terkirim
+ORD00514,2025-04-15,"T. Nugraha Mustofa, S.IP",palangkaraya,iPhone 13,apple,11425080,1,11425080,COD,2,Terkirim
+ORD00515,2025/01/31,Emin Maryati,bontang,Galaxy A14,samsung,1,2,31930598,Transfer Bank,4,Terkirim
+ORD00516,2025/03/12,Endah Permata,Bitung,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,4,Terkirim
+ORD00517,02-20-2025,R. Adhiarja Latupono,Pontianak,iPhone 14 Pro,,9443827,2,18887654,E-Wallet,3,Gagal
+ORD00518,2025-02-21,Tirtayasa Rahmawati,Sungai Penuh,Poco X5,Xiaomi,9263873,3,27791619,COD,5,Terkirim
+ORD00519,2025/05/20,Hadi Ardianto,Cimahi,Galaxy A14,Samsung,15965299,2,31930598,Transfer Bank,1,Terkirim
+ORD00520,2025-05-17,Irma Permadi,Subulussalam,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD00521,05-31-2025,Padmi Pradipta,Mojokerto,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,5,Terkirim
+ORD00522,04-29-2025,"Tgk. Jasmin Samosir, S.Pd",Solok,,Samsung,15965299,1,15965299,Transfer Bank,4,Terkirim
+ORD00523,2025-03-24,Faizah Rahmawati,MOJOKERTO,Redmi Note 12,XIAOMI,15542345,3,46627035,Transfer Bank,5,Terkirim
+ORD00524,2025-02-04,"Daniswara Waskita, S.Ked",Palembang,,Apple,9443827,1,9443827,Transfer Bank,2,Terkirim
+ORD00525,2025-07-22,"Bagiya Simanjuntak, S.Pd",Sawahlunto,Redmi Note 12,Xiaomi,15542345,1,15542345,,4,Terkirim
+ORD00526,05-27-2025,Michelle Winarsih,Tidore Kepulauan,Realme C55,Realme,6183710,3,18551130,E-Wallet,3,Terkirim
+ORD00527,2025-07-20,Cut Ayu Nuraini,PADANG SIDEMPUAN,iPhone 14 Pro,APPLE,9443827,2,18887654,COD,4,Terkirim
+ORD00528,07-05-2025,Cakrawala Budiman,subulussalam,Poco X5,xiaomi,9263873,3,27791619,Transfer Bank,5,Terkirim
+ORD00529,2025-07-13,Paulin Suartini,MEDAN,Vivo V29,VIVO,8682500,2,17365000,Kartu Kredit,3,Terkirim
+ORD00530,2025-03-08,"Dr. Digdaya Prastuti, S.E.I",bitung,iPhone 13,apple,,1,11425080,E-Wallet,4,Terkirim
+ORD00531,2025-03-09,"Hesti Saptono, S.Psi",Banjar,Realme C55,Realme,6183710,3,18551130,COD,3,Terkirim
+ORD00532,03-31-2025,"Wani Farida, S.Pt",Lubuklinggau,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,4,Terkirim
+ORD00533,2025-05-26,Dagel Handayani,SAWAHLUNTO,Vivo V29,VIVO,8682500,1,8682500,Kartu Kredit,,Terkirim
+ORD00534,2025/03/22,Widya Handayani,Kota Administrasi Jakarta Utara,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,5,Terkirim
+ORD00535,2025/03/10,Padmi Prabowo,gorontalo,Redmi Note 12,xiaomi,15542345,1,15542345,Kartu Kredit,4,Gagal
+ORD00536,06-26-2025,Ana Mahendra,bukittinggi,Realme 11 Pro,realme,1743334,1,1743334,E-Wallet,3,Terkirim
+ORD00537,04-11-2025,,Salatiga,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,2,Terkirim
+ORD00538,05-30-2025,Yance Novitasari,Bukittinggi,OPPO A57,OPPO,13851031,3,41553093,COD,3,Terkirim
+ORD00539,03-24-2025,"Pardi Ramadan, S.Gz",kota administrasi jakarta selatan,iPhone 13,apple,11425080,2,22850160,E-Wallet,3,Terkirim
+ORD00540,2025-05-07,Dagel Sirait,Malang,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,3,Terkirim
+ORD00541,2025-02-20,R.M. Radit Ramadan,Padangpanjang,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,5,Terkirim
+ORD00542,2025-07-11,Caraka Halimah,Binjai,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,4,Dalam Pengiriman
+ORD00543,2025-03-11,"Tgk. Rahayu Rahimah, M.Farm",bandung,Realme 11 Pro,realme,1743334,1,1743334,COD,4,Terkirim
+ORD00544,2025/04/23,Darijan Zulaika,BANDAR LAMPUNG,Realme C55,REALME,6183710,3,18551130,Transfer Bank,2,Terkirim
+ORD00545,2025-06-27,"Banawa Utami, S.T.",tangerang,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,5,Terkirim
+ORD00546,2025/02/03,Gara Situmorang,Sibolga,Redmi Note 12,Xiaomi,15542345,2,31084690,COD,4,Terkirim
+ORD00547,2025/06/02,Opung Saefullah,Mataram,,Samsung,15965299,2,31930598,COD,2,Terkirim
+ORD00548,04-02-2025,"Jessica Susanti, S.E.I",yogyakarta,Realme 11 Pro,realme,1743334,2,3486668,COD,4,Terkirim
+ORD00549,2025/04/08,Jelita Agustina,parepare,Realme 11 Pro,realme,1743334,2,3486668,Transfer Bank,4,Terkirim
+ORD00550,2025-03-19,"Jelita Haryanto, M.Kom.",banjarmasin,Realme 11 Pro,realme,1743334,1,1743334,Transfer Bank,2,Terkirim
+ORD00551,2025-06-23,Tgk. Novi Widodo,Kota Administrasi Jakarta Utara,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD00552,2025-03-18,"Ir. Makara Damanik, S.Kom",parepare,OPPO A57,oppo,500000000,1,13851031,,4,Dalam Pengiriman
+ORD00553,2025-03-25,"Mustofa Widiastuti, S.IP",blitar,Galaxy S23,samsung,5131304,1,5131304,Transfer Bank,3,Terkirim
+ORD00554,03-23-2025,,Pematangsiantar,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,5,Terkirim
+ORD00555,2025-02-10,"dr. Titin Marbun, S.T.",MADIUN,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,5,Terkirim
+ORD00556,2025-03-22,"H. Kariman Sitompul, S.Farm",Gorontalo,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,4,Gagal
+ORD00557,2025-02-18,Radika Sitompul,Bandar Lampung,OPPO Reno10,OPPO,16139773,3,48419319,COD,4,Terkirim
+ORD00558,2025-01-28,"Drs. Chelsea Adriansyah, S.IP",Lhokseumawe,Redmi Note 12,Xiaomi,15542345,2,31084690,E-Wallet,4,Terkirim
+ORD00559,07-01-2025,Irma Melani,samarinda,Realme C55,,99999999,2,12367420,E-Wallet,4,Terkirim
+ORD00560,2025-02-26,Ir. Oskar Anggraini,Palembang,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,4,Gagal
+ORD00561,2025/06/25,"R.A. Raisa Mandasari, S.Gz",DEPOK,iPhone 13,APPLE,11425080,2,22850160,Transfer Bank,,Terkirim
+ORD00562,02-10-2025,Puti Ami Siregar,ternate,iPhone 14 Pro,apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD00563,2025-07-01,Oliva Pudjiastuti,Sabang,,Vivo,13747665,2,27495330,E-Wallet,5,Terkirim
+,07-06-2025,Raina Mangunsong,Cimahi,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD00565,2025-07-23,Humaira Rajasa,Balikpapan,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,2,Terkirim
+ORD00566,2025-06-17,Nasim Purnawati,Palembang,Vivo Y27,Vivo,13747665,1,13747665,COD,5,Terkirim
+ORD00567,2025/03/03,Vivi Safitri,lubuklinggau,iPhone 13,apple,11425080,2,22850160,Kartu Kredit,3,Terkirim
+ORD00568,,"Raden Fujiati, M.Ak",sorong,OPPO A57,oppo,13851031,2,27702062,Transfer Bank,3,Terkirim
+ORD00569,2025/06/11,Dr. Endah Purnawati,Singkawang,OPPO A57,OPPO,500000000,2,27702062,E-Wallet,3,Terkirim
+ORD00570,,Maimunah Yuniar,Bengkulu,Redmi Note 12,Xiaomi,500000000,2,31084690,COD,3,Terkirim
+ORD00571,2025-05-24,Sutan Rafi Anggraini,SIBOLGA,Galaxy A14,SAMSUNG,15965299,,15965299,Transfer Bank,5,Gagal
+ORD00572,2025/04/15,"Ir. Winda Pudjiastuti, M.Ak",SABANG,Poco X5,XIAOMI,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD00573,03-07-2025,"Bakijan Siregar, S.Kom",Kota Administrasi Jakarta Utara,Vivo V29,Vivo,8682500,3,26047500,Kartu Kredit,3,Gagal
+ORD00574,2025-04-27,"drg. Karna Laksmiwati, S.Ked",banjar,iPhone 14 Pro,apple,9443827,2,18887654,Transfer Bank,5,Terkirim
+ORD00575,05-18-2025,Kamidin Yolanda,Blitar,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,5,Gagal
+ORD00576,03-28-2025,T. Garan Situmorang,madiun,,oppo,13851031,2,27702062,Transfer Bank,5,Terkirim
+ORD00577,2025/02/19,"drg. Usyi Sitorus, S.Gz",salatiga,Vivo Y27,vivo,13747665,1,13747665,Transfer Bank,3,Terkirim
+ORD00578,04-04-2025,Pia Usada,Pariaman,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,4,Terkirim
+ORD00579,2025-03-18,Lidya Namaga,PROBOLINGGO,Realme C55,REALME,6183710,2,12367420,Transfer Bank,5,Terkirim
+ORD00580,2025/05/22,Ir. Rafi Pangestu,Salatiga,Vivo Y27,Vivo,500000000,1,13747665,COD,5,Terkirim
+ORD00581,2025/04/27,Vera Sudiati,Makassar,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,1,Dalam Pengiriman
+ORD00582,,Bakianto Rajata,Malang,Realme C55,Realme,6183710,1,6183710,Kartu Kredit,2,Terkirim
+ORD00583,2025-07-11,Nilam Lailasari,PAGARALAM,Realme C55,REALME,6183710,2,12367420,E-Wallet,4,Terkirim
+ORD00584,2025/04/16,Juli Winarno,dumai,iPhone 14 Pro,apple,9443827,1,9443827,Kartu Kredit,5,Terkirim
+ORD00585,04-11-2025,Cut Puspa Rajasa,padang,OPPO Reno10,oppo,16139773,3,48419319,COD,4,Terkirim
+ORD00586,2025-07-18,"dr. Kawaca Tampubolon, S.E.I",SALATIGA,Redmi Note 12,XIAOMI,15542345,3,46627035,Transfer Bank,4,
+ORD00587,,Muhammad Napitupulu,Palangkaraya,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,2,Gagal
+ORD00588,04-09-2025,Hana Hutagalung,Semarang,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,4,Terkirim
+ORD00589,2025-04-20,Hardana Purnawati,PAREPARE,,APPLE,9443827,3,28331481,Transfer Bank,5,Terkirim
+,03-09-2025,Hartaka Purwanti,lhokseumawe,Realme 11 Pro,realme,1743334,2,3486668,COD,3,Terkirim
+ORD00591,2025-01-29,Restu Maheswara,PRABUMULIH,Galaxy S23,SAMSUNG,500000000,2,10262608,E-Wallet,5,Dalam Pengiriman
+ORD00592,2025-05-06,"dr. Galur Mangunsong, M.TI.",bitung,Poco X5,xiaomi,9263873,3,27791619,E-Wallet,5,Terkirim
+ORD00593,05-29-2025,"Gamblang Kuswoyo, S.Farm",Kupang,Realme C55,Realme,,3,18551130,E-Wallet,3,Terkirim
+ORD00594,2025-04-27,"Alambana Firgantoro, S.I.Kom",Lubuklinggau,Realme C55,Realme,6183710,1,6183710,Transfer Bank,4,Terkirim
+ORD00595,2025-04-08,Raina Maryadi,Kendari,Realme C55,Realme,6183710,2,12367420,COD,3,Terkirim
+ORD00596,2025/04/15,Karta Padmasari,Batu,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,5,Terkirim
+ORD00597,06-01-2025,Prayoga Hutagalung,TASIKMALAYA,Galaxy A14,SAMSUNG,15965299,1,15965299,Kartu Kredit,4,Terkirim
+ORD00598,04-19-2025,Drs. Widya Mardhiyah,MOJOKERTO,OPPO A57,OPPO,500000000,3,41553093,Transfer Bank,4,Dalam Pengiriman
+ORD00599,2025/05/08,Emil Budiman,bengkulu,OPPO Reno10,oppo,16139773,3,48419319,E-Wallet,5,Terkirim
+ORD00600,2025-06-03,Ira Wijaya,palangkaraya,Realme 11 Pro,realme,1743334,2,3486668,Kartu Kredit,3,Terkirim
+ORD00601,2025-05-19,Adikara Mardhiyah,Tangerang,Poco X5,Xiaomi,9263873,1,9263873,E-Wallet,5,Terkirim
+ORD00602,2025-01-24,Ganda Sihombing,KOTA ADMINISTRASI JAKARTA UTARA,,XIAOMI,9263873,2,18527746,COD,4,Terkirim
+ORD00603,01-31-2025,Eka Habibi,Tanjungbalai,Vivo Y27,Vivo,13747665,1,13747665,COD,,Terkirim
+ORD00604,2025/07/13,Ir. Violet Widodo,Bekasi,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD00605,2025-05-02,Elon Halim,Kupang,OPPO Reno10,OPPO,16139773,2,32279546,Kartu Kredit,5,Terkirim
+ORD00606,2025-04-11,Lidya Rahayu,BENGKULU,Galaxy A14,,15965299,2,31930598,Transfer Bank,3,Dalam Pengiriman
+ORD00607,2025/05/26,Eli Natsir,Bontang,,Xiaomi,9263873,3,27791619,E-Wallet,5,Terkirim
+ORD00608,04-11-2025,Putu Agustina,SEMARANG,Galaxy S23,SAMSUNG,5131304,1,5131304,COD,5,Terkirim
+ORD00609,2025-01-29,,Malang,Realme 11 Pro,Realme,1743334,1,1743334,COD,3,Terkirim
+ORD00610,2025/06/06,Emin Waskita,Surabaya,iPhone 13,Apple,11425080,1,11425080,E-Wallet,5,Terkirim
+ORD00611,2025/07/04,Samsul Sinaga,PALEMBANG,iPhone 13,APPLE,11425080,2,22850160,Transfer Bank,2,Terkirim
+ORD00612,2025/07/25,Karimah Saragih,Malang,iPhone 13,Apple,11425080,1,11425080,E-Wallet,3,Terkirim
+ORD00613,2025-04-22,Nilam Waluyo,,Redmi Note 12,Xiaomi,15542345,1,15542345,COD,3,Terkirim
+ORD00614,05-13-2025,"Ihsan Nasyiah, M.Pd",tanjungbalai,OPPO Reno10,oppo,16139773,1,16139773,Kartu Kredit,5,Terkirim
+ORD00615,2025/06/25,Galak Mulyani,cirebon,Realme 11 Pro,realme,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD00616,2025-06-15,"dr. Marwata Thamrin, S.Psi",tomohon,Vivo Y27,vivo,13747665,3,41242995,E-Wallet,3,Terkirim
+ORD00617,2025/05/02,Ir. Alika Kuswoyo,Binjai,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD00618,2025-03-13,Raisa Napitupulu,balikpapan,Vivo V29,vivo,8682500,1,8682500,Transfer Bank,4,Terkirim
+ORD00619,2025-03-27,"R. Hani Hutagalung, S.E.",BINJAI,iPhone 14 Pro,APPLE,9443827,1,9443827,COD,2,Terkirim
+ORD00620,2025-04-08,Irma Situmorang,probolinggo,Galaxy S23,samsung,5131304,1,5131304,COD,5,Gagal
+ORD00621,06-13-2025,Zaenab Astuti,BANDA ACEH,Poco X5,,9263873,1,9263873,E-Wallet,5,Terkirim
+ORD00622,2025/04/01,"Uda Rajasa, S.IP",TANJUNGBALAI,Galaxy S23,SAMSUNG,5131304,3,15393912,Transfer Bank,4,Terkirim
+ORD00623,04-11-2025,Prabowo Maryadi,Kota Administrasi Jakarta Timur,Realme C55,Realme,6183710,3,18551130,Transfer Bank,5,Terkirim
+ORD00624,04-17-2025,Ilsa Mahendra,Tanjungbalai,Vivo Y27,Vivo,13747665,3,41242995,Transfer Bank,4,Terkirim
+ORD00625,2025-07-19,H. Cecep Suartini,Blitar,Vivo Y27,Vivo,13747665,2,27495330,Kartu Kredit,5,Terkirim
+ORD00626,2025/06/19,"Enteng Jailani, S.Pt",Bau-Bau,iPhone 14 Pro,Apple,9443827,1,9443827,COD,4,Terkirim
+ORD00627,2025-01-27,"Dwi Latupono, S.Psi",PADANG SIDEMPUAN,Realme C55,REALME,6183710,3,18551130,Transfer Bank,4,Terkirim
+ORD00628,2025-07-04,Nasim Lazuardi,Bandung,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,3,Terkirim
+ORD00629,2025-06-13,Intan Maulana,payakumbuh,OPPO A57,oppo,13851031,3,41553093,COD,,Terkirim
+ORD00630,03-25-2025,Pranata Marpaung,TANGERANG SELATAN,iPhone 14 Pro,APPLE,9443827,2,18887654,,4,Terkirim
+ORD00631,2025/02/13,Jarwi Wasita,,Galaxy S23,Samsung,5131304,3,15393912,COD,3,Gagal
+ORD00632,02-08-2025,Ratna Waskita,pangkalpinang,Vivo V29,vivo,500000000,1,8682500,Transfer Bank,1,Terkirim
+,2025-03-10,Slamet Anggriawan,Samarinda,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD00634,2025/04/28,Juli Situmorang,Meulaboh,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,4,Terkirim
+ORD00635,2025/04/30,Padmi Nurdiyanti,balikpapan,OPPO Reno10,oppo,16139773,2,32279546,Kartu Kredit,4,Terkirim
+ORD00636,2025-03-15,Tirtayasa Adriansyah,Banda Aceh,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,5,Dalam Pengiriman
+ORD00637,02-09-2025,Ir. Umar Suwarno,KEDIRI,Realme 11 Pro,REALME,1743334,2,3486668,COD,2,Terkirim
+ORD00638,2025-07-22,"R.A. Shania Mayasari, S.E.",,Vivo Y27,Vivo,13747665,3,41242995,E-Wallet,4,Terkirim
+ORD00639,06-03-2025,Saiful Prasasta,Kota Administrasi Jakarta Timur,Galaxy A14,Samsung,15965299,3,47895897,E-Wallet,3,Terkirim
+ORD00640,06-24-2025,Sabrina Hutapea,Kotamobagu,iPhone 14 Pro,Apple,9443827,,28331481,COD,5,Terkirim
+ORD00641,02-20-2025,"Hj. Tantri Rahimah, S.Farm",Jambi,Galaxy S23,Samsung,5131304,1,5131304,Transfer Bank,5,
+ORD00642,2025/02/16,Ibrani Waskita,,iPhone 14 Pro,Apple,9443827,1,9443827,COD,4,Terkirim
+ORD00643,2025-03-01,Mujur Prakasa,Tanjungpinang,,Apple,9443827,3,28331481,COD,4,Dalam Pengiriman
+ORD00644,2025-01-24,Hadi Siregar,salatiga,OPPO Reno10,oppo,16139773,2,32279546,Transfer Bank,3,Terkirim
+ORD00645,01-24-2025,KH. Lanang Wijayanti,Kota Administrasi Jakarta Barat,Galaxy A14,Samsung,15965299,3,47895897,E-Wallet,4,Terkirim
+ORD00646,2025/04/03,Rini Riyanti,Banjarmasin,Redmi Note 12,,15542345,1,15542345,Transfer Bank,5,Terkirim
+ORD00647,2025/06/07,Rama Tamba,Pematangsiantar,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,4,Terkirim
+ORD00648,2025-07-17,Hendri Mandasari,Tual,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,3,Terkirim
+ORD00649,2025-03-15,Drs. Limar Hartati,Pekalongan,iPhone 14 Pro,Apple,,3,28331481,Kartu Kredit,4,Terkirim
+ORD00650,07-07-2025,Genta Uyainah,tanjungpinang,iPhone 13,apple,11425080,2,22850160,E-Wallet,5,
+ORD00651,2025-02-25,Lega Lazuardi,tarakan,Realme 11 Pro,realme,1743334,,1743334,Kartu Kredit,3,Terkirim
+ORD00652,2025-03-14,"Tgk. Zahra Rahmawati, S.Farm",bandung,iPhone 13,apple,,1,11425080,Transfer Bank,3,Terkirim
+ORD00653,2025-06-10,Usyi Budiman,Palopo,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD00654,02-16-2025,"Zahra Setiawan, M.Farm",Kota Administrasi Jakarta Barat,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Terkirim
+ORD00655,06-05-2025,"Vera Pratiwi, S.H.",BANDUNG,iPhone 14 Pro,APPLE,9443827,2,18887654,Transfer Bank,2,Terkirim
+ORD00656,2025-05-23,Hendra Hakim,Palembang,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,,Terkirim
+ORD00657,2025/05/04,Gawati Gunawan,Bukittinggi,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,2,Gagal
+ORD00658,2025-04-14,"drg. Chelsea Situmorang, S.Psi",Pematangsiantar,Realme C55,Realme,6183710,2,12367420,Transfer Bank,3,Terkirim
+ORD00659,2025/03/19,"H. Drajat Permadi, S.Farm",Batu,Vivo Y27,Vivo,13747665,3,41242995,E-Wallet,4,Terkirim
+ORD00660,2025/07/13,Cahyo Halim,Ambon,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,4,Terkirim
+ORD00661,2025-05-20,Sarah Andriani,Batam,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Terkirim
+ORD00662,05-15-2025,Lintang Mayasari,Banjarmasin,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,,Terkirim
+ORD00663,2025/04/08,Lalita Wibisono,Bau-Bau,Realme 11 Pro,Realme,1743334,2,3486668,COD,3,Terkirim
+ORD00664,2025/02/12,Jamal Rajasa,Kota Administrasi Jakarta Utara,Galaxy S23,Samsung,5131304,2,,Transfer Bank,5,Terkirim
+ORD00665,07-01-2025,Puspa Wijayanti,bogor,iPhone 13,apple,11425080,1,11425080,Transfer Bank,4,Dalam Pengiriman
+ORD00666,2025/03/22,"Emin Mardhiyah, S.T.",kota administrasi jakarta utara,OPPO Reno10,oppo,16139773,3,48419319,COD,5,Terkirim
+ORD00667,2025-03-14,R. Embuh Novitasari,Tanjungpinang,Realme C55,Realme,6183710,2,12367420,Kartu Kredit,4,Terkirim
+ORD00668,,"H. Ibun Prakasa, M.Kom.",Madiun,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,2,Terkirim
+ORD00669,2025-05-06,Viman Simanjuntak,pariaman,Realme C55,realme,6183710,1,,Kartu Kredit,4,Terkirim
+ORD00670,05-18-2025,dr. Padmi Prabowo,manado,,vivo,8682500,1,8682500,Transfer Bank,3,Terkirim
+ORD00671,2025-07-25,"Bancar Sitompul, S.E.I",tangerang,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,4,Terkirim
+ORD00672,2025-04-11,"Vega Maulana, S.T.",Kota Administrasi Jakarta Timur,OPPO A57,OPPO,13851031,3,41553093,COD,2,Terkirim
+ORD00673,2025-02-02,Malika Wijaya,singkawang,Realme C55,realme,6183710,2,12367420,E-Wallet,3,Terkirim
+ORD00674,2025-05-16,"Tgk. Lantar Hutagalung, M.Kom.",Mojokerto,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,5,Terkirim
+ORD00675,2025-03-08,Harimurti Kusumo,PAYAKUMBUH,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,3,Terkirim
+ORD00676,05-29-2025,Galiono Mustofa,Dumai,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,5,Terkirim
+ORD00677,2025-04-30,Citra Hardiansyah,,Vivo V29,Vivo,8682500,3,26047500,E-Wallet,3,Terkirim
+ORD00678,2025-02-06,Mursinin Mulyani,,Galaxy S23,samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00679,2025-05-08,Shakila Gunarto,bandung,OPPO Reno10,oppo,16139773,3,48419319,Kartu Kredit,4,Terkirim
+ORD00680,02-26-2025,Aisyah Habibi,KOTA ADMINISTRASI JAKARTA BARAT,iPhone 14 Pro,APPLE,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD00681,2025-05-08,Marwata Puspasari,bekasi,OPPO Reno10,oppo,16139773,2,32279546,COD,3,Terkirim
+ORD00682,2025-05-05,"T. Prabowo Waskita, S.IP",,Realme C55,Realme,6183710,3,18551130,Transfer Bank,3,Terkirim
+ORD00683,2025/02/24,dr. Rudi Yuliarti,BANJARBARU,OPPO Reno10,OPPO,16139773,1,,Transfer Bank,1,Terkirim
+ORD00684,05-27-2025,Dr. Cawuk Widiastuti,Depok,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,3,Terkirim
+ORD00685,2025-03-27,Dr. Almira Putra,Meulaboh,OPPO Reno10,OPPO,16139773,2,32279546,E-Wallet,4,Terkirim
+ORD00686,07-04-2025,Irma Simbolon,,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,5,Terkirim
+ORD00687,2025/04/08,Muhammad Usada,Bima,OPPO Reno10,OPPO,16139773,2,32279546,COD,5,Terkirim
+ORD00688,2025/02/16,Langgeng Irawan,Prabumulih,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Terkirim
+ORD00689,2025-04-18,Bakti Marbun,Pontianak,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,5,Terkirim
+ORD00690,2025/02/06,Harjaya Kurniawan,Singkawang,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Terkirim
+ORD00691,2025/07/04,Daryani Januar,Subulussalam,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,3,Terkirim
+ORD00692,2025-03-05,Michelle Hardiansyah,,iPhone 14 Pro,apple,9443827,2,18887654,Kartu Kredit,5,Dalam Pengiriman
+ORD00693,03-16-2025,Jefri Januar,Kupang,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,4,Terkirim
+ORD00694,2025-04-22,"Adiarja Santoso, M.Kom.",pagaralam,OPPO A57,oppo,13851031,1,13851031,,4,Terkirim
+ORD00695,2025/04/27,Heru Gunawan,SUBULUSSALAM,Galaxy S23,SAMSUNG,5131304,2,10262608,Transfer Bank,2,Terkirim
+ORD00696,2025/04/10,Ajimat Tampubolon,Bau-Bau,iPhone 14 Pro,Apple,9443827,2,18887654,COD,4,Terkirim
+ORD00697,2025-01-25,Damu Mayasari,Batam,Galaxy A14,Samsung,1,1,15965299,Transfer Bank,4,Gagal
+ORD00698,01-29-2025,Ghani Prayoga,Pekalongan,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,5,Terkirim
+ORD00699,2025/04/27,Jatmiko Sinaga,Bogor,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,4,Terkirim
+ORD00700,2025-04-18,Maria Prasetya,Batu,Vivo Y27,Vivo,13747665,2,27495330,Kartu Kredit,3,Terkirim
+ORD00701,2025-03-27,Rahayu Saputra,GORONTALO,Poco X5,XIAOMI,9263873,3,27791619,COD,5,Terkirim
+ORD00702,2025/06/06,Putri Siregar,bengkulu,Poco X5,xiaomi,9263873,2,18527746,,2,Dalam Pengiriman
+ORD00703,2025-07-25,Bakti Pratiwi,Binjai,OPPO A57,OPPO,13851031,2,27702062,COD,4,Terkirim
+ORD00704,,Sutan Jais Yulianti,Kota Administrasi Jakarta Timur,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,1,Terkirim
+ORD00705,2025/07/19,"Gandi Lestari, S.Pt",TARAKAN,OPPO Reno10,OPPO,16139773,2,32279546,E-Wallet,4,Dalam Pengiriman
+ORD00706,05-03-2025,Cinthia Maulana,Pasuruan,iPhone 13,Apple,11425080,,11425080,E-Wallet,5,Dalam Pengiriman
+ORD00707,2025/05/20,Utama Nababan,SURAKARTA,Redmi Note 12,XIAOMI,,3,46627035,E-Wallet,3,Terkirim
+ORD00708,07-24-2025,Kania Nasyidah,prabumulih,Realme 11 Pro,realme,1743334,3,5230002,E-Wallet,5,Dalam Pengiriman
+ORD00709,,"Raharja Dabukke, S.T.",Magelang,Vivo Y27,Vivo,13747665,2,27495330,E-Wallet,3,Terkirim
+ORD00710,2025-07-18,Jessica Suwarno,Pekanbaru,OPPO A57,OPPO,99999999,2,27702062,Transfer Bank,5,Terkirim
+ORD00711,2025-02-04,Dipa Laksita,dumai,Galaxy A14,samsung,15965299,3,47895897,Transfer Bank,5,Terkirim
+ORD00712,2025-03-16,Wirda Maheswara,,Vivo V29,vivo,8682500,2,17365000,COD,5,Terkirim
+ORD00713,2025-02-12,Mila Situmorang,KOTA ADMINISTRASI JAKARTA BARAT,Galaxy S23,SAMSUNG,5131304,2,10262608,COD,1,Dalam Pengiriman
+ORD00714,07-06-2025,,Yogyakarta,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,5,Dalam Pengiriman
+ORD00715,2025-07-20,Harsaya Lailasari,Tanjungbalai,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,,Terkirim
+ORD00716,2025-04-30,Heryanto Mulyani,TERNATE,iPhone 13,APPLE,11425080,3,34275240,Kartu Kredit,3,Terkirim
+ORD00717,2025/07/12,Jati Saptono,,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,5,Terkirim
+ORD00718,2025-02-28,Ghani Maulana,Mataram,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,3,Gagal
+ORD00719,05-06-2025,dr. Wadi Anggraini,parepare,Realme 11 Pro,realme,1743334,1,1743334,Kartu Kredit,5,Gagal
+ORD00720,2025/05/31,Ir. Gara Latupono,Kendari,Realme 11 Pro,Realme,1743334,3,,COD,2,Terkirim
+ORD00721,2025/03/20,"Kania Pratiwi, S.H.",Yogyakarta,iPhone 13,Apple,11425080,3,34275240,E-Wallet,4,
+ORD00722,2025-03-24,Tasdik Winarno,,OPPO Reno10,oppo,16139773,1,16139773,Transfer Bank,4,Dalam Pengiriman
+ORD00723,2025-04-07,Ayu Iswahyudi,Ambon,Realme C55,Realme,6183710,2,12367420,Transfer Bank,2,Terkirim
+ORD00724,2025/07/02,"Karimah Hutapea, S.Kom",Manado,,Realme,1743334,3,5230002,Transfer Bank,3,Terkirim
+ORD00725,2025-03-25,Makara Prakasa,SAWAHLUNTO,Vivo Y27,VIVO,13747665,3,41242995,E-Wallet,1,Terkirim
+ORD00726,2025-07-01,"Gamanto Hartati, M.Kom.",Mataram,OPPO Reno10,OPPO,16139773,2,32279546,Kartu Kredit,4,Dalam Pengiriman
+ORD00727,2025-01-30,Julia Lazuardi,Kotamobagu,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,3,Terkirim
+ORD00728,2025/04/05,Caraka Pangestu,malang,OPPO Reno10,oppo,,3,48419319,E-Wallet,4,Terkirim
+ORD00729,2025/02/22,"Paramita Lailasari, M.TI.",,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,3,Terkirim
+ORD00730,06-05-2025,"Ir. Anita Dongoran, S.H.",Tanjungbalai,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,3,Terkirim
+ORD00731,05-03-2025,Gilda Waluyo,ternate,Galaxy S23,samsung,5131304,,5131304,Transfer Bank,4,Terkirim
+ORD00732,2025/05/23,Ellis Simbolon,Surabaya,iPhone 14 Pro,Apple,9443827,3,28331481,Kartu Kredit,1,Terkirim
+ORD00733,2025-01-26,Ghaliyati Haryanti,Sibolga,iPhone 13,Apple,11425080,2,,Kartu Kredit,5,Terkirim
+ORD00734,2025/04/13,Umaya Hutapea,Banda Aceh,Galaxy A14,Samsung,15965299,2,31930598,Transfer Bank,5,Terkirim
+ORD00735,2025-05-30,"Tgk. Suci Prasasta, S.Kom",Tasikmalaya,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,
+ORD00736,2025-06-11,Kezia Hastuti,Metro,OPPO A57,OPPO,13851031,1,13851031,COD,,Terkirim
+ORD00737,2025-04-13,Zulaikha Salahudin,BENGKULU,iPhone 14 Pro,APPLE,9443827,1,9443827,COD,,Terkirim
+ORD00738,2025-02-21,Hj. Calista Sitompul,Banda Aceh,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,3,Dalam Pengiriman
+ORD00739,2025-07-06,Abyasa Iswahyudi,Bogor,,Apple,9443827,2,18887654,E-Wallet,2,Terkirim
+ORD00740,2025-06-20,Jaka Suwarno,Meulaboh,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,3,Terkirim
+ORD00741,2025-02-26,Sabrina Gunarto,Pekalongan,OPPO Reno10,OPPO,16139773,1,16139773,COD,,Terkirim
+ORD00742,2025-02-27,Lukita Najmudin,KEDIRI,OPPO Reno10,,16139773,1,16139773,Transfer Bank,1,Terkirim
+ORD00743,2025-07-17,Dr. Raina Rahmawati,Magelang,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,4,Terkirim
+ORD00744,2025-04-28,Bakiadi Saptono,SURAKARTA,Redmi Note 12,XIAOMI,15542345,3,46627035,Kartu Kredit,5,Terkirim
+ORD00745,2025-05-13,"Pia Anggraini, S.T.",jayapura,Poco X5,xiaomi,9263873,1,9263873,E-Wallet,5,Terkirim
+ORD00746,2025-02-11,"Tgk. Darmaji Rajasa, S.Kom",BOGOR,OPPO Reno10,OPPO,16139773,1,16139773,E-Wallet,4,Terkirim
+ORD00747,05-28-2025,Jaka Utami,Salatiga,iPhone 13,Apple,,2,22850160,E-Wallet,2,Terkirim
+ORD00748,2025/06/09,Maya Pranowo,Langsa,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,5,Terkirim
+ORD00749,2025/04/02,Rina Safitri,Sorong,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Gagal
+ORD00750,2025-02-18,dr. Elma Wibisono,Kediri,Realme C55,Realme,6183710,2,12367420,,2,Terkirim
+ORD00751,2025/06/29,Sutan Karya Rahmawati,Padang Sidempuan,Redmi Note 12,Xiaomi,15542345,,46627035,Kartu Kredit,2,Terkirim
+ORD00752,2025/04/24,Kasim Lazuardi,Kota Administrasi Jakarta Timur,Vivo Y27,Vivo,1,2,27495330,Transfer Bank,5,Terkirim
+ORD00753,,Mahesa Namaga,bekasi,Vivo V29,vivo,8682500,1,8682500,E-Wallet,4,Terkirim
+ORD00754,2025-02-15,Eka Hutagalung,Bima,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,5,Terkirim
+ORD00755,2025/03/04,Dr. Banawa Mahendra,KOTA ADMINISTRASI JAKARTA PUSAT,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Terkirim
+ORD00756,2025-02-13,Citra Prakasa,,iPhone 14 Pro,APPLE,9443827,3,28331481,Transfer Bank,4,Terkirim
+ORD00757,2025/06/26,Kenes Waskita,dumai,Poco X5,xiaomi,9263873,3,27791619,Kartu Kredit,4,Terkirim
+ORD00758,2025-04-25,Unggul Hidayat,denpasar,iPhone 13,apple,,2,22850160,Kartu Kredit,4,Terkirim
+ORD00759,2025-06-17,Fitriani Kusumo,Pagaralam,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,3,Gagal
+ORD00760,06-21-2025,Kamila Laksmiwati,Lhokseumawe,iPhone 13,,11425080,1,11425080,Transfer Bank,4,Terkirim
+ORD00761,2025-03-01,,Samarinda,Poco X5,Xiaomi,9263873,3,27791619,COD,5,Terkirim
+ORD00762,03-13-2025,"drg. Artanto Nugroho, S.E.",Ternate,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,4,Terkirim
+ORD00763,2025-05-07,Utama Widiastuti,PRABUMULIH,Realme C55,REALME,6183710,2,12367420,Transfer Bank,5,Terkirim
+ORD00764,2025-01-25,Jagaraga Pratama,Tebingtinggi,iPhone 13,Apple,11425080,3,34275240,E-Wallet,4,Terkirim
+ORD00765,2025-04-28,drg. Malika Wacana,mataram,OPPO A57,oppo,13851031,3,41553093,Transfer Bank,4,
+ORD00766,01-29-2025,Xanana Tamba,PADANG SIDEMPUAN,OPPO A57,OPPO,13851031,,27702062,Transfer Bank,4,Terkirim
+ORD00767,2025-06-12,Puti Ira Marbun,Surakarta,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,4,Terkirim
+ORD00768,02-21-2025,Jagaraga Budiyanto,Cimahi,Realme 11 Pro,Realme,1743334,3,5230002,E-Wallet,4,Terkirim
+,2025-02-09,"Ir. Candra Simanjuntak, S.Gz",Ambon,Galaxy A14,Samsung,15965299,3,47895897,COD,3,Terkirim
+ORD00770,2025-04-01,"Tgk. Ian Permata, S.IP",Kupang,Redmi Note 12,Xiaomi,15542345,3,46627035,E-Wallet,4,Terkirim
+,2025-02-06,Agnes Narpati,Cilegon,iPhone 13,Apple,11425080,2,22850160,COD,2,Terkirim
+ORD00772,04-10-2025,H. Makuta Habibi,Balikpapan,Realme C55,Realme,6183710,2,12367420,COD,3,Terkirim
+ORD00773,2025/06/30,Almira Sitompul,Samarinda,Galaxy S23,Samsung,5131304,3,15393912,Kartu Kredit,4,Terkirim
+ORD00774,2025-03-16,"Fitria Nasyiah, S.Gz",Bontang,iPhone 13,Apple,11425080,2,22850160,E-Wallet,4,Terkirim
+ORD00775,05-07-2025,Ir. Bella Tamba,Batam,Vivo Y27,Vivo,13747665,3,41242995,E-Wallet,5,Terkirim
+ORD00776,2025-07-07,Eli Pangestu,Solok,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00777,2025/05/07,Usyi Permata,Bandar Lampung,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,4,Terkirim
+ORD00778,04-15-2025,Cindy Winarsih,tebingtinggi,OPPO A57,oppo,13851031,1,13851031,Transfer Bank,4,Terkirim
+ORD00779,2025-04-09,Hamima Irawan,Kotamobagu,iPhone 13,Apple,11425080,1,11425080,COD,4,Terkirim
+ORD00780,2025-07-08,Marsudi Saefullah,Jambi,Galaxy S23,Samsung,,1,5131304,Transfer Bank,2,Terkirim
+ORD00781,2025/05/15,"Hj. Laila Wibisono, S.Sos",BANJAR,iPhone 13,APPLE,11425080,1,11425080,,3,Dalam Pengiriman
+ORD00782,2025-01-29,Tugiman Purnawati,Pekanbaru,Galaxy A14,Samsung,15965299,1,15965299,Kartu Kredit,3,Terkirim
+ORD00783,07-24-2025,Paulin Budiman,SIBOLGA,Poco X5,XIAOMI,9263873,3,27791619,,4,Gagal
+ORD00784,2025/04/06,Farhunnisa Tarihoran,Pasuruan,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,1,Terkirim
+ORD00785,2025-04-25,"Dasa Saragih, S.IP",Ternate,Vivo Y27,Vivo,13747665,,27495330,E-Wallet,2,Terkirim
+ORD00786,2025-03-29,Farhunnisa Permata,Langsa,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,3,Terkirim
+ORD00787,2025-03-18,,Kota Administrasi Jakarta Pusat,Poco X5,Xiaomi,9263873,3,27791619,COD,5,Terkirim
+ORD00788,2025/03/22,"Cakrabirawa Wijayanti, S.Pd",sibolga,Galaxy S23,samsung,5131304,3,15393912,E-Wallet,3,Terkirim
+ORD00789,2025/07/21,dr. Pardi Laksita,Kota Administrasi Jakarta Selatan,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00790,07-13-2025,Puti Samiah Setiawan,Bitung,iPhone 13,Apple,11425080,3,34275240,COD,3,Terkirim
+ORD00791,2025-03-11,Ghani Hariyah,Surabaya,Redmi Note 12,Xiaomi,99999999,,15542345,E-Wallet,4,Terkirim
+ORD00792,2025-01-25,"Tasdik Sitompul, S.E.",,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,3,Terkirim
+ORD00793,2025-05-20,Sutan Galur Hardiansyah,TUAL,iPhone 13,APPLE,11425080,2,22850160,COD,3,Dalam Pengiriman
+ORD00794,03-26-2025,"dr. Raharja Prasetyo, S.Kom",Palu,OPPO A57,OPPO,13851031,2,27702062,Kartu Kredit,4,Terkirim
+ORD00795,2025-02-28,Dalima Ramadan,Kendari,iPhone 14 Pro,,9443827,1,9443827,E-Wallet,1,Terkirim
+ORD00796,2025-05-16,Ir. Hartana Prastuti,Balikpapan,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,1,Terkirim
+ORD00797,2025-03-30,Drs. Dina Samosir,bogor,Vivo V29,vivo,8682500,3,26047500,E-Wallet,3,Terkirim
+ORD00798,2025-07-16,"Banawa Adriansyah, S.Kom",Malang,iPhone 13,Apple,11425080,2,22850160,E-Wallet,1,Terkirim
+ORD00799,2025/03/18,"drg. Nadia Zulaika, S.Pt",YOGYAKARTA,Realme C55,REALME,6183710,2,,Transfer Bank,2,Terkirim
+ORD00800,2025-02-16,Jabal Samosir,PARIAMAN,Galaxy S23,SAMSUNG,5131304,2,10262608,Transfer Bank,3,Terkirim
+ORD00801,2025-02-28,Tgk. Cahyanto Astuti,Tanjungbalai,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,5,Terkirim
+,2025-01-26,"Uli Padmasari, S.Psi",Denpasar,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD00803,2025-05-25,"KH. Mustofa Nasyiah, S.E.",Malang,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD00804,2025-01-27,Dimas Dabukke,Kupang,iPhone 14 Pro,Apple,9443827,2,18887654,Kartu Kredit,3,Terkirim
+ORD00805,2025/04/19,"H. Ajimin Haryanti, S.E.I",Pagaralam,Galaxy S23,Samsung,5131304,1,5131304,COD,5,
+ORD00806,2025/04/27,"Cici Gunarto, S.Pd",Denpasar,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,3,
+,2025-03-07,"Hilda Kuswoyo, S.Pd",palembang,Vivo V29,vivo,8682500,2,17365000,COD,2,Terkirim
+ORD00808,05-05-2025,,ternate,Galaxy A14,samsung,15965299,1,15965299,Transfer Bank,4,Terkirim
+ORD00809,02-25-2025,Ratih Pratama,Tanjungbalai,iPhone 13,Apple,11425080,2,22850160,E-Wallet,2,Terkirim
+,2025/03/11,Dt. Akarsana Suryono,kota administrasi jakarta barat,Vivo Y27,vivo,13747665,3,41242995,COD,3,Terkirim
+ORD00811,2025/06/08,Dt. Salman Riyanti,Prabumulih,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD00812,,Catur Anggraini,PASURUAN,Vivo Y27,VIVO,13747665,3,41242995,Transfer Bank,5,Terkirim
+ORD00813,2025-04-28,"R.M. Abyasa Agustina, S.T.",Kotamobagu,Realme C55,Realme,6183710,3,18551130,E-Wallet,4,Terkirim
+ORD00814,2025-07-17,Latika Saputra,TARAKAN,OPPO Reno10,OPPO,16139773,3,48419319,Kartu Kredit,,Terkirim
+ORD00815,2025-04-15,Citra Susanti,Surakarta,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,5,Terkirim
+,02-25-2025,Gaman Kusumo,Batam,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,2,Terkirim
+ORD00817,2025-07-23,Tgk. Ratna Suwarno,tanjungpinang,Vivo Y27,vivo,13747665,2,27495330,,3,Terkirim
+ORD00818,02-28-2025,Ghani Hidayanto,BANJAR,,OPPO,16139773,1,16139773,Transfer Bank,3,Dalam Pengiriman
+ORD00819,2025/05/11,R. Farhunnisa Maulana,TANGERANG,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,4,Terkirim
+ORD00820,2025-05-15,Gantar Hardiansyah,meulaboh,OPPO A57,oppo,13851031,1,13851031,Transfer Bank,4,Terkirim
+ORD00821,06-29-2025,Oliva Iswahyudi,Kota Administrasi Jakarta Selatan,Galaxy S23,Samsung,5131304,1,5131304,COD,5,Terkirim
+ORD00822,2025-05-27,,Sabang,Redmi Note 12,Xiaomi,15542345,3,46627035,Kartu Kredit,4,Terkirim
+ORD00823,2025-07-08,Tgk. Gara Budiyanto,Bontang,Galaxy A14,Samsung,15965299,2,31930598,,4,Dalam Pengiriman
+ORD00824,,Victoria Siregar,Kota Administrasi Jakarta Barat,iPhone 13,Apple,11425080,2,22850160,COD,3,Terkirim
+ORD00825,2025-06-05,Daliman Prastuti,SUKABUMI,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,5,Terkirim
+ORD00826,2025/04/13,Mutia Hidayat,Magelang,Vivo V29,Vivo,8682500,1,8682500,Kartu Kredit,5,Terkirim
+ORD00827,06-21-2025,Puti Latika Widodo,Batam,OPPO Reno10,OPPO,16139773,2,32279546,E-Wallet,5,Terkirim
+ORD00828,04-10-2025,Zizi Hidayat,Tangerang Selatan,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,1,Dalam Pengiriman
+ORD00829,,Kania Sihombing,Purwokerto,Vivo Y27,Vivo,13747665,3,41242995,E-Wallet,4,Terkirim
+ORD00830,2025/05/26,Malika Marpaung,Sabang,iPhone 13,Apple,11425080,3,34275240,Kartu Kredit,2,Terkirim
+ORD00831,2025-06-01,Jail Wijayanti,Pangkalpinang,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,3,Terkirim
+,01-31-2025,Lili Prasetyo,Purwokerto,Vivo Y27,Vivo,13747665,2,27495330,Kartu Kredit,2,Terkirim
+ORD00833,2025-02-27,Umi Prasetyo,Padang,Realme C55,Realme,6183710,1,6183710,COD,4,Terkirim
+ORD00834,2025/03/08,"Nadine Permata, S.E.I",Bontang,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,,Dalam Pengiriman
+ORD00835,2025-05-15,Shakila Hakim,Payakumbuh,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,2,Terkirim
+ORD00836,2025-03-08,Mutia Purnawati,Pekalongan,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,,Terkirim
+,2025/03/27,"dr. Kartika Oktaviani, S.Kom",Padangpanjang,iPhone 14 Pro,Apple,9443827,2,18887654,Kartu Kredit,4,Gagal
+ORD00838,2025-06-23,Cindy Wibisono,Bogor,Vivo Y27,Vivo,13747665,1,13747665,Kartu Kredit,3,Dalam Pengiriman
+ORD00839,2025/03/15,,DUMAI,Realme 11 Pro,REALME,1743334,1,1743334,COD,2,Terkirim
+ORD00840,2025/06/21,drg. Dalima Nashiruddin,Tanjungpinang,Poco X5,Xiaomi,9263873,2,18527746,COD,4,Terkirim
+ORD00841,2025-04-27,Sutan Harsanto Waskita,Lhokseumawe,OPPO Reno10,OPPO,16139773,,16139773,COD,5,Terkirim
+ORD00842,2025-04-03,"R. Prayogo Suartini, S.IP",kediri,Realme C55,realme,6183710,2,12367420,Transfer Bank,2,Terkirim
+ORD00843,2025-05-22,drg. Karman Fujiati,Banjarmasin,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,,Terkirim
+ORD00844,2025/07/04,Jindra Irawan,MANADO,,APPLE,11425080,3,34275240,Transfer Bank,3,Terkirim
+ORD00845,2025-03-20,Jasmin Yuliarti,bengkulu,Poco X5,xiaomi,,2,18527746,COD,5,Dalam Pengiriman
+ORD00846,2025/06/21,Mariadi Sihotang,tual,Vivo Y27,vivo,13747665,2,27495330,Transfer Bank,4,Terkirim
+ORD00847,2025/03/14,Dr. Najib Mansur,Sukabumi,Realme 11 Pro,Realme,1743334,1,1743334,,4,Terkirim
+ORD00848,2025-06-02,"Ir. Karma Prastuti, S.Gz",Tanjungpinang,Galaxy A14,Samsung,15965299,,31930598,Kartu Kredit,3,Terkirim
+ORD00849,2025-02-21,"Yono Saefullah, M.Pd",Kotamobagu,Galaxy S23,Samsung,,1,5131304,Transfer Bank,4,Terkirim
+ORD00850,2025-04-03,Maryanto Wacana,Tangerang,Realme C55,Realme,6183710,3,,Transfer Bank,1,Terkirim
+ORD00851,2025-02-12,Farhunnisa Wasita,Magelang,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,4,Gagal
+ORD00852,03-11-2025,Saadat Simanjuntak,Pontianak,Redmi Note 12,Xiaomi,15542345,1,15542345,COD,5,Terkirim
+ORD00853,2025/04/14,Ibun Anggriawan,PRABUMULIH,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,4,Terkirim
+ORD00854,2025-05-17,Yuliana Wibisono,Balikpapan,Realme C55,Realme,6183710,3,18551130,E-Wallet,5,Terkirim
+ORD00855,2025-05-10,Vanesa Agustina,Kediri,Realme C55,Realme,6183710,1,6183710,Transfer Bank,4,
+ORD00856,04-11-2025,Ir. Kamila Mandasari,Semarang,,Samsung,15965299,1,15965299,Transfer Bank,2,Terkirim
+ORD00857,2025/06/04,"Rini Haryanto, S.I.Kom",Lubuklinggau,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,5,Terkirim
+ORD00858,04-16-2025,Febi Mayasari,Lhokseumawe,Realme C55,,6183710,3,18551130,E-Wallet,2,Terkirim
+ORD00859,02-04-2025,Zalindra Pangestu,,Redmi Note 12,XIAOMI,15542345,2,31084690,COD,4,Terkirim
+ORD00860,2025-05-03,"Umi Firmansyah, S.Pt",surakarta,iPhone 14 Pro,apple,9443827,3,28331481,Transfer Bank,2,Terkirim
+ORD00861,2025-07-25,Daryani Adriansyah,Padang Sidempuan,iPhone 14 Pro,Apple,9443827,2,18887654,E-Wallet,1,Dalam Pengiriman
+ORD00862,2025/05/04,Simon Dongoran,CILEGON,OPPO Reno10,OPPO,16139773,1,16139773,E-Wallet,4,Terkirim
+ORD00863,2025-02-12,,Binjai,Realme 11 Pro,Realme,500000000,3,5230002,E-Wallet,3,Terkirim
+ORD00864,03-28-2025,"Zelda Permadi, S.Kom",Banjarmasin,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD00865,2025-06-24,,PAREPARE,Vivo V29,VIVO,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD00866,2025-01-31,dr. Ghaliyati Sitompul,bau-bau,iPhone 13,apple,11425080,2,22850160,Transfer Bank,1,Gagal
+ORD00867,2025-07-21,Koko Hutagalung,Padangpanjang,iPhone 13,Apple,,2,22850160,Transfer Bank,2,Terkirim
+,2025/05/10,"Jasmani Wibisono, M.Ak",pagaralam,Galaxy A14,samsung,15965299,2,31930598,COD,4,Terkirim
+ORD00869,2025-02-19,Hasna Sinaga,Denpasar,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,3,Terkirim
+ORD00870,2025/05/29,Drs. Zizi Sirait,Tasikmalaya,Galaxy A14,Samsung,15965299,,47895897,COD,4,Terkirim
+ORD00871,06-21-2025,"Julia Maryadi, S.Farm",,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Dalam Pengiriman
+ORD00872,2025-02-19,"Drs. Kawaya Rajata, S.Sos",Banjarmasin,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Dalam Pengiriman
+ORD00873,07-22-2025,Caraka Prayoga,Metro,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,4,Terkirim
+ORD00874,2025-02-23,"Estiono Wibowo, S.I.Kom",padangpanjang,Poco X5,xiaomi,9263873,1,9263873,Transfer Bank,4,Terkirim
+ORD00875,2025-07-01,dr. Padma Tarihoran,MOJOKERTO,Vivo V29,VIVO,8682500,1,8682500,COD,4,Terkirim
+ORD00876,2025-04-26,"Gading Handayani, M.Kom.",Binjai,,Realme,1743334,2,3486668,Transfer Bank,3,Terkirim
+ORD00877,2025/06/20,"Fitriani Astuti, M.M.",Pariaman,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,3,Terkirim
+ORD00878,2025-06-27,Icha Wasita,Kotamobagu,iPhone 13,Apple,11425080,,22850160,COD,5,Terkirim
+ORD00879,2025-06-30,KH. Darman Jailani,Tangerang,OPPO Reno10,OPPO,,3,48419319,COD,4,Terkirim
+ORD00880,2025-07-01,Rachel Wacana,Pekalongan,OPPO A57,OPPO,13851031,2,27702062,,5,Terkirim
+ORD00881,2025-01-26,Marsito Waskita,Banjar,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,,Terkirim
+ORD00882,04-25-2025,"Bahuwarna Adriansyah, M.Ak",pontianak,Galaxy A14,samsung,15965299,3,47895897,Kartu Kredit,5,Dalam Pengiriman
+ORD00883,2025-03-19,Harto Novitasari,Madiun,iPhone 14 Pro,Apple,1,,9443827,E-Wallet,5,Dalam Pengiriman
+ORD00884,2025/04/14,Maras Uwais,Bitung,Galaxy S23,Samsung,5131304,3,15393912,E-Wallet,4,Terkirim
+ORD00885,2025/06/05,Ir. Alambana Palastri,Cirebon,Realme 11 Pro,Realme,500000000,1,1743334,COD,3,
+ORD00886,06-18-2025,"Simon Mandala, M.TI.",Salatiga,iPhone 13,Apple,11425080,1,11425080,COD,4,Terkirim
+ORD00887,2025-04-08,"Bagya Rahmawati, S.Gz",Bontang,Vivo Y27,Vivo,13747665,2,27495330,,3,Terkirim
+ORD00888,2025/02/17,"Salwa Prakasa, S.Kom",JAYAPURA,OPPO Reno10,OPPO,16139773,1,16139773,Kartu Kredit,4,Terkirim
+ORD00889,2025-02-23,Farhunnisa Widiastuti,PEKANBARU,Realme C55,REALME,6183710,3,18551130,,4,Terkirim
+ORD00890,2025-07-20,Harsaya Pratiwi,magelang,Galaxy A14,samsung,15965299,1,15965299,COD,4,Terkirim
+ORD00891,2025-05-02,Puti Usamah,Tasikmalaya,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,3,Terkirim
+ORD00892,2025-07-10,"Ghaliyati Mansur, S.E.",Parepare,OPPO Reno10,OPPO,16139773,1,,E-Wallet,3,Terkirim
+ORD00893,2025-06-10,"Karna Hasanah, M.Farm",padangpanjang,OPPO A57,oppo,13851031,3,41553093,Kartu Kredit,4,Gagal
+ORD00894,2025/03/23,Karen Wibowo,Pagaralam,iPhone 13,Apple,11425080,2,22850160,E-Wallet,2,
+ORD00895,06-12-2025,Drs. Cecep Namaga,Prabumulih,Realme C55,Realme,6183710,2,12367420,E-Wallet,5,Terkirim
+ORD00896,07-05-2025,"Ir. Abyasa Siregar, S.Kom",Payakumbuh,Galaxy A14,Samsung,15965299,1,,COD,3,Terkirim
+ORD00897,2025-07-20,"Tgk. Febi Situmorang, S.Gz",Pariaman,Galaxy A14,Samsung,15965299,3,47895897,COD,3,Terkirim
+ORD00898,2025-04-11,"Nyana Laksmiwati, S.H.",Pangkalpinang,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,1,Terkirim
+ORD00899,03-22-2025,Nadine Sudiati,Gorontalo,OPPO Reno10,OPPO,16139773,2,32279546,COD,4,Terkirim
+ORD00900,2025-04-03,"Gadang Habibi, S.T.",KOTAMOBAGU,Galaxy A14,SAMSUNG,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD00901,2025-02-13,Septi Fujiati,Meulaboh,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,3,Terkirim
+ORD00902,2025-05-16,"Mursita Saptono, M.Kom.",banjarbaru,Galaxy A14,samsung,15965299,3,47895897,Kartu Kredit,2,Gagal
+ORD00903,2025-02-01,Kartika Fujiati,Kediri,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,4,Terkirim
+ORD00904,2025/06/28,R.A. Rika Permadi,Bau-Bau,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,3,Terkirim
+ORD00905,2025-04-18,"Puti Endah Damanik, M.M.",TANJUNGPINANG,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,4,Terkirim
+ORD00906,2025/06/07,Sabrina Saptono,Solok,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,4,Terkirim
+ORD00907,2025-06-14,Yunita Maryati,pontianak,Galaxy A14,samsung,15965299,2,31930598,Transfer Bank,3,Gagal
+ORD00908,2025/05/30,Fathonah Hassanah,Kota Administrasi Jakarta Selatan,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,3,Terkirim
+ORD00909,2025-02-28,Aurora Simbolon,kendari,Vivo V29,vivo,8682500,1,8682500,E-Wallet,5,Terkirim
+ORD00910,2025-07-23,Arta Kurniawan,KOTA ADMINISTRASI JAKARTA BARAT,OPPO A57,OPPO,13851031,2,27702062,Kartu Kredit,4,Terkirim
+ORD00911,2025-06-10,Padmi Mulyani,Malang,Vivo Y27,Vivo,13747665,1,13747665,E-Wallet,4,Terkirim
+ORD00912,2025-06-25,Irfan Maryati,Mataram,Redmi Note 12,Xiaomi,15542345,1,15542345,COD,2,Terkirim
+ORD00913,2025-05-16,Dimaz Prakasa,Tasikmalaya,Realme C55,Realme,6183710,1,6183710,COD,,Terkirim
+ORD00914,,"Keisha Winarsih, S.Gz",Balikpapan,Realme C55,Realme,1,2,12367420,Transfer Bank,1,Terkirim
+ORD00915,2025-03-09,"dr. Jamalia Permadi, S.IP",Lhokseumawe,Realme 11 Pro,Realme,1743334,1,1743334,COD,4,Terkirim
+ORD00916,2025-05-01,Surya Laksmiwati,Bukittinggi,iPhone 13,Apple,11425080,1,11425080,COD,5,Dalam Pengiriman
+ORD00917,2025-06-01,"Oni Irawan, S.Farm",sawahlunto,iPhone 13,apple,99999999,3,34275240,Transfer Bank,3,Terkirim
+ORD00918,2025-04-07,Laksana Saputra,JAYAPURA,iPhone 13,APPLE,11425080,2,22850160,E-Wallet,1,Terkirim
+ORD00919,06-14-2025,"R. Laila Pradana, S.Ked",Makassar,iPhone 13,Apple,11425080,1,11425080,COD,1,Terkirim
+ORD00920,05-20-2025,Mujur Oktaviani,Mataram,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,3,Terkirim
+ORD00921,2025/02/12,Hasan Mustofa,Batam,OPPO Reno10,,16139773,1,16139773,E-Wallet,3,Terkirim
+ORD00922,04-07-2025,Ella Hutapea,batu,Galaxy A14,samsung,15965299,1,15965299,E-Wallet,1,Terkirim
+ORD00923,02-02-2025,"Sutan Martaka Zulaika, S.Pt",Batam,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,5,Terkirim
+ORD00924,04-15-2025,Cici Wacana,malang,Redmi Note 12,xiaomi,500000000,1,,Kartu Kredit,4,Terkirim
+ORD00925,2025-06-03,,KOTA ADMINISTRASI JAKARTA BARAT,Galaxy A14,SAMSUNG,15965299,1,15965299,COD,3,Terkirim
+ORD00926,04-21-2025,Queen Ramadan,Tomohon,OPPO Reno10,OPPO,16139773,1,16139773,,5,Terkirim
+ORD00927,03-06-2025,Leo Tampubolon,PANGKALPINANG,Vivo V29,VIVO,8682500,2,17365000,E-Wallet,2,Terkirim
+ORD00928,2025-05-12,"Sutan Okta Yuniar, S.IP",Sungai Penuh,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,5,Terkirim
+ORD00929,2025/03/19,,Blitar,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,3,Terkirim
+ORD00930,2025-06-17,"Hani Wasita, S.E.I",Cimahi,Galaxy A14,Samsung,15965299,,15965299,COD,5,Terkirim
+ORD00931,2025-02-26,Atmaja Nuraini,BANDUNG,Realme C55,REALME,6183710,1,6183710,Transfer Bank,4,Terkirim
+ORD00932,2025-05-28,Salsabila Wibowo,Purwokerto,iPhone 14 Pro,Apple,,2,18887654,COD,5,Terkirim
+ORD00933,2025/07/06,"Ir. Icha Sitompul, M.M.",pekanbaru,Redmi Note 12,xiaomi,15542345,1,15542345,Kartu Kredit,,Terkirim
+ORD00934,2025-07-01,Yunita Yuliarti,Bandung,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,3,
+ORD00935,2025/06/01,"Bagya Zulkarnain, S.Ked",Banda Aceh,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,5,Gagal
+ORD00936,2025-02-14,"Sarah Sitorus, S.Psi",Bau-Bau,Redmi Note 12,Xiaomi,15542345,2,31084690,,3,Terkirim
+ORD00937,2025/04/25,"Ana Firgantoro, S.H.",makassar,Poco X5,xiaomi,,1,9263873,Kartu Kredit,3,Terkirim
+ORD00938,2025/06/04,Ir. Dalima Andriani,batu,iPhone 13,apple,,2,22850160,COD,3,Terkirim
+ORD00939,2025/06/22,Teguh Tampubolon,Banjar,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,4,Terkirim
+ORD00940,2025-06-17,,SUNGAI PENUH,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,3,Terkirim
+ORD00941,2025/04/16,drg. Putri Wibowo,Kota Administrasi Jakarta Utara,Galaxy S23,Samsung,5131304,2,10262608,Kartu Kredit,4,Terkirim
+ORD00942,2025/02/24,Salsabila Fujiati,MEDAN,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,4,Terkirim
+ORD00943,2025/07/19,Nadia Maryadi,Depok,iPhone 13,Apple,11425080,3,34275240,Transfer Bank,,Terkirim
+ORD00944,04-12-2025,Ophelia Wasita,manado,Realme 11 Pro,realme,1743334,3,5230002,E-Wallet,5,Gagal
+ORD00945,2025-06-29,Ir. Rahmi Jailani,payakumbuh,Galaxy S23,samsung,5131304,1,5131304,COD,4,Gagal
+ORD00946,2025-07-22,Sidiq Yolanda,Bandar Lampung,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,3,Gagal
+ORD00947,2025/03/14,"Sutan Dwi Simbolon, S.Psi",tangerang selatan,iPhone 13,apple,11425080,2,,COD,3,Terkirim
+ORD00948,2025-03-31,Pandu Dongoran,Langsa,Realme 11 Pro,Realme,1743334,3,5230002,Kartu Kredit,3,Terkirim
+ORD00949,2025-07-12,Ida Pratama,Kota Administrasi Jakarta Pusat,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,2,Dalam Pengiriman
+ORD00950,2025-05-15,Ajimin Maheswara,semarang,iPhone 14 Pro,apple,9443827,2,18887654,COD,3,Terkirim
+ORD00951,,Julia Irawan,bandar lampung,Vivo Y27,vivo,13747665,2,27495330,COD,3,Terkirim
+ORD00952,03-26-2025,"Ulva Uyainah, S.Sos",Banjar,Realme C55,Realme,,1,6183710,COD,5,Terkirim
+ORD00953,2025-06-19,"Cahya Pratama, S.Sos",salatiga,,vivo,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD00954,2025-03-15,,Denpasar,Galaxy S23,Samsung,500000000,1,5131304,COD,3,Terkirim
+ORD00955,2025-06-16,Oni Hardiansyah,Kota Administrasi Jakarta Utara,Galaxy A14,Samsung,15965299,2,31930598,COD,4,Gagal
+ORD00956,07-24-2025,Fathonah Natsir,Pontianak,Galaxy S23,Samsung,5131304,1,,Kartu Kredit,2,Terkirim
+ORD00957,2025-01-26,Ir. Laila Prayoga,Bukittinggi,iPhone 13,Apple,11425080,2,22850160,COD,4,Terkirim
+ORD00958,05-23-2025,Mumpuni Napitupulu,,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,4,Terkirim
+ORD00959,2025-07-24,"Unggul Anggraini, S.E.I",Kota Administrasi Jakarta Utara,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,4,Gagal
+ORD00960,2025-02-18,Muhammad Jailani,Pagaralam,OPPO Reno10,,16139773,1,16139773,COD,4,Terkirim
+ORD00961,2025-05-04,Drs. Kani Samosir,Tanjungpinang,Realme C55,Realme,6183710,2,12367420,Transfer Bank,5,Terkirim
+ORD00962,2025-07-23,Sutan Kariman Sihombing,Cilegon,Vivo V29,Vivo,8682500,1,8682500,COD,5,Terkirim
+ORD00963,2025-03-25,Tedi Widiastuti,BITUNG,iPhone 13,APPLE,,1,11425080,Transfer Bank,4,Terkirim
+ORD00964,2025-04-30,"Drs. Heryanto Napitupulu, M.Kom.",payakumbuh,iPhone 14 Pro,apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD00965,2025-02-01,Galak Nashiruddin,KUPANG,Realme C55,REALME,6183710,1,6183710,E-Wallet,4,Terkirim
+ORD00966,2025-04-02,Ilyas Wulandari,yogyakarta,iPhone 13,apple,11425080,3,34275240,COD,3,Dalam Pengiriman
+ORD00967,2025/05/05,Karsana Hutapea,tangerang selatan,Realme 11 Pro,realme,1743334,2,3486668,E-Wallet,3,Terkirim
+ORD00968,2025-05-21,"Rahman Prasasta, S.IP",BANDUNG,OPPO A57,,13851031,3,41553093,Transfer Bank,1,Terkirim
+ORD00969,2025/06/17,"Natalia Megantara, S.Ked",SEMARANG,Galaxy A14,SAMSUNG,15965299,3,47895897,,4,Terkirim
+ORD00970,2025-06-20,Dr. Gatot Permadi,Tegal,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD00971,2025-05-22,Almira Mandala,BANJAR,OPPO A57,OPPO,13851031,2,27702062,COD,3,Terkirim
+ORD00972,2025/03/18,"Tgk. Bakiadi Dongoran, S.Pt",Tidore Kepulauan,Vivo V29,Vivo,8682500,3,26047500,Transfer Bank,5,Terkirim
+ORD00973,2025-05-06,Mutia Wastuti,Tanjungbalai,,Apple,11425080,2,22850160,Kartu Kredit,5,Terkirim
+ORD00974,2025-02-15,Maya Megantara,solok,iPhone 13,apple,11425080,3,34275240,Transfer Bank,4,Terkirim
+ORD00975,2025/03/04,Drs. Endah Nuraini,serang,iPhone 14 Pro,apple,9443827,2,18887654,,4,Terkirim
+ORD00976,2025-04-29,Kamaria Gunarto,Pontianak,Vivo Y27,Vivo,,3,41242995,E-Wallet,5,Terkirim
+ORD00977,2025-04-28,Tgk. Nrima Setiawan,BANJARBARU,Realme 11 Pro,REALME,1743334,2,3486668,Transfer Bank,2,Terkirim
+ORD00978,2025-03-06,"Tasdik Wacana, M.Kom.",Bengkulu,Realme C55,Realme,6183710,1,6183710,Transfer Bank,5,Terkirim
+ORD00979,2025/06/12,Hj. Oni Dabukke,jambi,Realme C55,realme,6183710,1,6183710,Transfer Bank,2,Terkirim
+ORD00980,,"T. Prabu Haryanto, S.Ked",Cilegon,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,5,Terkirim
+ORD00981,07-23-2025,Puti Rahayu Permadi,Bengkulu,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,3,Terkirim
+ORD00982,2025-04-15,"H. Opan Mayasari, M.Kom.",Cirebon,iPhone 14 Pro,Apple,,3,28331481,Transfer Bank,5,Dalam Pengiriman
+ORD00983,2025/06/28,Gabriella Najmudin,prabumulih,iPhone 14 Pro,apple,9443827,3,28331481,Transfer Bank,5,Dalam Pengiriman
+ORD00984,03-24-2025,Ghani Permadi,SERANG,,APPLE,9443827,2,18887654,Transfer Bank,2,Terkirim
+ORD00985,2025-01-29,"Drs. Tira Ramadan, S.T.",Pasuruan,Galaxy A14,Samsung,1,3,47895897,Kartu Kredit,4,Terkirim
+ORD00986,,"Nadine Salahudin, S.Gz",BANDAR LAMPUNG,Galaxy A14,SAMSUNG,15965299,2,31930598,Transfer Bank,5,Terkirim
+ORD00987,2025-07-03,"Sadina Hidayanto, S.H.",,Poco X5,XIAOMI,9263873,2,18527746,Kartu Kredit,4,Terkirim
+ORD00988,2025-05-28,"Kani Kuswandari, S.Kom",pagaralam,Poco X5,xiaomi,9263873,2,18527746,E-Wallet,5,Gagal
+ORD00989,2025-07-05,Hj. Tari Iswahyudi,Palangkaraya,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,4,Terkirim
+ORD00990,2025/06/01,Timbul Utama,Kota Administrasi Jakarta Barat,OPPO Reno10,OPPO,16139773,3,,Transfer Bank,3,Terkirim
+ORD00991,04-22-2025,Lala Dongoran,pasuruan,iPhone 13,apple,11425080,1,11425080,COD,3,Terkirim
+ORD00992,2025-05-10,Hasim Suryatmi,Binjai,Vivo V29,Vivo,8682500,1,8682500,Transfer Bank,3,Terkirim
+ORD00993,2025/05/19,"Murti Santoso, M.Kom.",Batam,Realme 11 Pro,Realme,1743334,1,1743334,Kartu Kredit,5,Terkirim
+ORD00994,2025-03-24,"Puti Fitria Mayasari, S.Psi",jambi,OPPO Reno10,oppo,16139773,,16139773,Kartu Kredit,3,Terkirim
+,2025-06-11,"Sutan Elvin Prabowo, S.Pt",Blitar,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,4,Terkirim
+ORD00996,,"Muni Mulyani, M.Pd",Bengkulu,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,4,Terkirim
+ORD00997,2025/02/14,Yunita Putra,Blitar,Vivo Y27,Vivo,13747665,2,27495330,COD,4,Terkirim
+ORD00998,,"Farhunnisa Prayoga, S.Pt",SEMARANG,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,5,Dalam Pengiriman
+ORD00999,2025-03-03,Ella Lailasari,BAU-BAU,Galaxy A14,SAMSUNG,15965299,3,47895897,E-Wallet,5,Terkirim
+ORD01000,2025-06-18,Dr. Ophelia Farida,BUKITTINGGI,iPhone 14 Pro,APPLE,9443827,3,28331481,E-Wallet,4,Gagal
+ORD01001,2025-07-01,"Hj. Anita Wulandari, S.IP",depok,Vivo V29,vivo,8682500,3,26047500,Kartu Kredit,5,Terkirim
+ORD01002,2025-06-11,Queen Sihombing,BITUNG,Galaxy A14,SAMSUNG,99999999,1,15965299,E-Wallet,5,Terkirim
+ORD01003,2025-03-23,"Dt. Budi Sudiati, S.Pt",Makassar,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD01004,2025-04-08,Hj. Elma Wahyudin,Sorong,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,5,Terkirim
+ORD01005,2025-07-17,Capa Firmansyah,PRABUMULIH,Poco X5,XIAOMI,9263873,1,9263873,Transfer Bank,3,Terkirim
+ORD01006,2025-01-29,Cut Iriana Suartini,BLITAR,Realme 11 Pro,REALME,1743334,2,3486668,Kartu Kredit,2,Gagal
+ORD01007,2025-05-26,"drg. Legawa Uwais, S.Kom",Pasuruan,Realme 11 Pro,Realme,99999999,3,5230002,Kartu Kredit,5,Dalam Pengiriman
+ORD01008,06-17-2025,Queen Mandasari,Balikpapan,Vivo V29,Vivo,,2,17365000,Transfer Bank,4,Dalam Pengiriman
+ORD01009,2025-01-27,Unggul Setiawan,Cimahi,Realme C55,Realme,6183710,2,12367420,Kartu Kredit,5,Dalam Pengiriman
+ORD01010,06-07-2025,"Uli Sihotang, S.Farm",Tidore Kepulauan,iPhone 13,Apple,11425080,2,22850160,COD,5,Terkirim
+ORD01011,2025-01-25,Karsana Suryono,kupang,Poco X5,xiaomi,9263873,2,18527746,Transfer Bank,2,Terkirim
+ORD01012,2025-05-29,"Kani Waluyo, S.I.Kom",Blitar,Realme 11 Pro,Realme,1,2,3486668,Kartu Kredit,5,Gagal
+ORD01013,,"R. Dirja Situmorang, S.IP",Sukabumi,Galaxy A14,Samsung,500000000,3,47895897,Kartu Kredit,4,Terkirim
+ORD01014,2025-06-20,Gamanto Rajasa,tasikmalaya,iPhone 14 Pro,apple,9443827,3,28331481,E-Wallet,4,Terkirim
+ORD01015,2025-07-19,Gasti Nasyiah,Probolinggo,Galaxy S23,Samsung,5131304,2,10262608,COD,4,Terkirim
+ORD01016,2025-03-03,Calista Irawan,Semarang,Galaxy S23,Samsung,5131304,1,5131304,COD,5,Terkirim
+ORD01017,2025-04-17,"Aris Waluyo, M.Pd",Binjai,,Samsung,5131304,2,10262608,COD,1,Terkirim
+ORD01018,2025-03-30,Devi Siregar,Balikpapan,Realme 11 Pro,Realme,1743334,1,,Transfer Bank,4,Terkirim
+ORD01019,2025-06-06,Wani Zulkarnain,malang,Realme C55,realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+ORD01020,2025/02/14,dr. Gawati Uwais,Bitung,Poco X5,Xiaomi,9263873,2,18527746,Kartu Kredit,4,Terkirim
+ORD01021,,Dalima Mulyani,Palangkaraya,OPPO Reno10,OPPO,16139773,3,48419319,COD,4,Terkirim
+ORD01022,04-02-2025,Puti Hani Rahmawati,Prabumulih,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,2,
+ORD01023,2025-05-26,Cut Halima Anggraini,Kotamobagu,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,3,Terkirim
+ORD01024,07-15-2025,Cinta Lestari,pekalongan,Vivo V29,vivo,8682500,2,17365000,Transfer Bank,3,Terkirim
+ORD01025,2025/05/21,"Dt. Tirta Yolanda, S.Psi",Sorong,Realme C55,Realme,6183710,2,12367420,Transfer Bank,5,Terkirim
+ORD01026,2025-06-13,R.M. Cawisadi Rahayu,Tebingtinggi,Galaxy A14,Samsung,15965299,3,47895897,COD,3,
+ORD01027,2025/06/18,Kamila Rahimah,SOLOK,iPhone 13,APPLE,500000000,1,11425080,Transfer Bank,3,Terkirim
+ORD01028,2025-07-19,Natalia Hardiansyah,BITUNG,Galaxy S23,SAMSUNG,5131304,2,10262608,Kartu Kredit,5,Terkirim
+ORD01029,2025-04-23,Dr. Zulfa Mangunsong,Semarang,Realme C55,Realme,6183710,3,18551130,Transfer Bank,1,Dalam Pengiriman
+,2025-05-15,KH. Nyoman Suryono,sorong,iPhone 13,apple,11425080,1,11425080,Transfer Bank,5,Dalam Pengiriman
+ORD01031,2025-04-26,Hesti Anggraini,Batam,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,4,
+ORD01032,2025/02/04,Rudi Pranowo,bontang,Realme C55,realme,6183710,2,12367420,COD,5,Terkirim
+ORD01033,04-25-2025,Kamaria Prayoga,pasuruan,iPhone 13,apple,11425080,3,34275240,COD,3,Dalam Pengiriman
+ORD01034,2025/05/22,Paiman Hasanah,Bekasi,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,1,Terkirim
+ORD01035,2025-06-24,"Sutan Timbul Kusumo, S.E.",GORONTALO,Vivo V29,VIVO,8682500,1,8682500,Transfer Bank,4,Terkirim
+ORD01036,2025-06-09,Prabowo Kusumo,Sabang,Vivo V29,Vivo,8682500,1,8682500,Transfer Bank,5,Gagal
+ORD01037,2025-06-05,"dr. Amelia Jailani, M.TI.",Pematangsiantar,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD01038,02-01-2025,Cinta Pratiwi,tomohon,Galaxy A14,samsung,15965299,1,15965299,Kartu Kredit,2,Dalam Pengiriman
+ORD01039,04-25-2025,Kajen Simanjuntak,Cirebon,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,5,
+ORD01040,2025-06-25,Kani Maryadi,Depok,Realme C55,Realme,6183710,2,12367420,COD,5,Terkirim
+,07-16-2025,drg. Talia Budiman,pekalongan,Realme 11 Pro,realme,1743334,1,1743334,E-Wallet,4,Terkirim
+,2025-04-29,Ika Wijaya,DUMAI,Vivo V29,VIVO,8682500,1,8682500,Transfer Bank,5,Terkirim
+ORD01043,2025-01-26,Paiman Purnawati,TEBINGTINGGI,iPhone 14 Pro,APPLE,9443827,,18887654,E-Wallet,5,Terkirim
+ORD01044,06-14-2025,,purwokerto,Vivo V29,vivo,8682500,2,17365000,Transfer Bank,4,Terkirim
+ORD01045,2025-05-07,Clara Fujiati,Salatiga,iPhone 14 Pro,Apple,9443827,3,28331481,COD,2,Terkirim
+ORD01046,2025-02-05,Drs. Luhung Mardhiyah,Sabang,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,4,Terkirim
+ORD01047,2025-04-11,H. Bakianto Permadi,padang,Galaxy S23,samsung,5131304,3,15393912,COD,2,Gagal
+ORD01048,05-17-2025,Chelsea Hutapea,tanjungbalai,Realme C55,realme,,2,12367420,COD,4,Terkirim
+ORD01049,06-01-2025,Gilda Hidayanto,ambon,Realme C55,realme,6183710,3,18551130,Kartu Kredit,4,Terkirim
+ORD01050,2025-05-14,"R. Martaka Prasasta, S.Ked",Parepare,iPhone 13,Apple,11425080,2,22850160,COD,2,Terkirim
+ORD01051,2025/03/29,Kairav Anggriawan,BANJARMASIN,Vivo V29,VIVO,8682500,1,8682500,COD,3,
+ORD01052,2025-01-25,"Nilam Mansur, S.Gz",Tomohon,OPPO A57,OPPO,13851031,3,41553093,E-Wallet,2,Terkirim
+ORD01053,2025-05-06,Kania Purnawati,PAGARALAM,OPPO Reno10,OPPO,16139773,3,48419319,Kartu Kredit,5,Dalam Pengiriman
+ORD01054,03-23-2025,Uchita Sitompul,Tanjungpinang,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,5,Terkirim
+ORD01055,,Lanang Najmudin,banjar,OPPO A57,oppo,13851031,1,13851031,E-Wallet,2,Terkirim
+ORD01056,04-11-2025,"R.A. Tari Nuraini, S.IP",Tangerang,Realme 11 Pro,Realme,1743334,3,5230002,E-Wallet,5,Dalam Pengiriman
+ORD01057,2025-05-29,Shakila Wacana,Prabumulih,Galaxy S23,Samsung,5131304,3,15393912,COD,4,Terkirim
+ORD01058,2025-02-28,Dr. Iriana Pratiwi,gorontalo,Galaxy A14,samsung,15965299,,47895897,Transfer Bank,3,Terkirim
+ORD01059,2025-03-03,"Sakura Prayoga, M.Kom.",cirebon,iPhone 14 Pro,apple,,2,18887654,COD,2,Terkirim
+ORD01060,2025/05/15,Zahra Rajasa,Banjarmasin,Realme 11 Pro,Realme,1743334,1,,COD,4,Terkirim
+ORD01061,,Puti Sudiati,Tegal,Realme 11 Pro,Realme,1743334,2,3486668,Kartu Kredit,5,Terkirim
+ORD01062,2025/02/28,Hj. Yuni Rajasa,meulaboh,OPPO Reno10,oppo,16139773,2,32279546,Transfer Bank,4,Terkirim
+ORD01063,2025-07-25,Sarah Maulana,Blitar,iPhone 14 Pro,Apple,,3,28331481,Transfer Bank,2,Dalam Pengiriman
+ORD01064,2025/05/20,Ir. Makuta Saefullah,TARAKAN,Redmi Note 12,XIAOMI,15542345,2,31084690,,2,Terkirim
+,2025-03-24,"Cahyanto Firgantoro, S.Sos",Medan,Realme C55,Realme,6183710,3,18551130,Transfer Bank,4,Dalam Pengiriman
+ORD01066,2025/04/07,Yusuf Palastri,KOTAMOBAGU,Realme C55,REALME,6183710,1,6183710,Transfer Bank,,Terkirim
+ORD01067,2025/07/10,Zalindra Gunawan,SORONG,Poco X5,XIAOMI,9263873,3,27791619,E-Wallet,3,Terkirim
+ORD01068,2025-02-28,Titin Hardiansyah,BOGOR,Poco X5,XIAOMI,9263873,1,9263873,Kartu Kredit,3,Gagal
+ORD01069,05-15-2025,"Paulin Waskita, S.T.",bekasi,iPhone 14 Pro,apple,9443827,3,28331481,Kartu Kredit,5,
+ORD01070,2025-06-04,Nalar Usada,Bandung,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,5,Terkirim
+ORD01071,2025/05/15,Ibrani Prakasa,Pagaralam,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,4,Terkirim
+,2025/03/03,"Nyana Dongoran, S.Psi",Parepare,OPPO Reno10,OPPO,16139773,1,16139773,COD,5,Terkirim
+ORD01073,2025-02-20,,Kotamobagu,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,3,Terkirim
+,2025-07-08,Devi Nashiruddin,PALEMBANG,iPhone 13,APPLE,11425080,3,34275240,Transfer Bank,4,Terkirim
+ORD01075,2025/07/17,Aswani Puspasari,BANJARMASIN,Realme C55,REALME,6183710,3,18551130,Kartu Kredit,3,Terkirim
+ORD01076,2025/05/05,Ghani Salahudin,Palopo,iPhone 13,Apple,11425080,,22850160,Transfer Bank,4,Terkirim
+ORD01077,2025-07-08,,Bengkulu,Realme C55,Realme,6183710,1,6183710,E-Wallet,5,Terkirim
+ORD01078,2025-01-31,Elma Usamah,Prabumulih,Galaxy A14,Samsung,,3,47895897,E-Wallet,4,Dalam Pengiriman
+ORD01079,02-23-2025,Olivia Zulkarnain,,Galaxy S23,samsung,1,3,15393912,COD,3,Terkirim
+ORD01080,2025-04-26,Salwa Utami,Gorontalo,iPhone 13,Apple,11425080,2,22850160,E-Wallet,4,Terkirim
+ORD01081,2025/07/21,"Sari Gunawan, M.TI.",LHOKSEUMAWE,iPhone 13,APPLE,,1,11425080,E-Wallet,2,Terkirim
+ORD01082,2025-06-10,Dr. Karman Halim,Bekasi,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,5,Terkirim
+ORD01083,02-20-2025,"R.M. Harsana Hakim, S.Kom",Bandung,Realme C55,Realme,6183710,2,12367420,E-Wallet,4,Terkirim
+ORD01084,2025-05-01,"dr. Umay Maulana, S.T.",padang sidempuan,iPhone 13,apple,11425080,3,34275240,Transfer Bank,4,Gagal
+ORD01085,02-09-2025,Hj. Ade Hidayanto,MAGELANG,Galaxy S23,SAMSUNG,5131304,1,5131304,,4,Terkirim
+ORD01086,,Kasusra Riyanti,BALIKPAPAN,Galaxy S23,SAMSUNG,5131304,1,5131304,Transfer Bank,4,Dalam Pengiriman
+ORD01087,2025-01-25,Dr. Taufan Lazuardi,Batu,Galaxy S23,Samsung,5131304,1,5131304,COD,2,Terkirim
+ORD01088,02-27-2025,Mitra Wastuti,Padang,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD01089,2025-06-02,Gara Hassanah,GORONTALO,Realme C55,REALME,6183710,1,6183710,COD,3,Terkirim
+ORD01090,06-24-2025,Kamidin Dongoran,Pontianak,iPhone 14 Pro,Apple,99999999,3,28331481,COD,4,Dalam Pengiriman
+ORD01091,2025-04-28,Lili Winarsih,Sorong,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,5,Terkirim
+ORD01092,03-18-2025,Galih Prastuti,semarang,Galaxy A14,samsung,15965299,1,15965299,E-Wallet,5,Terkirim
+ORD01093,07-07-2025,,Madiun,Galaxy A14,Samsung,15965299,1,15965299,Kartu Kredit,4,Gagal
+ORD01094,02-15-2025,"Jane Pranowo, M.M.",Semarang,Realme 11 Pro,Realme,1743334,3,5230002,COD,4,Terkirim
+ORD01095,01-26-2025,"Natalia Siregar, S.Psi",ambon,Vivo Y27,vivo,13747665,3,41242995,Transfer Bank,2,Terkirim
+ORD01096,2025-01-31,Manah Megantara,Mataram,Vivo V29,Vivo,8682500,1,8682500,COD,5,Terkirim
+ORD01097,2025/03/29,Najam Mansur,MAKASSAR,iPhone 13,APPLE,11425080,1,11425080,Kartu Kredit,,Terkirim
+ORD01098,05-04-2025,Ir. Jarwadi Kurniawan,ternate,iPhone 14 Pro,apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD01099,2025/06/25,Mustofa Narpati,Sawahlunto,OPPO Reno10,OPPO,16139773,3,48419319,Kartu Kredit,3,Terkirim
+ORD01100,2025-03-17,Michelle Palastri,SURAKARTA,Realme 11 Pro,REALME,1743334,1,1743334,Kartu Kredit,2,Terkirim
+ORD01101,2025-02-10,Ciaobella Widiastuti,Banjarmasin,Vivo Y27,Vivo,1,3,,Transfer Bank,4,Terkirim
+ORD01102,2025-04-13,"R.A. Ellis Prakasa, S.Gz",CIREBON,,REALME,1743334,2,3486668,COD,2,Terkirim
+ORD01103,,R. Fitriani Wastuti,Batam,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD01104,2025-05-24,Puti Jailani,Palu,OPPO Reno10,OPPO,16139773,2,32279546,Kartu Kredit,3,Terkirim
+ORD01105,06-11-2025,"drg. Yuni Napitupulu, S.E.",Kotamobagu,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,1,Terkirim
+ORD01106,2025-05-25,Danu Mayasari,SUNGAI PENUH,OPPO Reno10,OPPO,16139773,2,32279546,,4,Terkirim
+ORD01107,2025-02-22,R.M. Emong Mardhiyah,sibolga,Vivo V29,vivo,8682500,3,26047500,Transfer Bank,1,Terkirim
+ORD01108,2025/03/11,Dt. Jaya Mustofa,Tangerang Selatan,,Samsung,5131304,3,15393912,COD,3,Terkirim
+ORD01109,2025/03/21,Bakidin Prabowo,Tomohon,Poco X5,,9263873,2,18527746,Kartu Kredit,4,Terkirim
+ORD01110,2025/06/12,Dina Andriani,Tasikmalaya,Realme 11 Pro,Realme,1743334,1,1743334,Kartu Kredit,2,Gagal
+ORD01111,2025-06-02,"Sutan Raden Nashiruddin, S.Ked",Depok,,Xiaomi,15542345,3,46627035,COD,5,Terkirim
+ORD01112,2025/04/22,Marsito Oktaviani,sawahlunto,OPPO A57,oppo,13851031,3,41553093,COD,1,
+ORD01113,2025/01/27,Daru Namaga,yogyakarta,iPhone 13,apple,11425080,2,22850160,COD,,Terkirim
+ORD01114,2025/05/12,Devi Sinaga,Tomohon,iPhone 14 Pro,Apple,9443827,1,9443827,Transfer Bank,4,Terkirim
+ORD01115,2025/05/19,Rini Siregar,LUBUKLINGGAU,iPhone 13,APPLE,11425080,2,22850160,Transfer Bank,3,Terkirim
+ORD01116,2025-02-09,Restu Natsir,Dumai,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,2,Terkirim
+ORD01117,2025-02-01,Kurnia Sirait,BOGOR,Poco X5,XIAOMI,,1,9263873,COD,3,Terkirim
+ORD01118,2025-07-15,"Kamal Prayoga, S.E.I",Kota Administrasi Jakarta Utara,Vivo V29,Vivo,8682500,1,8682500,COD,3,Terkirim
+ORD01119,2025/05/24,"Hani Sihombing, S.I.Kom",kediri,Redmi Note 12,xiaomi,15542345,3,46627035,E-Wallet,5,Dalam Pengiriman
+ORD01120,2025-05-02,R.A. Ayu Yuniar,Subulussalam,OPPO A57,OPPO,13851031,1,13851031,COD,,Terkirim
+ORD01121,2025/02/19,Drs. Karma Gunarto,Palembang,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,5,Terkirim
+ORD01122,2025-04-03,Ida Pradana,Pematangsiantar,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,5,Terkirim
+ORD01123,2025-03-25,H. Kairav Lazuardi,Bandung,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,4,Terkirim
+ORD01124,2025-06-03,,Pariaman,Vivo V29,Vivo,8682500,2,17365000,COD,5,Terkirim
+ORD01125,2025-05-09,Gambira Lazuardi,Banjar,Galaxy A14,Samsung,15965299,2,31930598,Transfer Bank,3,Terkirim
+ORD01126,2025-05-16,"Ir. Pranata Tampubolon, M.Farm",pasuruan,Vivo V29,vivo,8682500,1,8682500,Kartu Kredit,5,Terkirim
+,03-08-2025,Edi Hardiansyah,Kendari,Realme C55,Realme,6183710,1,6183710,Kartu Kredit,2,Dalam Pengiriman
+ORD01128,2025-04-24,Farhunnisa Wibowo,Sabang,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,4,Terkirim
+ORD01129,2025-03-18,Mutia Siregar,JAMBI,Galaxy S23,SAMSUNG,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD01130,2025-05-25,"Dr. Mulya Samosir, M.Kom.",Sabang,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,3,
+ORD01131,02-26-2025,Syahrini Pangestu,Blitar,Realme 11 Pro,Realme,1743334,,5230002,Transfer Bank,4,Terkirim
+ORD01132,2025/04/01,Cawisono Haryanti,Kotamobagu,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,4,Gagal
+ORD01133,2025-05-09,Wahyu Sihombing,Padang Sidempuan,Galaxy S23,Samsung,5131304,2,10262608,Kartu Kredit,1,Terkirim
+ORD01134,2025-05-04,Praba Usamah,bekasi,iPhone 14 Pro,apple,9443827,1,9443827,E-Wallet,3,Terkirim
+ORD01135,06-19-2025,Drs. Lasmanto Hidayat,JAYAPURA,Poco X5,XIAOMI,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD01136,07-02-2025,Jabal Prakasa,Makassar,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD01137,,Darimin Wijaya,Mataram,Vivo Y27,Vivo,13747665,1,13747665,Kartu Kredit,5,Dalam Pengiriman
+ORD01138,2025-06-19,Ir. Anastasia Jailani,Tarakan,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,5,Dalam Pengiriman
+,2025/04/02,Oman Tampubolon,Pasuruan,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,5,Terkirim
+ORD01140,2025-07-25,Kamal Wahyudin,Jambi,Realme C55,Realme,6183710,2,12367420,E-Wallet,4,Dalam Pengiriman
+ORD01141,,Bakda Usada,SORONG,Vivo V29,VIVO,8682500,2,17365000,Transfer Bank,3,Terkirim
+ORD01142,02-26-2025,Warta Latupono,meulaboh,iPhone 13,apple,11425080,3,34275240,Kartu Kredit,2,Gagal
+ORD01143,2025/06/29,Sadina Habibi,ternate,Realme C55,,6183710,3,18551130,COD,5,Terkirim
+ORD01144,2025-06-27,Raisa Januar,Bitung,Vivo Y27,Vivo,13747665,1,13747665,COD,4,Terkirim
+ORD01145,2025/05/15,,BINJAI,Redmi Note 12,XIAOMI,15542345,2,31084690,E-Wallet,1,Terkirim
+ORD01146,2025/01/28,"Puti Safina Samosir, M.Farm",Tual,Galaxy S23,Samsung,5131304,,10262608,E-Wallet,3,Terkirim
+ORD01147,2025-05-05,Dimaz Rahayu,TIDORE KEPULAUAN,Poco X5,XIAOMI,9263873,3,27791619,E-Wallet,5,Terkirim
+ORD01148,2025-05-13,"R. Titi Hutasoit, S.Kom",Surakarta,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,4,Terkirim
+ORD01149,2025-04-27,"drg. Michelle Kurniawan, M.Pd",Jayapura,Galaxy S23,,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD01150,2025-02-13,Hairyanto Nashiruddin,,iPhone 14 Pro,Apple,9443827,2,18887654,E-Wallet,4,Terkirim
+ORD01151,2025-07-02,Ganjaran Prasetya,TANJUNGPINANG,Galaxy S23,SAMSUNG,5131304,2,10262608,Transfer Bank,3,Terkirim
+ORD01152,2025-02-01,Prayoga Saragih,tanjungbalai,Vivo Y27,vivo,13747665,3,41242995,Kartu Kredit,3,Terkirim
+ORD01153,2025-01-27,Suci Winarsih,,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,3,Terkirim
+ORD01154,2025-05-21,"R.M. Lukita Hakim, M.Ak",Bogor,Vivo Y27,Vivo,13747665,1,,Kartu Kredit,2,Terkirim
+ORD01155,2025-05-17,Baktiadi Pranowo,Palangkaraya,Poco X5,Xiaomi,9263873,2,18527746,Kartu Kredit,5,Dalam Pengiriman
+ORD01156,2025-04-21,"Sutan Gandi Andriani, S.Ked",Jayapura,Vivo Y27,Vivo,13747665,1,13747665,E-Wallet,4,Terkirim
+ORD01157,05-12-2025,KH. Rafid Lazuardi,BONTANG,,XIAOMI,15542345,2,31084690,Transfer Bank,5,Terkirim
+ORD01158,2025-05-28,Gamanto Rahmawati,Tasikmalaya,Vivo V29,Vivo,8682500,3,26047500,Transfer Bank,5,Terkirim
+ORD01159,07-19-2025,Siska Mardhiyah,Tidore Kepulauan,Galaxy S23,Samsung,5131304,3,15393912,Transfer Bank,3,Terkirim
+ORD01160,2025/06/13,Dt. Bahuwirya Wibowo,,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,4,Terkirim
+ORD01161,2025-06-21,Julia Suwarno,Langsa,Vivo Y27,Vivo,13747665,2,27495330,COD,4,Terkirim
+ORD01162,2025-07-13,R.M. Daru Hartati,BONTANG,,VIVO,13747665,1,13747665,COD,5,Terkirim
+ORD01163,2025-07-17,Jarwa Saragih,Bengkulu,Realme C55,Realme,6183710,3,18551130,COD,3,Terkirim
+ORD01164,2025-03-07,Ajeng Sinaga,PARIAMAN,Realme 11 Pro,,1743334,2,3486668,COD,4,Terkirim
+ORD01165,2025/04/22,"Sutan Lukita Susanti, M.Farm",Sungai Penuh,Realme C55,Realme,,3,18551130,Kartu Kredit,4,Terkirim
+,07-21-2025,Siti Tamba,BANJAR,iPhone 14 Pro,APPLE,9443827,2,18887654,Transfer Bank,3,Terkirim
+ORD01167,04-14-2025,Belinda Wahyudin,Padang Sidempuan,Vivo V29,Vivo,8682500,2,17365000,,2,Terkirim
+ORD01168,2025/06/17,"R.A. Hani Nasyiah, M.Ak",Ternate,Galaxy A14,,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD01169,2025/07/14,Luwes Nurdiyanti,kediri,Galaxy S23,samsung,5131304,1,5131304,Kartu Kredit,4,Terkirim
+ORD01170,2025-02-20,Samsul Anggraini,PAYAKUMBUH,iPhone 14 Pro,APPLE,9443827,1,9443827,COD,3,Terkirim
+ORD01171,2025/03/27,"Harsana Susanti, M.Farm",PALOPO,Vivo V29,VIVO,8682500,3,26047500,,4,Terkirim
+ORD01172,07-24-2025,,Madiun,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,3,Dalam Pengiriman
+ORD01173,2025-02-14,Karma Anggraini,SORONG,Redmi Note 12,XIAOMI,15542345,2,31084690,Transfer Bank,4,Terkirim
+ORD01174,02-26-2025,Kamal Palastri,AMBON,Poco X5,XIAOMI,,3,27791619,Transfer Bank,3,Terkirim
+ORD01175,2025/05/24,Cahyo Usamah,Semarang,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,5,Terkirim
+ORD01176,2025-02-04,Hani Mustofa,Kota Administrasi Jakarta Barat,OPPO Reno10,OPPO,16139773,3,48419319,COD,3,Terkirim
+ORD01177,04-06-2025,Dr. Winda Pradipta,,OPPO Reno10,oppo,16139773,1,16139773,Transfer Bank,3,Terkirim
+ORD01178,2025-02-12,Sakura Suwarno,kota administrasi jakarta barat,iPhone 13,apple,11425080,1,11425080,Transfer Bank,2,Terkirim
+ORD01179,2025-06-21,"Titi Nainggolan, M.Pd",KOTA ADMINISTRASI JAKARTA UTARA,Galaxy A14,SAMSUNG,15965299,3,47895897,COD,2,Terkirim
+ORD01180,05-23-2025,Bahuraksa Ardianto,Manado,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,4,Terkirim
+ORD01181,02-09-2025,Halima Susanti,Banda Aceh,Galaxy A14,Samsung,15965299,3,,COD,3,Terkirim
+,2025-04-02,R.M. Caturangga Mandasari,Kota Administrasi Jakarta Timur,Galaxy A14,Samsung,15965299,2,31930598,Kartu Kredit,5,Terkirim
+ORD01183,2025-05-28,Teddy Wahyudin,balikpapan,Galaxy A14,,15965299,1,15965299,COD,1,Gagal
+ORD01184,2025-05-26,Jaya Prasetyo,Kota Administrasi Jakarta Utara,iPhone 14 Pro,Apple,9443827,3,28331481,COD,3,Terkirim
+ORD01185,2025/03/03,Gabriella Salahudin,Malang,Galaxy S23,Samsung,5131304,1,5131304,Transfer Bank,3,Terkirim
+ORD01186,2025/05/26,Nurul Zulaika,depok,Realme 11 Pro,realme,,2,3486668,E-Wallet,1,Gagal
+ORD01187,2025-04-29,"R.A. Unjani Hutagalung, S.Sos",Kediri,Redmi Note 12,Xiaomi,15542345,3,,COD,2,Terkirim
+ORD01188,,Asmuni Natsir,PEKALONGAN,Galaxy A14,SAMSUNG,15965299,2,31930598,Transfer Bank,4,Terkirim
+ORD01189,2025-03-02,"Bakiman Habibi, S.IP",tanjungbalai,Vivo Y27,vivo,13747665,3,41242995,Kartu Kredit,4,Dalam Pengiriman
+ORD01190,2025/06/08,Usyi Hutasoit,Bitung,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,4,Terkirim
+ORD01191,2025/07/12,dr. Gina Kusmawati,BANDAR LAMPUNG,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,4,Gagal
+ORD01192,2025-03-25,Najib Mandasari,SAMARINDA,iPhone 14 Pro,APPLE,9443827,3,28331481,Kartu Kredit,4,Terkirim
+ORD01193,2025/07/22,Fitria Salahudin,Bontang,Galaxy A14,Samsung,15965299,1,15965299,COD,1,Terkirim
+,2025/07/20,Alika Maryadi,Bitung,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+,2025/06/03,Oliva Putra,Solok,Realme C55,Realme,6183710,3,18551130,Transfer Bank,5,Terkirim
+ORD01196,2025/06/23,Nyana Puspasari,Blitar,OPPO A57,OPPO,13851031,3,41553093,COD,4,Dalam Pengiriman
+ORD01197,2025-06-11,Daru Wasita,cilegon,Vivo Y27,vivo,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD01198,2025-03-05,Julia Kurniawan,SERANG,Poco X5,XIAOMI,9263873,2,18527746,COD,3,Dalam Pengiriman
+ORD01199,2025/06/22,Zelaya Wulandari,palangkaraya,,xiaomi,15542345,2,31084690,Transfer Bank,5,Terkirim
+ORD01200,02-15-2025,"Hj. Endah Puspita, S.Pd",BATU,OPPO Reno10,OPPO,16139773,2,32279546,E-Wallet,5,Terkirim
+ORD01201,2025-06-14,"Dr. Bahuwirya Padmasari, S.Gz",Banjar,Realme 11 Pro,Realme,500000000,3,5230002,Kartu Kredit,4,Terkirim
+ORD01202,2025/06/02,"Dr. Edward Nugroho, M.Pd",Medan,Redmi Note 12,Xiaomi,15542345,1,15542345,Kartu Kredit,5,
+ORD01203,2025-07-14,,Kendari,OPPO A57,OPPO,13851031,1,13851031,COD,2,Terkirim
+ORD01204,07-03-2025,Makuta Halim,TUAL,Redmi Note 12,XIAOMI,15542345,3,46627035,COD,1,Terkirim
+ORD01205,05-10-2025,"Dr. Lili Hidayanto, S.Kom",,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,5,Terkirim
+,2025/03/21,Kartika Agustina,ternate,Realme 11 Pro,realme,1743334,1,1743334,Transfer Bank,5,Terkirim
+ORD01207,2025-04-07,,KOTA ADMINISTRASI JAKARTA TIMUR,Galaxy S23,SAMSUNG,5131304,1,5131304,COD,2,Terkirim
+ORD01208,2025-04-08,Erik Narpati,Tasikmalaya,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,3,Terkirim
+ORD01209,2025/04/14,Kamila Budiyanto,,iPhone 13,Apple,11425080,2,22850160,Kartu Kredit,1,Terkirim
+ORD01210,2025-05-30,Cut Ira Sinaga,,Vivo Y27,VIVO,13747665,3,41242995,Kartu Kredit,3,Terkirim
+ORD01211,2025/07/06,Malika Lestari,MEDAN,Galaxy S23,SAMSUNG,5131304,3,15393912,Transfer Bank,5,Gagal
+ORD01212,07-03-2025,Ciaobella Riyanti,Banda Aceh,iPhone 14 Pro,Apple,9443827,2,18887654,COD,4,Terkirim
+ORD01213,2025-03-21,drg. Kurnia Suartini,Sungai Penuh,iPhone 14 Pro,Apple,9443827,1,9443827,COD,3,Terkirim
+ORD01214,2025-03-19,Ilsa Winarno,Tangerang Selatan,OPPO A57,OPPO,13851031,3,41553093,COD,3,Terkirim
+ORD01215,2025-05-02,Keisha Lazuardi,kotamobagu,Galaxy S23,samsung,5131304,2,10262608,Kartu Kredit,1,Terkirim
+ORD01216,2025-05-20,"Keisha Nuraini, M.Ak",Banjarbaru,iPhone 13,Apple,11425080,3,34275240,COD,3,Dalam Pengiriman
+ORD01217,2025-06-04,Tami Nugroho,Cimahi,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,4,Terkirim
+ORD01218,2025-07-08,Tomi Rajata,Balikpapan,iPhone 13,Apple,11425080,2,22850160,COD,5,
+ORD01219,2025/02/08,Irnanto Sihombing,Lhokseumawe,Galaxy S23,Samsung,5131304,2,10262608,COD,5,Terkirim
+,2025/07/04,Luhung Ardianto,kotamobagu,Vivo Y27,vivo,13747665,1,13747665,COD,1,Dalam Pengiriman
+ORD01221,06-21-2025,"R.A. Usyi Waluyo, S.Ked",MANADO,Realme C55,REALME,6183710,1,6183710,Transfer Bank,5,Terkirim
+ORD01222,2025-07-09,KH. Xanana Nuraini,Palu,Poco X5,Xiaomi,9263873,3,27791619,Kartu Kredit,5,Terkirim
+ORD01223,2025-06-04,Dariati Dabukke,tanjungbalai,,realme,1743334,2,3486668,COD,5,Terkirim
+ORD01224,2025/03/10,"Ozy Januar, M.TI.",Bontang,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+ORD01225,,"Ir. Salimah Nababan, S.T.",Binjai,Realme C55,Realme,6183710,1,6183710,E-Wallet,3,Terkirim
+ORD01226,05-30-2025,,sawahlunto,Redmi Note 12,xiaomi,15542345,1,15542345,COD,3,Terkirim
+ORD01227,2025-03-24,"R. Purwanto Wastuti, S.Gz",Salatiga,Vivo V29,Vivo,8682500,3,26047500,Kartu Kredit,2,Dalam Pengiriman
+ORD01228,2025-06-14,"KH. Lukman Hardiansyah, S.Psi",Jambi,,Samsung,15965299,2,31930598,Transfer Bank,3,Terkirim
+ORD01229,2025-05-27,"Dr. Bahuwarna Suryono, M.Farm",Blitar,Realme 11 Pro,Realme,1743334,3,5230002,COD,3,Terkirim
+ORD01230,2025/05/14,"dr. Ika Usamah, S.H.",blitar,Galaxy A14,samsung,,2,31930598,E-Wallet,4,Terkirim
+ORD01231,2025/04/20,Ida Pertiwi,,Poco X5,Xiaomi,500000000,3,27791619,Transfer Bank,4,Terkirim
+ORD01232,04-19-2025,Jagaraga Pranowo,MEDAN,Realme 11 Pro,REALME,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD01233,2025-05-05,"KH. Caturangga Santoso, S.Kom",MOJOKERTO,OPPO Reno10,OPPO,16139773,3,48419319,,2,Terkirim
+ORD01234,07-24-2025,,JAYAPURA,Galaxy A14,SAMSUNG,15965299,3,47895897,Transfer Bank,5,Terkirim
+ORD01235,2025/02/20,Najwa Purnawati,MATARAM,OPPO Reno10,OPPO,16139773,2,32279546,Transfer Bank,5,Dalam Pengiriman
+ORD01236,2025-02-15,Bakiono Halim,SUBULUSSALAM,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,5,Terkirim
+ORD01237,2025/04/17,Cakrawangsa Lestari,SOLOK,Galaxy A14,SAMSUNG,15965299,2,31930598,E-Wallet,5,Terkirim
+ORD01238,07-23-2025,Cengkir Marpaung,Bukittinggi,Galaxy S23,Samsung,5131304,1,5131304,Transfer Bank,4,Dalam Pengiriman
+ORD01239,05-04-2025,"Eluh Mandasari, S.Psi",Kota Administrasi Jakarta Pusat,Vivo Y27,Vivo,13747665,1,13747665,,5,Terkirim
+ORD01240,2025-03-31,Galak Prasetya,Tangerang,Galaxy A14,Samsung,15965299,3,47895897,COD,2,Terkirim
+,2025/02/06,"Mumpuni Pangestu, S.Psi",bau-bau,Galaxy S23,samsung,5131304,2,10262608,COD,3,Gagal
+ORD01242,02-02-2025,"Drs. Paiman Napitupulu, S.IP",Subulussalam,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,3,Terkirim
+ORD01243,2025-01-29,"Pangestu Fujiati, S.Farm",cimahi,Realme 11 Pro,realme,1743334,3,5230002,E-Wallet,3,Terkirim
+,01-28-2025,Bakti Megantara,CIREBON,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,2,Terkirim
+ORD01245,04-17-2025,Budi Suryatmi,Pekanbaru,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,4,Terkirim
+ORD01246,02-10-2025,Gina Prasetya,Jambi,Vivo Y27,Vivo,13747665,1,,COD,5,Terkirim
+ORD01247,2025-06-04,Hj. Elma Astuti,solok,OPPO A57,oppo,13851031,1,13851031,Kartu Kredit,4,Terkirim
+ORD01248,2025-06-02,"R.A. Vera Lestari, M.Ak",DENPASAR,OPPO A57,OPPO,13851031,2,27702062,COD,2,Terkirim
+,2025-04-30,Oskar Thamrin,Bandar Lampung,Galaxy S23,Samsung,5131304,2,10262608,COD,5,Terkirim
+ORD01250,2025-02-22,Reksa Hidayat,KENDARI,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,4,Terkirim
+ORD01251,2025/03/15,"Hj. Ika Andriani, S.Psi",Medan,Galaxy A14,Samsung,1,3,47895897,Transfer Bank,3,Terkirim
+ORD01252,06-29-2025,R. Violet Prasetya,Gorontalo,OPPO A57,OPPO,13851031,3,41553093,COD,4,Dalam Pengiriman
+ORD01253,2025-02-15,R.A. Paramita Firgantoro,Banjarmasin,Poco X5,Xiaomi,9263873,1,9263873,COD,3,
+ORD01254,2025/02/12,Humaira Anggraini,depok,,xiaomi,15542345,1,15542345,Kartu Kredit,3,Terkirim
+ORD01255,2025/06/29,Cut Yuliana Irawan,Padang Sidempuan,Vivo Y27,Vivo,99999999,1,13747665,Transfer Bank,5,Terkirim
+ORD01256,2025-04-20,Galang Sudiati,Padangpanjang,Realme C55,Realme,6183710,3,18551130,Transfer Bank,3,
+ORD01257,2025-02-24,Sari Sitorus,Mojokerto,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD01258,2025-04-21,H. Dimas Natsir,Tidore Kepulauan,OPPO Reno10,OPPO,16139773,,16139773,Transfer Bank,5,Terkirim
+ORD01259,2025-07-12,Farah Mangunsong,Solok,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,4,Terkirim
+ORD01260,06-16-2025,Drs. Rosman Megantara,KOTAMOBAGU,Realme 11 Pro,REALME,1743334,2,3486668,Kartu Kredit,2,Terkirim
+,2025-06-28,Kezia Hakim,Tasikmalaya,iPhone 13,Apple,11425080,3,34275240,E-Wallet,2,Terkirim
+ORD01262,2025-06-17,Ratna Putra,TANJUNGPINANG,OPPO A57,OPPO,,3,41553093,Transfer Bank,1,Terkirim
+ORD01263,2025-07-16,Ajiman Mustofa,Ambon,Vivo V29,Vivo,8682500,3,26047500,Transfer Bank,4,Terkirim
+ORD01264,05-23-2025,Cut Paramita Prasetyo,Salatiga,Realme C55,Realme,6183710,1,6183710,Transfer Bank,4,Dalam Pengiriman
+ORD01265,03-09-2025,Darmaji Hutagalung,Balikpapan,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,,Terkirim
+ORD01266,2025-03-16,Faizah Prasasta,SABANG,OPPO A57,OPPO,,2,27702062,Transfer Bank,5,Terkirim
+ORD01267,2025-02-27,Nasim Ramadan,Bandar Lampung,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,4,Dalam Pengiriman
+ORD01268,2025-05-31,"Maida Siregar, S.Psi",Denpasar,,OPPO,16139773,2,32279546,E-Wallet,3,Terkirim
+ORD01269,06-03-2025,Drs. Narji Handayani,KOTA ADMINISTRASI JAKARTA SELATAN,Galaxy S23,SAMSUNG,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD01270,2025-04-09,"R. Anom Namaga, S.IP",banjarbaru,OPPO Reno10,oppo,16139773,1,16139773,COD,4,Terkirim
+ORD01271,2025/07/18,Rahayu Maheswara,,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,2,Terkirim
+ORD01272,2025/01/30,Halima Palastri,Cimahi,OPPO Reno10,OPPO,99999999,2,32279546,COD,,Gagal
+ORD01273,02-28-2025,Sarah Putra,JAMBI,Vivo V29,VIVO,8682500,3,26047500,Transfer Bank,5,Terkirim
+ORD01274,2025-06-06,"Sutan Danang Uyainah, S.T.",pangkalpinang,,realme,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD01275,2025-01-30,"Najwa Hidayanto, M.M.",Surakarta,iPhone 13,Apple,11425080,2,22850160,,4,Terkirim
+ORD01276,2025-04-17,"Ir. Yuliana Nababan, M.Farm",Kota Administrasi Jakarta Timur,iPhone 14 Pro,,9443827,1,9443827,COD,4,Terkirim
+ORD01277,2025-02-26,Ajiono Hutasoit,PANGKALPINANG,OPPO A57,OPPO,13851031,1,13851031,Transfer Bank,1,Terkirim
+ORD01278,2025/06/23,Titi Wasita,Banjarbaru,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,3,Terkirim
+ORD01279,2025/03/06,"Dr. Gasti Padmasari, S.I.Kom",Kupang,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,,Terkirim
+ORD01280,05-24-2025,Uli Widiastuti,Padang,OPPO Reno10,OPPO,16139773,,48419319,COD,3,Terkirim
+ORD01281,2025-03-01,Puti Chelsea Utama,Pasuruan,iPhone 14 Pro,Apple,9443827,3,28331481,,1,Terkirim
+ORD01282,2025-06-19,"R. Balamantri Tarihoran, S.I.Kom",SAMARINDA,Poco X5,XIAOMI,,3,27791619,Kartu Kredit,5,Dalam Pengiriman
+ORD01283,2025-01-25,Harsanto Habibi,Pekanbaru,,Samsung,99999999,2,10262608,COD,5,Terkirim
+ORD01284,2025-01-30,,cilegon,Galaxy S23,samsung,5131304,3,15393912,Transfer Bank,5,Terkirim
+ORD01285,07-11-2025,Alambana Uwais,BANJARMASIN,Redmi Note 12,XIAOMI,15542345,1,15542345,Transfer Bank,5,Terkirim
+ORD01286,03-05-2025,R.M. Marsudi Novitasari,banjar,Vivo V29,vivo,8682500,3,26047500,Transfer Bank,3,Terkirim
+ORD01287,2025-04-06,Rizki Sinaga,Dumai,Redmi Note 12,Xiaomi,15542345,2,31084690,COD,5,Terkirim
+ORD01288,2025-03-01,Margana Sirait,Palangkaraya,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,,Terkirim
+ORD01289,2025-05-27,drg. Julia Narpati,bogor,Vivo Y27,vivo,13747665,,41242995,COD,5,Terkirim
+ORD01290,2025-06-19,Umi Setiawan,pagaralam,Galaxy A14,samsung,15965299,3,47895897,E-Wallet,5,Terkirim
+ORD01291,06-09-2025,"Diah Maryati, S.H.",Batam,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,4,Terkirim
+ORD01292,2025/04/18,Dimas Novitasari,Pekalongan,Realme C55,Realme,6183710,2,12367420,Transfer Bank,5,Dalam Pengiriman
+ORD01293,2025-07-23,Putu Andriani,surakarta,Galaxy A14,samsung,15965299,1,15965299,Transfer Bank,4,Terkirim
+ORD01294,2025-07-20,"Jayeng Marbun, S.Psi",BITUNG,Poco X5,XIAOMI,9263873,3,27791619,Kartu Kredit,3,
+ORD01295,03-12-2025,Hasim Farida,Pontianak,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,4,Terkirim
+ORD01296,04-01-2025,"drg. Jaswadi Mardhiyah, M.Farm",ternate,Vivo V29,vivo,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD01297,2025/03/15,Joko Wulandari,METRO,Poco X5,XIAOMI,9263873,1,9263873,Kartu Kredit,2,Terkirim
+ORD01298,03-26-2025,"Tgk. Ibrahim Sihombing, S.Psi",Salatiga,Vivo V29,Vivo,8682500,1,8682500,Kartu Kredit,4,Terkirim
+ORD01299,2025-05-23,"Drs. Gasti Latupono, S.Pt",kotamobagu,iPhone 13,apple,11425080,2,22850160,E-Wallet,5,Terkirim
+ORD01300,2025/02/21,Janet Suryono,Banjarmasin,Realme 11 Pro,Realme,1743334,,5230002,Transfer Bank,3,Terkirim
+ORD01301,2025-06-22,Tgk. Lembah Simbolon,bitung,Realme 11 Pro,realme,1743334,,3486668,E-Wallet,5,Dalam Pengiriman
+ORD01302,2025-05-23,Rika Prasetyo,Jayapura,iPhone 14 Pro,Apple,9443827,,9443827,Kartu Kredit,5,Terkirim
+ORD01303,2025-04-24,"Qori Nasyiah, S.E.I",palopo,iPhone 14 Pro,apple,9443827,3,28331481,E-Wallet,5,Terkirim
+ORD01304,2025-03-29,drg. Najwa Marpaung,Probolinggo,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,5,Terkirim
+ORD01305,05-20-2025,"Dr. Puti Samosir, M.M.",BAU-BAU,Realme C55,REALME,6183710,2,12367420,E-Wallet,4,Terkirim
+ORD01306,2025-02-26,"Harjo Irawan, S.Kom",BANDA ACEH,Realme C55,REALME,6183710,3,18551130,Transfer Bank,5,Terkirim
+ORD01307,2025-06-21,R.M. Yono Saputra,Pasuruan,Vivo V29,Vivo,8682500,2,17365000,COD,5,Terkirim
+ORD01308,2025-07-03,"drg. Dadi Nainggolan, S.Farm",purwokerto,Galaxy A14,samsung,15965299,1,15965299,,3,Terkirim
+ORD01309,,"drg. Kartika Prabowo, S.Psi",Padangpanjang,iPhone 14 Pro,Apple,9443827,2,18887654,E-Wallet,4,Dalam Pengiriman
+ORD01310,,Ikin Mandala,balikpapan,Vivo Y27,vivo,13747665,3,41242995,Transfer Bank,4,Terkirim
+ORD01311,2025-06-25,Tgk. Ami Wibowo,Tarakan,OPPO Reno10,OPPO,16139773,1,16139773,E-Wallet,,Terkirim
+ORD01312,2025/07/11,Cinthia Habibi,Serang,iPhone 13,Apple,11425080,2,22850160,Transfer Bank,4,Terkirim
+ORD01313,2025-02-14,Cakrabuana Salahudin,MAGELANG,Poco X5,XIAOMI,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD01314,2025-01-24,Nadine Sinaga,Pekalongan,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,3,Terkirim
+ORD01315,2025-04-19,"Karna Narpati, S.I.Kom",Ternate,Galaxy S23,Samsung,5131304,3,15393912,Transfer Bank,4,Terkirim
+ORD01316,2025-03-18,Lantar Laksita,Medan,Vivo Y27,Vivo,13747665,1,13747665,COD,5,Terkirim
+ORD01317,06-01-2025,Zamira Ardianto,Kota Administrasi Jakarta Utara,Poco X5,Xiaomi,9263873,1,9263873,COD,4,Terkirim
+ORD01318,2025/03/11,,Lubuklinggau,Poco X5,Xiaomi,9263873,3,27791619,Transfer Bank,1,Terkirim
+ORD01319,2025/03/05,Sakura Suryono,Pekalongan,Vivo Y27,Vivo,,2,27495330,Transfer Bank,1,Terkirim
+ORD01320,2025-01-24,Sutan Marsudi Januar,PADANG SIDEMPUAN,Galaxy S23,SAMSUNG,,1,5131304,Transfer Bank,3,Terkirim
+ORD01321,2025-06-26,"Yulia Prasetyo, S.Sos",Metro,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,5,Terkirim
+ORD01322,2025-07-19,,Kota Administrasi Jakarta Utara,iPhone 13,Apple,11425080,3,34275240,Transfer Bank,3,Terkirim
+ORD01323,2025-03-18,Amelia Ramadan,Bandar Lampung,iPhone 14 Pro,Apple,9443827,1,9443827,COD,4,Terkirim
+ORD01324,2025/03/25,Artanto Dongoran,,iPhone 13,apple,11425080,1,11425080,Kartu Kredit,3,Terkirim
+ORD01325,02-03-2025,Rini Suwarno,PRABUMULIH,OPPO A57,OPPO,13851031,2,27702062,Kartu Kredit,3,Terkirim
+ORD01326,2025-06-07,"Tgk. Alika Hutasoit, S.Farm",KOTAMOBAGU,Galaxy A14,SAMSUNG,15965299,2,31930598,Transfer Bank,5,Terkirim
+ORD01327,2025-07-20,"Laras Mandala, M.Ak",BAU-BAU,Galaxy S23,SAMSUNG,5131304,1,5131304,Transfer Bank,4,Terkirim
+ORD01328,2025-07-20,Gamblang Oktaviani,Ternate,Realme 11 Pro,Realme,1743334,1,1743334,Kartu Kredit,2,Terkirim
+,2025/07/02,"dr. Widya Iswahyudi, S.I.Kom",Tarakan,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,4,Terkirim
+,2025/03/15,Dina Sitorus,TIDORE KEPULAUAN,Realme C55,REALME,6183710,3,18551130,Transfer Bank,1,Terkirim
+ORD01331,2025/06/13,"Elon Saptono, S.Ked",Tual,Vivo Y27,Vivo,13747665,2,27495330,Kartu Kredit,4,Dalam Pengiriman
+ORD01332,2025-05-27,"Nadia Fujiati, M.Ak",Bogor,Poco X5,Xiaomi,9263873,2,18527746,E-Wallet,4,Terkirim
+ORD01333,2025-06-17,"Damar Rajasa, M.Ak",Banjar,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,2,Terkirim
+ORD01334,2025/02/15,Shania Nababan,Surakarta,Realme C55,Realme,500000000,3,18551130,Kartu Kredit,3,Terkirim
+ORD01335,2025/04/29,Amelia Suryatmi,PEMATANGSIANTAR,Galaxy S23,SAMSUNG,5131304,3,15393912,COD,3,Terkirim
+ORD01336,2025-05-14,"Hj. Queen Suartini, S.Pd",Salatiga,OPPO A57,OPPO,13851031,2,27702062,Kartu Kredit,5,Dalam Pengiriman
+ORD01337,02-03-2025,Cut Silvia Uyainah,CILEGON,Realme 11 Pro,REALME,1743334,2,3486668,COD,5,Terkirim
+ORD01338,2025/06/21,"Hj. Rahmi Pangestu, S.Farm",Sungai Penuh,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,1,Terkirim
+ORD01339,2025-07-18,Kurnia Pangestu,banjarbaru,OPPO Reno10,oppo,99999999,1,16139773,Transfer Bank,5,Terkirim
+ORD01340,2025-03-24,Karman Haryanto,Ternate,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,3,Terkirim
+ORD01341,2025-02-24,Ir. Julia Adriansyah,Pontianak,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,3,Terkirim
+ORD01342,2025-03-22,"Balangga Winarno, S.Farm",PURWOKERTO,Vivo V29,VIVO,99999999,2,17365000,COD,5,Terkirim
+ORD01343,2025-04-09,Bahuwarna Firgantoro,Kediri,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,5,Terkirim
+ORD01344,2025-04-30,"Malika Damanik, M.Kom.",Tanjungbalai,,OPPO,13851031,2,27702062,E-Wallet,5,Terkirim
+ORD01345,2025-02-11,"Novi Usada, S.T.",Kota Administrasi Jakarta Selatan,Realme 11 Pro,Realme,1743334,2,,Transfer Bank,4,Terkirim
+ORD01346,2025-05-27,Jais Suwarno,TOMOHON,Galaxy A14,SAMSUNG,15965299,2,31930598,COD,3,Terkirim
+ORD01347,2025-06-11,Raina Puspita,DEPOK,iPhone 14 Pro,APPLE,9443827,2,18887654,Transfer Bank,5,Dalam Pengiriman
+ORD01348,2025-02-27,Tgk. Upik Mustofa,Bau-Bau,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,3,Gagal
+ORD01349,2025/05/06,Tgk. Cagak Suartini,SALATIGA,Realme 11 Pro,REALME,1743334,1,1743334,Transfer Bank,4,
+ORD01350,02-03-2025,"Drs. Sakura Permadi, M.Kom.",Bontang,Redmi Note 12,Xiaomi,15542345,2,31084690,,3,Terkirim
+ORD01351,2025-05-09,,Banda Aceh,iPhone 13,Apple,11425080,3,34275240,E-Wallet,4,Terkirim
+ORD01352,04-29-2025,"Emin Waskita, S.Sos",Padang,,OPPO,13851031,1,13851031,Transfer Bank,3,Terkirim
+ORD01353,2025-07-20,Sabri Prabowo,Salatiga,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,,Terkirim
+ORD01354,2025/06/02,Lasmanto Hariyah,Denpasar,iPhone 14 Pro,Apple,9443827,1,9443827,Kartu Kredit,5,
+ORD01355,2025/05/23,Gilda Haryanti,Bitung,Redmi Note 12,Xiaomi,15542345,1,15542345,E-Wallet,2,Dalam Pengiriman
+ORD01356,07-22-2025,dr. Devi Laksmiwati,ternate,Poco X5,xiaomi,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD01357,2025/06/26,Kamidin Najmudin,Kupang,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,3,
+ORD01358,2025-07-02,drg. Devi Dabukke,,Vivo Y27,VIVO,13747665,1,13747665,Transfer Bank,1,Terkirim
+ORD01359,2025-04-17,Kania Rahimah,KOTA ADMINISTRASI JAKARTA TIMUR,Poco X5,XIAOMI,9263873,3,27791619,COD,1,Terkirim
+ORD01360,2025-07-01,,Kupang,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,3,Terkirim
+ORD01361,2025-04-06,Devi Siregar,Kendari,Poco X5,Xiaomi,9263873,2,18527746,Kartu Kredit,5,Dalam Pengiriman
+ORD01362,2025/07/09,Embuh Usamah,Singkawang,Poco X5,Xiaomi,9263873,2,18527746,Kartu Kredit,3,Terkirim
+ORD01363,2025-03-10,,depok,Galaxy A14,samsung,15965299,1,15965299,COD,5,Terkirim
+ORD01364,2025/03/25,Lasmanto Sitorus,Kediri,,Apple,11425080,3,34275240,Transfer Bank,4,Terkirim
+ORD01365,2025-04-11,"Vicky Pangestu, M.TI.",Padangpanjang,Poco X5,Xiaomi,9263873,3,27791619,E-Wallet,4,Terkirim
+ORD01366,2025-06-20,Vanya Sinaga,Pagaralam,Vivo V29,Vivo,8682500,3,26047500,Transfer Bank,4,Terkirim
+ORD01367,2025-01-25,Garang Simbolon,,Vivo V29,vivo,8682500,1,8682500,E-Wallet,4,Terkirim
+ORD01368,2025/03/27,Karen Nurdiyanti,Jambi,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,5,Gagal
+ORD01369,2025/07/04,Syahrini Utami,,iPhone 14 Pro,APPLE,9443827,3,28331481,COD,3,Terkirim
+ORD01370,2025-01-29,Nova Nasyiah,Probolinggo,Vivo Y27,Vivo,13747665,3,41242995,COD,3,Terkirim
+ORD01371,2025/05/13,"Gina Damanik, S.Pd",Lhokseumawe,Vivo Y27,Vivo,13747665,1,13747665,E-Wallet,5,Terkirim
+ORD01372,01-31-2025,"Drs. Lulut Mahendra, S.Psi",pekalongan,Vivo Y27,vivo,13747665,2,27495330,Transfer Bank,5,Terkirim
+ORD01373,2025/06/13,Ir. Septi Pranowo,Tasikmalaya,Vivo V29,Vivo,8682500,2,17365000,,5,Terkirim
+ORD01374,2025-07-24,Kamaria Mandala,Banjar,Poco X5,Xiaomi,9263873,1,9263873,COD,4,Terkirim
+ORD01375,2025/04/07,Hari Waskita,tanjungbalai,Galaxy S23,samsung,5131304,3,15393912,Transfer Bank,5,Terkirim
+ORD01376,01-30-2025,Farhunnisa Nurdiyanti,jambi,Realme C55,realme,6183710,,12367420,Transfer Bank,4,Terkirim
+ORD01377,2025-02-14,Hari Suryatmi,Kotamobagu,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD01378,02-08-2025,Eka Setiawan,Mataram,Realme 11 Pro,Realme,1743334,2,3486668,Transfer Bank,3,Terkirim
+ORD01379,05-01-2025,Najwa Samosir,Padangpanjang,iPhone 13,Apple,11425080,3,34275240,Transfer Bank,4,Dalam Pengiriman
+ORD01380,2025-01-25,"Ir. Cici Zulkarnain, M.Ak",denpasar,OPPO A57,oppo,13851031,3,41553093,E-Wallet,3,Terkirim
+ORD01381,2025-05-02,Wirda Pradana,,Redmi Note 12,Xiaomi,15542345,2,31084690,Transfer Bank,3,Terkirim
+ORD01382,2025-03-26,"Dr. Aisyah Fujiati, S.E.I",Prabumulih,Realme C55,Realme,,3,18551130,Kartu Kredit,5,Terkirim
+ORD01383,07-11-2025,Uda Maryadi,MATARAM,OPPO A57,OPPO,13851031,1,13851031,Kartu Kredit,3,Dalam Pengiriman
+ORD01384,,Tgk. Karimah Pudjiastuti,Bima,Galaxy A14,Samsung,15965299,1,15965299,Transfer Bank,2,Terkirim
+ORD01385,2025-04-03,Farah Mahendra,Meulaboh,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,2,Terkirim
+ORD01386,2025-05-17,Drs. Estiawan Uyainah,MADIUN,iPhone 13,APPLE,11425080,1,11425080,E-Wallet,,Terkirim
+ORD01387,2025-03-12,"Lintang Sihombing, S.E.I",Serang,iPhone 13,Apple,11425080,,11425080,Transfer Bank,4,Dalam Pengiriman
+ORD01388,2025-05-11,"Drs. Zelda Saefullah, S.I.Kom",pariaman,Realme C55,realme,6183710,2,12367420,COD,4,Terkirim
+ORD01389,2025-03-17,Asirwanda Suryono,Bukittinggi,,Vivo,13747665,1,13747665,E-Wallet,5,Terkirim
+ORD01390,2025-03-31,"Dr. Ella Megantara, M.Pd",ambon,Poco X5,xiaomi,9263873,3,27791619,E-Wallet,5,Terkirim
+ORD01391,2025/03/10,Tasdik Prastuti,Pematangsiantar,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,3,Dalam Pengiriman
+ORD01392,2025-04-19,Kamaria Siregar,BEKASI,Realme 11 Pro,REALME,1743334,2,3486668,E-Wallet,4,Terkirim
+ORD01393,2025-03-25,,bekasi,Realme C55,realme,6183710,2,12367420,E-Wallet,5,Terkirim
+ORD01394,2025-07-18,"R.A. Violet Haryanto, S.Pt",Tarakan,,OPPO,16139773,1,16139773,E-Wallet,4,Terkirim
+,2025-03-01,Puji Pratiwi,Sukabumi,Vivo Y27,Vivo,500000000,1,13747665,Transfer Bank,3,Terkirim
+ORD01396,2025-03-21,"Shakila Mandala, M.Ak",TARAKAN,Vivo V29,VIVO,8682500,2,17365000,E-Wallet,5,Terkirim
+ORD01397,03-06-2025,R. Caraka Mangunsong,Dumai,Poco X5,Xiaomi,9263873,2,18527746,Transfer Bank,4,Terkirim
+ORD01398,2025-04-22,Fitriani Lailasari,tanjungbalai,Redmi Note 12,xiaomi,15542345,1,15542345,Transfer Bank,3,
+ORD01399,2025-06-16,,Batu,Galaxy A14,Samsung,15965299,3,47895897,COD,4,Terkirim
+ORD01400,06-02-2025,Nadia Wijayanti,,Vivo Y27,Vivo,13747665,2,27495330,Transfer Bank,1,Terkirim
+ORD01401,2025-02-15,"dr. Dimaz Pradana, M.Pd",Tebingtinggi,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,2,Dalam Pengiriman
+ORD01402,2025-03-25,Ozy Wulandari,,OPPO Reno10,OPPO,16139773,1,16139773,COD,5,Terkirim
+ORD01403,2025-02-12,"Latif Dongoran, M.TI.",SEMARANG,Vivo V29,VIVO,8682500,2,17365000,Transfer Bank,1,Terkirim
+ORD01404,2025-02-01,Kani Nurdiyanti,Kupang,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD01405,2025/03/26,"Maida Namaga, S.Kom",MANADO,iPhone 13,APPLE,11425080,2,22850160,Kartu Kredit,4,Terkirim
+ORD01406,2025/04/29,Jais Hasanah,Bekasi,Vivo V29,Vivo,8682500,1,8682500,Kartu Kredit,2,Terkirim
+ORD01407,2025/05/08,"Empluk Halimah, S.Kom",Samarinda,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,5,Terkirim
+ORD01408,02-04-2025,Ajeng Laksmiwati,Tomohon,iPhone 13,Apple,11425080,1,11425080,COD,3,Terkirim
+ORD01409,2025/03/14,R.M. Banara Astuti,Singkawang,Vivo Y27,Vivo,13747665,3,41242995,E-Wallet,,Terkirim
+ORD01410,2025-04-16,Tirta Palastri,Gorontalo,Galaxy A14,Samsung,15965299,2,31930598,Transfer Bank,3,Dalam Pengiriman
+ORD01411,07-16-2025,Kairav Rahmawati,Kota Administrasi Jakarta Barat,Vivo V29,Vivo,8682500,2,17365000,E-Wallet,3,Terkirim
+ORD01412,2025-03-07,Nurul Putra,Banda Aceh,Realme 11 Pro,Realme,1743334,2,3486668,Kartu Kredit,1,Terkirim
+ORD01413,2025-05-08,Dr. Syahrini Narpati,banjar,Galaxy S23,samsung,5131304,2,10262608,Kartu Kredit,4,
+ORD01414,2025/03/26,R.A. Nova Handayani,Yogyakarta,Galaxy S23,Samsung,5131304,1,5131304,Kartu Kredit,5,Terkirim
+ORD01415,2025-04-12,Kartika Fujiati,Ternate,Galaxy S23,,5131304,2,10262608,E-Wallet,3,Terkirim
+,2025-06-18,Darsirah Kuswoyo,Bau-Bau,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,4,Terkirim
+ORD01417,2025-05-11,Purwadi Uwais,Tomohon,Poco X5,Xiaomi,9263873,2,18527746,COD,4,Terkirim
+ORD01418,2025/04/12,Aris Pratama,,OPPO A57,OPPO,13851031,1,13851031,E-Wallet,5,Terkirim
+ORD01419,2025-03-10,"R. Bella Palastri, S.E.",payakumbuh,Galaxy A14,samsung,15965299,,31930598,Transfer Bank,4,Terkirim
+ORD01420,2025-03-13,Maman Samosir,KOTA ADMINISTRASI JAKARTA PUSAT,Vivo Y27,VIVO,13747665,2,27495330,Transfer Bank,3,Terkirim
+ORD01421,2025-04-20,"KH. Respati Novitasari, S.Farm",binjai,OPPO A57,oppo,13851031,1,13851031,Kartu Kredit,3,Terkirim
+ORD01422,2025-05-02,"Ir. Genta Hutagalung, M.M.",batu,iPhone 14 Pro,apple,9443827,1,9443827,COD,4,Dalam Pengiriman
+ORD01423,2025/04/14,,Sabang,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,5,Terkirim
+ORD01424,2025/03/21,"Puti Lintang Mahendra, M.M.",Madiun,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,3,Terkirim
+ORD01425,2025/06/17,Ida Maheswara,,iPhone 14 Pro,APPLE,9443827,3,28331481,Kartu Kredit,3,Gagal
+ORD01426,2025-04-29,Tgk. Vinsen Palastri,PALU,OPPO Reno10,OPPO,16139773,3,48419319,Transfer Bank,5,Terkirim
+ORD01427,05-21-2025,drg. Ida Sihombing,Sungai Penuh,Realme 11 Pro,Realme,1743334,3,5230002,E-Wallet,5,
+ORD01428,2025-05-25,"Uchita Nasyidah, S.E.",Lubuklinggau,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,5,Terkirim
+ORD01429,2025-02-23,"Drs. Tina Wibisono, S.Ked",Jayapura,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,5,Terkirim
+ORD01430,,Okto Putra,Banda Aceh,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,3,Dalam Pengiriman
+ORD01431,2025-07-13,Rahayu Gunarto,CIMAHI,iPhone 14 Pro,APPLE,9443827,2,18887654,E-Wallet,4,Terkirim
+ORD01432,07-05-2025,"Laila Maheswara, S.E.",Kotamobagu,OPPO A57,OPPO,13851031,2,27702062,COD,4,Terkirim
+ORD01433,2025-02-11,Zamira Prabowo,TANGERANG SELATAN,Redmi Note 12,XIAOMI,15542345,1,15542345,Transfer Bank,2,Gagal
+ORD01434,2025/05/16,Hasna Novitasari,Malang,Redmi Note 12,Xiaomi,15542345,2,31084690,Kartu Kredit,4,Terkirim
+,2025/05/25,"KH. Paiman Habibi, M.Pd",Salatiga,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,4,Terkirim
+ORD01436,2025/06/06,Kania Kuswandari,tarakan,Poco X5,xiaomi,,3,27791619,Transfer Bank,3,Terkirim
+ORD01437,2025-04-12,"R.A. Ayu Hariyah, S.E.I",palu,OPPO Reno10,oppo,16139773,1,16139773,E-Wallet,5,Terkirim
+ORD01438,2025-05-01,Harsaya Sitompul,Binjai,Realme 11 Pro,Realme,1743334,3,5230002,COD,4,Terkirim
+ORD01439,2025-03-18,Irsad Pangestu,banjarmasin,Redmi Note 12,xiaomi,15542345,2,31084690,COD,5,Dalam Pengiriman
+ORD01440,2025-07-11,Ikin Siregar,Balikpapan,Realme C55,Realme,6183710,1,6183710,COD,1,Terkirim
+ORD01441,2025-03-20,Aurora Prasetyo,LANGSA,OPPO A57,OPPO,13851031,2,27702062,COD,3,Terkirim
+ORD01442,2025-04-16,Ajimat Puspasari,Dumai,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+ORD01443,,Ayu Hutagalung,Tebingtinggi,Realme 11 Pro,Realme,1743334,3,5230002,Transfer Bank,3,Terkirim
+ORD01444,2025-02-14,Hartana Hassanah,Cilegon,Galaxy A14,Samsung,15965299,2,,COD,4,Terkirim
+ORD01445,2025-06-11,Sarah Wijaya,Purwokerto,iPhone 13,Apple,11425080,3,34275240,Transfer Bank,,Terkirim
+ORD01446,2025-07-09,Nadia Pangestu,GORONTALO,Vivo V29,,8682500,3,26047500,Transfer Bank,2,Terkirim
+ORD01447,2025-06-14,Tari Narpati,Kota Administrasi Jakarta Utara,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD01448,,Zaenab Wulandari,KOTA ADMINISTRASI JAKARTA PUSAT,OPPO Reno10,OPPO,16139773,2,32279546,Kartu Kredit,4,Terkirim
+ORD01449,2025-05-30,Oni Budiman,BOGOR,Vivo Y27,VIVO,13747665,,13747665,E-Wallet,3,Terkirim
+ORD01450,2025-07-14,"Viktor Suryatmi, S.Sos",Pangkalpinang,Poco X5,Xiaomi,9263873,3,27791619,Transfer Bank,5,Terkirim
+ORD01451,2025-05-28,,Bontang,Vivo Y27,Vivo,13747665,2,27495330,Kartu Kredit,5,Terkirim
+ORD01452,2025-02-14,"R.A. Talia Laksita, S.Farm",dumai,iPhone 13,apple,11425080,2,22850160,Transfer Bank,4,Terkirim
+ORD01453,2025-06-22,Salwa Narpati,AMBON,OPPO Reno10,OPPO,16139773,1,16139773,Kartu Kredit,4,Terkirim
+ORD01454,2025/05/08,Purwa Manullang,cimahi,Galaxy A14,samsung,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD01455,2025/04/03,Ida Narpati,Ambon,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,5,
+ORD01456,2025-03-04,Vanesa Yuniar,Denpasar,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,4,Terkirim
+,07-02-2025,"Oni Mandala, M.Kom.",kupang,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,4,Terkirim
+ORD01458,2025/05/27,"Respati Hutapea, M.M.",Solok,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,5,Terkirim
+ORD01459,2025-02-13,Septi Saefullah,Depok,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,3,Terkirim
+ORD01460,2025-02-01,Tgk. Kayla Nugroho,Tanjungpinang,OPPO Reno10,OPPO,16139773,3,48419319,COD,5,Terkirim
+ORD01461,03-17-2025,Cut Aurora Pertiwi,Cirebon,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,3,Terkirim
+ORD01462,2025-05-22,Ivan Halimah,Mojokerto,Vivo V29,Vivo,8682500,2,17365000,Transfer Bank,3,Terkirim
+ORD01463,2025/07/25,Kajen Hidayat,kota administrasi jakarta selatan,Redmi Note 12,xiaomi,15542345,2,31084690,COD,3,Terkirim
+ORD01464,2025/07/21,Aurora Prasetyo,,Redmi Note 12,Xiaomi,15542345,2,31084690,COD,5,Terkirim
+ORD01465,07-04-2025,"Maida Hariyah, S.Sos",Bandar Lampung,OPPO A57,OPPO,13851031,3,41553093,COD,5,Terkirim
+ORD01466,2025-02-06,H. Slamet Safitri,Makassar,Galaxy S23,Samsung,5131304,1,5131304,Kartu Kredit,4,Terkirim
+ORD01467,2025-04-24,"drg. Jessica Siregar, M.M.",KOTA ADMINISTRASI JAKARTA TIMUR,Realme 11 Pro,REALME,1743334,2,3486668,Kartu Kredit,4,Terkirim
+ORD01468,,Mustofa Wacana,Malang,iPhone 14 Pro,Apple,9443827,2,18887654,Transfer Bank,4,Terkirim
+ORD01469,01-24-2025,,serang,Realme C55,realme,6183710,2,12367420,E-Wallet,5,Terkirim
+ORD01470,2025-03-02,dr. Patricia Mardhiyah,Payakumbuh,Realme 11 Pro,Realme,1743334,1,1743334,COD,4,Terkirim
+ORD01471,2025-03-05,Ella Pradipta,KEDIRI,iPhone 14 Pro,APPLE,9443827,2,18887654,COD,3,Terkirim
+ORD01472,05-03-2025,"Shania Susanti, S.Psi",Bandung,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,,Terkirim
+ORD01473,04-19-2025,Winda Haryanti,,Galaxy S23,Samsung,5131304,1,5131304,COD,5,Terkirim
+ORD01474,2025-05-25,"Ir. Genta Pudjiastuti, S.E.",PALEMBANG,Realme 11 Pro,REALME,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD01475,2025/06/20,"Hasta Pudjiastuti, S.Pd",Surabaya,Vivo V29,Vivo,500000000,2,17365000,COD,3,Terkirim
+ORD01476,2025/07/13,Asirwanda Hardiansyah,Prabumulih,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,1,Terkirim
+ORD01477,2025/02/11,dr. Harto Natsir,sawahlunto,Redmi Note 12,xiaomi,15542345,3,46627035,Transfer Bank,5,Terkirim
+,03-10-2025,"KH. Karta Pudjiastuti, S.Pd",Bau-Bau,Poco X5,Xiaomi,9263873,3,27791619,COD,1,Terkirim
+ORD01479,2025-04-10,Ajimat Widiastuti,Palembang,Galaxy A14,Samsung,15965299,,31930598,E-Wallet,4,Terkirim
+ORD01480,02-08-2025,Clara Januar,palopo,Realme 11 Pro,realme,1743334,3,5230002,COD,5,Gagal
+ORD01481,2025/02/09,"Caturangga Januar, S.IP",depok,iPhone 14 Pro,apple,9443827,2,18887654,COD,4,Terkirim
+ORD01482,2025-03-04,Violet Budiman,Semarang,Vivo Y27,Vivo,13747665,3,41242995,Kartu Kredit,3,Terkirim
+ORD01483,2025/07/10,Vinsen Palastri,Banjarmasin,Galaxy S23,Samsung,5131304,2,10262608,E-Wallet,4,Terkirim
+ORD01484,2025-06-18,Anita Palastri,palembang,Galaxy A14,samsung,99999999,1,15965299,COD,5,Terkirim
+ORD01485,2025/01/26,Lintang Lazuardi,Serang,iPhone 14 Pro,Apple,99999999,2,18887654,Kartu Kredit,4,Terkirim
+ORD01486,2025/06/24,"Halim Nurdiyanti, S.I.Kom",Tangerang Selatan,Realme C55,Realme,6183710,2,12367420,Transfer Bank,5,Terkirim
+ORD01487,2025-06-06,Ana Siregar,Cimahi,Realme 11 Pro,Realme,1743334,1,1743334,E-Wallet,2,Terkirim
+ORD01488,2025-05-03,Opung Susanti,makassar,Realme C55,realme,6183710,1,6183710,Transfer Bank,4,Terkirim
+ORD01489,,"Daryani Safitri, S.H.",Kota Administrasi Jakarta Barat,Redmi Note 12,Xiaomi,15542345,3,46627035,Kartu Kredit,4,Terkirim
+ORD01490,2025-02-27,Violet Budiman,TERNATE,Vivo Y27,VIVO,13747665,2,27495330,E-Wallet,5,Terkirim
+ORD01491,2025-07-16,"Humaira Dongoran, M.Ak",PALOPO,OPPO A57,OPPO,13851031,,13851031,Transfer Bank,3,Terkirim
+ORD01492,2025-03-18,R.A. Irma Sinaga,KUPANG,iPhone 14 Pro,APPLE,9443827,3,28331481,Kartu Kredit,5,Terkirim
+ORD01493,2025-03-18,Intan Zulaika,Manado,Vivo V29,Vivo,8682500,2,17365000,COD,,Terkirim
+ORD01494,2025-04-09,,salatiga,Poco X5,xiaomi,9263873,3,27791619,E-Wallet,3,Dalam Pengiriman
+ORD01495,02-13-2025,Tgk. Karta Pudjiastuti,denpasar,iPhone 13,apple,11425080,1,11425080,COD,2,Terkirim
+ORD01496,2025-03-26,Daliman Sitompul,yogyakarta,Galaxy A14,samsung,15965299,,31930598,COD,5,Terkirim
+ORD01497,2025/02/04,Dr. Chelsea Sirait,Gorontalo,Galaxy S23,Samsung,5131304,1,,Transfer Bank,3,Terkirim
+ORD01498,07-21-2025,Abyasa Permata,Bogor,OPPO Reno10,OPPO,16139773,1,16139773,COD,3,Terkirim
+ORD01499,2025/05/04,Jaya Laksita,bandung,Galaxy A14,samsung,15965299,3,47895897,COD,3,Terkirim
+ORD01500,2025-03-09,Puspa Manullang,Prabumulih,Poco X5,Xiaomi,,3,27791619,COD,5,Terkirim
+ORD00498,2025-03-14,Koko Maheswara,LANGSA,OPPO A57,OPPO,13851031,1,13851031,COD,2,Terkirim
+ORD01037,2025-06-05,"dr. Amelia Jailani, M.TI.",Pematangsiantar,OPPO Reno10,OPPO,16139773,3,48419319,E-Wallet,4,Terkirim
+ORD00358,2025-03-07,"H. Slamet Anggriawan, M.Ak",Kota Administrasi Jakarta Pusat,iPhone 13,Apple,11425080,3,34275240,COD,4,Terkirim
+,2025-06-18,Darsirah Kuswoyo,Bau-Bau,iPhone 14 Pro,Apple,9443827,3,28331481,Transfer Bank,4,Terkirim
+ORD00360,04-27-2025,"Hana Firmansyah, S.Kom",Bima,Vivo Y27,Vivo,1,3,41242995,COD,4,Terkirim
+ORD01420,2025-03-13,Maman Samosir,KOTA ADMINISTRASI JAKARTA PUSAT,Vivo Y27,VIVO,13747665,2,27495330,Transfer Bank,3,Terkirim
+ORD01251,2025/03/15,"Hj. Ika Andriani, S.Psi",Medan,Galaxy A14,Samsung,1,3,47895897,Transfer Bank,3,Terkirim
+ORD00322,05-01-2025,Hafshah Hassanah,denpasar,OPPO A57,oppo,13851031,3,41553093,COD,2,Terkirim
+ORD00921,2025/02/12,Hasan Mustofa,Batam,OPPO Reno10,,16139773,1,16139773,E-Wallet,3,Terkirim
+ORD00946,2025-07-22,Sidiq Yolanda,Bandar Lampung,Redmi Note 12,Xiaomi,15542345,1,15542345,Transfer Bank,3,Gagal
+ORD00630,03-25-2025,Pranata Marpaung,TANGERANG SELATAN,iPhone 14 Pro,APPLE,9443827,2,18887654,,4,Terkirim
+ORD00326,2025-03-23,Ilsa Safitri,probolinggo,Realme 11 Pro,realme,1743334,1,1743334,E-Wallet,4,Terkirim
+ORD01132,2025/04/01,Cawisono Haryanti,Kotamobagu,Realme 11 Pro,Realme,1743334,2,3486668,E-Wallet,4,Gagal
+ORD00840,2025/06/21,drg. Dalima Nashiruddin,Tanjungpinang,Poco X5,Xiaomi,9263873,2,18527746,COD,4,Terkirim
+ORD00729,2025/02/22,"Paramita Lailasari, M.TI.",,OPPO A57,OPPO,13851031,3,41553093,Kartu Kredit,3,Terkirim
+ORD01228,2025-06-14,"KH. Lukman Hardiansyah, S.Psi",Jambi,,Samsung,15965299,2,31930598,Transfer Bank,3,Terkirim
+ORD00711,2025-02-04,Dipa Laksita,dumai,Galaxy A14,samsung,15965299,3,47895897,Transfer Bank,5,Terkirim
+ORD00450,2025-02-27,Heru Saptono,Ambon,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,4,Gagal
+ORD00959,2025-07-24,"Unggul Anggraini, S.E.I",Kota Administrasi Jakarta Utara,Galaxy A14,Samsung,15965299,3,47895897,Transfer Bank,4,Gagal
+ORD00953,2025-06-19,"Cahya Pratama, S.Sos",salatiga,,vivo,8682500,3,26047500,E-Wallet,4,Terkirim
+ORD01324,2025/03/25,Artanto Dongoran,,iPhone 13,apple,11425080,1,11425080,Kartu Kredit,3,Terkirim
+,2025-06-15,Tgk. Karman Narpati,Langsa,Poco X5,Xiaomi,9263873,1,9263873,Kartu Kredit,3,Terkirim
+ORD00836,2025-03-08,Mutia Purnawati,Pekalongan,iPhone 14 Pro,Apple,9443827,1,9443827,E-Wallet,,Terkirim
+,2025-04-02,R.M. Caturangga Mandasari,Kota Administrasi Jakarta Timur,Galaxy A14,Samsung,15965299,2,31930598,Kartu Kredit,5,Terkirim
+ORD00636,2025-03-15,Tirtayasa Adriansyah,Banda Aceh,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,5,Dalam Pengiriman
+ORD00844,2025/07/04,Jindra Irawan,MANADO,,APPLE,11425080,3,34275240,Transfer Bank,3,Terkirim
+ORD01349,2025/05/06,Tgk. Cagak Suartini,SALATIGA,Realme 11 Pro,REALME,1743334,1,1743334,Transfer Bank,4,
+ORD00791,2025-03-11,Ghani Hariyah,Surabaya,Redmi Note 12,Xiaomi,99999999,,15542345,E-Wallet,4,Terkirim
+ORD01456,2025-03-04,Vanesa Yuniar,Denpasar,iPhone 14 Pro,Apple,9443827,3,28331481,E-Wallet,4,Terkirim
+ORD01097,2025/03/29,Najam Mansur,MAKASSAR,iPhone 13,APPLE,11425080,1,11425080,Kartu Kredit,,Terkirim
+ORD00968,2025-05-21,"Rahman Prasasta, S.IP",BANDUNG,OPPO A57,,13851031,3,41553093,Transfer Bank,1,Terkirim
+ORD01450,2025-07-14,"Viktor Suryatmi, S.Sos",Pangkalpinang,Poco X5,Xiaomi,9263873,3,27791619,Transfer Bank,5,Terkirim
+ORD00214,2025/03/10,Citra Kusmawati,Pekalongan,Redmi Note 12,,15542345,2,31084690,Transfer Bank,4,Terkirim
+ORD00426,2025-04-30,Lidya Kurniawan,tangerang,Redmi Note 12,xiaomi,15542345,1,15542345,Transfer Bank,,Gagal
+ORD00077,2025-02-01,Jarwadi Tamba,BEKASI,Redmi Note 12,XIAOMI,15542345,2,31084690,Kartu Kredit,1,Terkirim
+ORD01128,2025-04-24,Farhunnisa Wibowo,Sabang,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,4,Terkirim
+ORD01348,2025-02-27,Tgk. Upik Mustofa,Bau-Bau,Redmi Note 12,Xiaomi,15542345,3,46627035,COD,3,Gagal
+ORD01363,2025-03-10,,depok,Galaxy A14,samsung,15965299,1,15965299,COD,5,Terkirim
+ORD01165,2025/04/22,"Sutan Lukita Susanti, M.Farm",Sungai Penuh,Realme C55,Realme,,3,18551130,Kartu Kredit,4,Terkirim
+ORD00040,2025-04-09,"Sutan Kawaya Wulandari, S.Sos",pariaman,Redmi Note 12,xiaomi,15542345,1,15542345,E-Wallet,4,Terkirim
+ORD00839,2025/03/15,,DUMAI,Realme 11 Pro,REALME,1743334,1,1743334,COD,2,Terkirim
+ORD01267,2025-02-27,Nasim Ramadan,Bandar Lampung,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,4,Dalam Pengiriman
+,07-21-2025,Siti Tamba,BANJAR,iPhone 14 Pro,APPLE,9443827,2,18887654,Transfer Bank,3,Terkirim
+ORD00032,2025-07-01,Sabrina Mustofa,tual,iPhone 13,apple,11425080,2,22850160,Transfer Bank,4,Terkirim
+ORD01136,07-02-2025,Jabal Prakasa,Makassar,Galaxy S23,Samsung,5131304,1,5131304,E-Wallet,4,Terkirim
+ORD01340,2025-03-24,Karman Haryanto,Ternate,OPPO A57,OPPO,13851031,2,27702062,Transfer Bank,3,Terkirim
+ORD00256,05-04-2025,"drg. Olivia Ramadan, M.Ak",Solok,iPhone 13,Apple,11425080,1,11425080,Transfer Bank,5,Terkirim
+ORD00293,04-15-2025,Enteng Siregar,kendari,Realme 11 Pro,realme,1743334,3,5230002,Transfer Bank,4,Terkirim
+ORD00674,2025-05-16,"Tgk. Lantar Hutagalung, M.Kom.",Mojokerto,Galaxy A14,Samsung,15965299,2,31930598,E-Wallet,5,Terkirim
+ORD00942,2025/02/24,Salsabila Fujiati,MEDAN,Redmi Note 12,XIAOMI,15542345,3,46627035,E-Wallet,4,Terkirim
+ORD01393,2025-03-25,,bekasi,Realme C55,realme,6183710,2,12367420,E-Wallet,5,Terkirim
+ORD00520,2025-05-17,Irma Permadi,Subulussalam,Vivo Y27,Vivo,13747665,1,13747665,Transfer Bank,4,Terkirim
+ORD00651,2025-02-25,Lega Lazuardi,tarakan,Realme 11 Pro,realme,1743334,,1743334,Kartu Kredit,3,Terkirim
+ORD01144,2025-06-27,Raisa Januar,Bitung,Vivo Y27,Vivo,13747665,1,13747665,COD,4,Terkirim
+ORD00067,2025-04-18,Anastasia Sinaga,Cilegon,Realme C55,Realme,6183710,2,12367420,Transfer Bank,4,Terkirim
+ORD00064,2025-04-23,Emas Putra,PRABUMULIH,Poco X5,XIAOMI,9263873,2,18527746,,3,Terkirim
+ORD00369,02-23-2025,Nasab Maryadi,Kotamobagu,Vivo V29,Vivo,8682500,1,8682500,E-Wallet,2,Terkirim
+ORD00917,2025-06-01,"Oni Irawan, S.Farm",sawahlunto,iPhone 13,apple,99999999,3,34275240,Transfer Bank,3,Terkirim
+ORD00595,2025-04-08,Raina Maryadi,Kendari,Realme C55,Realme,6183710,2,12367420,COD,3,Terkirim
+ORD00549,2025/04/08,Jelita Agustina,parepare,Realme 11 Pro,realme,1743334,2,3486668,Transfer Bank,4,Terkirim
+ORD00012,2025-06-11,Queen Maheswara,Kediri,OPPO A57,OPPO,13851031,2,27702062,E-Wallet,4,Terkirim
+ORD00059,2025-04-21,Hadi Agustina,MANADO,Redmi Note 12,XIAOMI,15542345,1,15542345,Transfer Bank,5,Terkirim
+ORD00747,05-28-2025,Jaka Utami,Salatiga,iPhone 13,Apple,,2,22850160,E-Wallet,2,Terkirim
+ORD01115,2025/05/19,Rini Siregar,LUBUKLINGGAU,iPhone 13,APPLE,11425080,2,22850160,Transfer Bank,3,Terkirim
+ORD00662,05-15-2025,Lintang Mayasari,Banjarmasin,OPPO Reno10,OPPO,16139773,1,16139773,Transfer Bank,,Terkirim
+ORD00673,2025-02-02,Malika Wijaya,singkawang,Realme C55,realme,6183710,2,12367420,E-Wallet,3,Terkirim
+ORD01043,2025-01-26,Paiman Purnawati,TEBINGTINGGI,iPhone 14 Pro,APPLE,9443827,,18887654,E-Wallet,5,Terkirim
+ORD00765,2025-04-28,drg. Malika Wacana,mataram,OPPO A57,oppo,13851031,3,41553093,Transfer Bank,4,
+ORD00578,04-04-2025,Pia Usada,Pariaman,Realme 11 Pro,Realme,1743334,1,1743334,Transfer Bank,4,Terkirim
+ORD01003,2025-03-23,"Dt. Budi Sudiati, S.Pt",Makassar,Galaxy S23,Samsung,5131304,2,10262608,Transfer Bank,4,Terkirim
+ORD00301,2025-05-15,Darmaji Budiman,Makassar,Redmi Note 12,Xiaomi,15542345,3,46627035,Transfer Bank,,Terkirim
+ORD00767,2025-06-12,Puti Ira Marbun,Surakarta,Poco X5,Xiaomi,9263873,1,9263873,Transfer Bank,4,Terkirim
+ORD01168,2025/06/17,"R.A. Hani Nasyiah, M.Ak",Ternate,Galaxy A14,,15965299,3,47895897,Transfer Bank,4,Terkirim
+ORD00003,2025-06-30,"Tami Iswahyudi, S.Kom",Tual,Realme C55,Realme,6183710,1,6183710,Transfer Bank,1,Terkirim
+ORD00457,2025-02-26,Patricia Fujiati,Sukabumi,OPPO A57,OPPO,13851031,3,41553093,Transfer Bank,4,Terkirim
